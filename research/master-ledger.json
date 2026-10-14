@@ -8,7 +8,7 @@
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "User reports GitHub Pages deployed. Latest research-desk update committed; external fetch blocked, Pages workflow observed in progress, so latest live revision unverified.",
+    "site_live_status": "User previously reported GitHub Pages deployed. Research-only checkpoint 009 updated on main and verified in repository, but live Pages URL fetch remains blocked/unverified for latest revision.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -996,6 +996,15 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "Pages workflow triggered and in progress; external GitHub Pages fetch unavailable. Not verified live."
+    },
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "63e1c07df756cef6d2a642c26eff7d570cbd178e",
+      "description": "Updated dated research-only snapshot to checkpoint 009: four unpublished dossiers, 43 registered source entries, four leads, zero editorially approved verdicts. Link points to new checkpoint. No draft case or verdict inserted into public data.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Main branch file readback verified. Live Pages latest revision could not be fetched; not verified live."
     }
   ],
   "corrections": [
@@ -1039,6 +1048,8 @@
       "research/cases/RAGA-2024-0001.md",
       "research/checkpoints/RAGA-20261015-009.md"
     ],
-    "deployment_verification": "GitHub Pages public URL external client returned DisabledError, so live check not passed. Pending website status snapshot update."
+    "deployment_verification": "GitHub commit 63e1c07d updated index.html research status to 4 dossiers/43 sources; HTML section count and 00 approved check passed. Live Pages request yielded DisabledError; status not verified live.",
+    "site_update_commit": "63e1c07df756cef6d2a642c26eff7d570cbd178e",
+    "checkpoint_file_commit": "a951c5762031973ecf5714b39d6c6a65cc21eea8"
   }
 }
