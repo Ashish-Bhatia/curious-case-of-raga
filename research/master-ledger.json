@@ -1,0 +1,484 @@
+{
+  "schema_version": "research-1.0",
+  "checkpoint_id": "RAGA-20261015-001",
+  "review_date": "2026-10-15",
+  "timezone": "Asia/Kolkata",
+  "scope": "Selective initial audit and three-claim source discovery, not a complete 2004-2026 search",
+  "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
+  "repository_baseline": {
+    "branch": "main",
+    "public_cases": 0,
+    "site_live_status": "unverified: external fetch failed",
+    "files_inspected": [
+      "README.md",
+      "CASE_SCHEMA.md",
+      "index.html",
+      "app.js",
+      "styles.css",
+      "data/cases.json"
+    ]
+  },
+  "status_definitions": {
+    "not searched": "No targeted lookup conducted in this checkpoint",
+    "searched but not found": "Targeted lookup attempted, record not retrieved",
+    "found but inaccessible": "A source link/index hit exists but record access failed",
+    "investigating": "Some source material inspected; required corroboration or source authentication remains",
+    "review pending": "Substantive analysis drafted, editorial approval absent",
+    "published": "Meets editorial publication gate and is in data/cases.json",
+    "verified live": "Publication was externally fetched from Pages and checked"
+  },
+  "sources": [
+    {
+      "id": "S-2019-01",
+      "class": "primary-reproduction",
+      "status": "retrieved third-party reproduction; authenticated court-domain copy not obtained",
+      "date": "2019-04-15",
+      "accessed": "2026-10-15",
+      "title": "Supreme Court Record of Proceedings, Meenakshi Lekhi v Rahul Gandhi, contempt petition 3/2019",
+      "url": "https://indiankanoon.org/doc/137054189/",
+      "locator": "15 April 2019 order, operative paragraph: no finding about alleged corruption was made"
+    },
+    {
+      "id": "S-2019-02",
+      "class": "primary-reproduction",
+      "status": "retrieved third-party reproduction; authenticated court-domain copy not obtained",
+      "date": "2019-11-14",
+      "accessed": "2026-10-15",
+      "title": "Yashwant Sinha v CBI and connected matters, Supreme Court judgment, contempt petition 3/2019",
+      "url": "https://indiankanoon.org/doc/26499003/",
+      "locator": "Judgment by S.K. Kaul J., paras 26-33, judgment pages 12-15"
+    },
+    {
+      "id": "S-2019-03",
+      "class": "firsthand-media-footage",
+      "status": "news outlet hosts contemporaneous video with reporting; exact complete footage/context not reviewed",
+      "date": "2019-04-10",
+      "accessed": "2026-10-15",
+      "title": "Times Now video: Rahul Gandhi remarks after Rafale admissibility ruling",
+      "url": "https://timesofindia.indiatimes.com/videos/news/sc-agrees-that-chowkidar-chor-hai-rahul-gandhi/videoshow/68813481.cms",
+      "locator": "10 April 2019 media remarks"
+    },
+    {
+      "id": "S-2025-01",
+      "class": "claimant-party-transcript",
+      "status": "retrieved; partisan editorial transcript, not verified against full uninterrupted recording",
+      "date": "2025-08-27",
+      "claim_date": "2025-08-07",
+      "accessed": "2026-10-15",
+      "title": "Indian National Congress summary/transcript of 7 August 2025 vote chori briefing",
+      "url": "https://inc.in/congress-sandesh/national/a-systematic-multi-pronged-approach-the-bjp-controlled-eci",
+      "locator": "Highlights of 7 August press conference, 1,00,250 and five categories"
+    },
+    {
+      "id": "S-2025-02",
+      "class": "independent-firsthand-reporting",
+      "status": "retrieved",
+      "date": "2025-08-08",
+      "accessed": "2026-10-15",
+      "title": "India Today field verification: 80 voters listed at one small Mahadevapura room",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/rahul-gandhi-ev-vote-fraud-bengaluru-mahadevapura-congress-india-today-muni-reddy-garden-votes-2768207-2025-08-08",
+      "locator": "Ground reporting and BLO/property-owner interviews"
+    },
+    {
+      "id": "S-2025-03",
+      "class": "independent-firsthand-reporting",
+      "status": "retrieved",
+      "date": "2025-08-09",
+      "accessed": "2026-10-15",
+      "title": "The News Minute field verification, Munni Reddy Layout",
+      "url": "https://www.thenewsminute.com/preview/story/wwOgRO6LyizyGi189tNi_WukCTZlizpcE4XM4TAGNrrLryubL-RB8RveSUMMWjP8",
+      "locator": "Room No. 35 and residents/owner interviews"
+    },
+    {
+      "id": "S-2025-04",
+      "class": "independent-firsthand-reporting",
+      "status": "retrieved",
+      "date": "2025-08-13",
+      "accessed": "2026-10-15",
+      "title": "Indian Express independent checks of three Mahadevapura bulk-voter addresses",
+      "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-vote-chori-why-numbers-misleading-mahadevapura-floating-migrant-hub-10185848/lite/",
+      "locator": "194 registered electors at three changing-tenancy sites; no verified proof of ballots cast"
+    },
+    {
+      "id": "S-2025-05",
+      "class": "institutional-response-via-independent-report",
+      "status": "reproduced in reporting; original dated ECI/CEO signed notice still requested",
+      "date": "2025-08-07",
+      "accessed": "2026-10-15",
+      "title": "Indian Express reporting on CEO Karnataka request for a sworn declaration",
+      "url": "https://indianexpress.com/article/cities/bangalore/rahul-gandhi-vote-chori-allegation-karnataka-election-chief-ask-evidence-under-oath-10175830/",
+      "locator": "Request to provide names and basis for alleged wrongful additions"
+    },
+    {
+      "id": "S-2024-01",
+      "class": "official-video-page",
+      "status": "official Sansad TV page retrieved; video itself not reviewed against a full timed transcript",
+      "date": "2024-07-01",
+      "posted": "2024-07-04",
+      "accessed": "2026-10-15",
+      "title": "Sansad TV Rahul Gandhi remarks, Motion of Thanks, 18th Lok Sabha",
+      "url": "https://sansadtv.nic.in/loksabha/rahul-gandhis-remarks-motion-of-thanks-on-the-presidents-address-in-18thloksabha",
+      "locator": "Entire speech video page"
+    },
+    {
+      "id": "S-2026-01",
+      "class": "claimant-party-video-page",
+      "status": "original publisher page retrieved; speech and specific factual assertions not yet transcribed",
+      "date": "2026-10-14",
+      "accessed": "2026-10-15",
+      "title": "Indian National Congress special press conference, Vote Chori Factory",
+      "url": "https://inc.in/media/videos/special-press-conference-vote-chori-factory-rahul-gandhi",
+      "locator": "Official video landing page"
+    }
+  ],
+  "cases": [
+    {
+      "id": "RAGA-2019-0001",
+      "year": 2019,
+      "title": "Attributing 'chowkidar chor hai' findings to the Supreme Court",
+      "speaker": "Rahul Gandhi",
+      "date": "2019-04-10",
+      "original_language": "Hindi/English mixed; exact uninterrupted verbatim transcript pending",
+      "medium": "remarks to media after Rafale admissibility order",
+      "claim_text": "Court-recorded description: Rahul Gandhi attributed to the Supreme Court the view that 'Chowkidar (Mr. Narendra Modi, Prime Minister) is a thief'. This is not labeled a verbatim recording transcript.",
+      "claim_url": "https://timesofindia.indiatimes.com/videos/news/sc-agrees-that-chowkidar-chor-hai-rahul-gandhi/videoshow/68813481.cms",
+      "claim_type": "assertion about court finding",
+      "testable_propositions": [
+        "The Supreme Court judicially found or endorsed the assertion that Narendra Modi was a thief or guilty of Rafale corruption."
+      ],
+      "institution": "Judiciary",
+      "topic": "Rafale, judiciary and political speech",
+      "provisional_verdict": "False",
+      "confidence": "high on the narrow proposition; original full recording remains to be authenticated",
+      "status": "review pending",
+      "case_dossier": "research/cases/RAGA-2019-0001.md",
+      "source_ids": [
+        "S-2019-01",
+        "S-2019-02",
+        "S-2019-03"
+      ],
+      "evidence_for": [
+        "Contemporaneous recorded-video page establishes an attribution was publicly reported; judgment itself describes the attribution."
+      ],
+      "evidence_against": [
+        "15 Apr 2019 Supreme Court order explicitly disclaimed any such finding, limiting the 10 Apr decision to admissibility of documents.",
+        "14 Nov 2019 judgment paras 26-33 records attribution, unconditional apology on 8 May, and closure with caution."
+      ],
+      "counterargument": "Gandhi described his rhetoric as heat-of-campaign and said the attribution was unintentional. That speaks to intent, not truth of the attributed judicial finding.",
+      "limitations": [
+        "Court-domain signed PDFs not obtained",
+        "Whole April 10 recording and surrounding remarks not transcribed",
+        "No broader verdict here on merits of the Rafale corruption allegations"
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Retrieve Court-hosted 10 Apr, 15 Apr and 14 Nov documents and complete video; submit to human editor"
+    },
+    {
+      "id": "RAGA-2025-0001",
+      "year": 2025,
+      "title": "Mahadevapura: 1,00,250 allegedly stolen votes",
+      "speaker": "Rahul Gandhi",
+      "date": "2025-08-07",
+      "original_language": "English, based on Congress summary; full unedited video verification pending",
+      "medium": "press conference, Indira Bhawan, New Delhi",
+      "claim_text": "Congress-edited highlights: 'approximately 1,00,250 votes were stolen out of 6.5 lakh total votes in Mahadevapura.'",
+      "claim_url": "https://inc.in/congress-sandesh/national/a-systematic-multi-pronged-approach-the-bjp-controlled-eci",
+      "claim_type": "quantitative electoral fraud and causal allegation",
+      "testable_propositions": [
+        "Exactly or approximately 100,250 fraudulent ballots were cast or counted in 2024.",
+        "Five categories of suspicious electoral roll entries reliably identify unique ineligible voters rather than overlapping entries or stale address records.",
+        "The suspicious entries caused the result in Bangalore Central to change.",
+        "BJP and ECI intentionally colluded in this alleged manipulation."
+      ],
+      "institution": "Election Commission of India",
+      "topic": "Electoral rolls, 2024 Bangalore Central / Mahadevapura",
+      "provisional_verdict": "Unsubstantiated",
+      "confidence": "moderate on failure to establish ballot theft, not a finding that rolls were clean",
+      "status": "investigating",
+      "case_dossier": "research/cases/RAGA-2025-0001.md",
+      "source_ids": [
+        "S-2025-01",
+        "S-2025-02",
+        "S-2025-03",
+        "S-2025-04",
+        "S-2025-05"
+      ],
+      "evidence_for": [
+        "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
+        "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification."
+      ],
+      "evidence_against": [
+        "An entry in a voter roll is not proof that a ballot was cast; no identified voter-level ballot reconciliation or deduplicated methodology retrieved.",
+        "Mobility and legitimate historic occupancy explain some high address counts, while not dispelling stale/ineligible entries.",
+        "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity."
+      ],
+      "limitations": [
+        "Constituency 2024 source voter roll and supplemental logs not retrieved",
+        "Potential category overlaps not evaluated",
+        "Official votes-cast records and tendered-voter/marked-roll information missing",
+        "Full original event recording not checked",
+        "CEO signed notice missing"
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Obtain dated 2024 roll snapshots, Form 6/7/8 adjudications, Form 17C and poll-station records where law permits; examine category overlap and turnout"
+    }
+  ],
+  "leads": [
+    {
+      "id": "LEAD-2020-01",
+      "date": "2020-06-20",
+      "topic": "China/Ladakh",
+      "description": "Rahul Gandhi allegation that PM surrendered territory; separate legal/geographic border claims from rhetorical characterisation",
+      "source": "https://www.indiatoday.in/india/story/rahul-gandhi-narendra-modi-china-india-clash-ladakh-1690862-2020-06-20",
+      "status": "lead only; original tweet and official location records missing",
+      "verdict": null
+    },
+    {
+      "id": "LEAD-2022-01",
+      "date": "2022-11-26",
+      "topic": "Constitution and RSS",
+      "description": "Party-hosted speech/video with allegation about BJP/RSS and Constitution; exact factual subclaims not extracted",
+      "source": "https://inc.in/media/speeches/bjp-rss",
+      "status": "lead only",
+      "verdict": null
+    },
+    {
+      "id": "LEAD-2024-01",
+      "date": "2024-07-01",
+      "topic": "Parliament and religion",
+      "description": "Official Sansad TV speech; test disputed interpretations in full context",
+      "source": "https://sansadtv.nic.in/loksabha/rahul-gandhis-remarks-motion-of-thanks-on-the-presidents-address-in-18thloksabha",
+      "status": "primary page located; video passage verification pending",
+      "verdict": null
+    },
+    {
+      "id": "LEAD-2026-01",
+      "date": "2026-10-14",
+      "topic": "Elections/SIR",
+      "description": "Congress posted Vote Chori Factory briefing; claims and evidence packet require first extraction",
+      "source": "https://inc.in/media/videos/special-press-conference-vote-chori-factory-rahul-gandhi",
+      "status": "original publisher page located; original video not authenticated end-to-end",
+      "verdict": null
+    }
+  ],
+  "year_index": {
+    "2004": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2005": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2006": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2007": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2008": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2009": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2010": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2011": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2012": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2013": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2014": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2015": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2016": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2017": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2018": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2019": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "RAGA-2019-0001"
+      ]
+    },
+    "2020": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "LEAD-2020-01"
+      ]
+    },
+    "2021": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2022": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "LEAD-2022-01"
+      ]
+    },
+    "2023": {
+      "status": "not searched",
+      "entries": []
+    },
+    "2024": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "LEAD-2024-01"
+      ]
+    },
+    "2025": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "RAGA-2025-0001"
+      ]
+    },
+    "2026": {
+      "status": "selective leads found; systematic year search incomplete",
+      "entries": [
+        "LEAD-2026-01"
+      ]
+    }
+  },
+  "coverage_matrix": [
+    {
+      "domain": "Election Commission / SIR / EVM / voter rolls",
+      "reviewed": [
+        "RAGA-2025-0001"
+      ],
+      "leads": [
+        "LEAD-2026-01"
+      ],
+      "coverage": "selective initial search"
+    },
+    {
+      "domain": "Judiciary and courts",
+      "reviewed": [
+        "RAGA-2019-0001"
+      ],
+      "leads": [],
+      "coverage": "selective initial search"
+    },
+    {
+      "domain": "Parliament and constitutional offices",
+      "reviewed": [],
+      "leads": [
+        "LEAD-2024-01"
+      ],
+      "coverage": "partial discovery"
+    },
+    {
+      "domain": "Armed forces, borders and defence procurement",
+      "reviewed": [],
+      "leads": [
+        "LEAD-2020-01"
+      ],
+      "coverage": "partial discovery; Rafale attribution tracked under judiciary"
+    },
+    {
+      "domain": "BJP/RSS and Constitution",
+      "reviewed": [],
+      "leads": [
+        "LEAD-2022-01"
+      ],
+      "coverage": "partial discovery"
+    },
+    {
+      "domain": "Economy / jobs / RBI / CAG / SEBI / welfare",
+      "reviewed": [],
+      "leads": [],
+      "coverage": "not searched"
+    },
+    {
+      "domain": "CBI / ED and regulator allegations",
+      "reviewed": [],
+      "leads": [],
+      "coverage": "not searched"
+    },
+    {
+      "domain": "Agriculture / social policy",
+      "reviewed": [],
+      "leads": [],
+      "coverage": "not searched"
+    },
+    {
+      "domain": "International affairs and diplomacy",
+      "reviewed": [],
+      "leads": [],
+      "coverage": "not searched"
+    }
+  ],
+  "queues": {
+    "investigating": [
+      "RAGA-2025-0001"
+    ],
+    "review_pending": [
+      "RAGA-2019-0001"
+    ],
+    "historical_backlog": [
+      "2004-2018 annual original-speech discovery",
+      "2018 Rafale contract/pricing assertions",
+      "2020 Ladakh border claim",
+      "2022 RSS/Constitution claims",
+      "2024 full parliamentary speech review"
+    ],
+    "recent_claims": [
+      "LEAD-2026-01",
+      "2025 Bihar SIR data and court orders"
+    ],
+    "primary_source_missing": [
+      "Original full 10 Apr 2019 Gandhi media statement and Supreme Court-hosted court orders",
+      "Original 7 Aug 2025 complete Congress briefing",
+      "Mahadevapura 2024 rolls and polling station-level records",
+      "Karnataka CEO signed notice and subsequent filings",
+      "2026-10-14 full briefing transcript and original evidence"
+    ],
+    "recheck": [
+      "RAGA-2025-0001"
+    ],
+    "publication_ready": [],
+    "published": []
+  },
+  "site_changes": [],
+  "corrections": [],
+  "next_three": [
+    "Authenticate 2019 official Supreme Court judgments and full April 10 statement; request editorial review",
+    "Reconcile 2025 Mahadevapura 100,250 category totals against official roll, poll-day marks and independent on-site counterevidence",
+    "Transcribe and break down 14 Oct 2026 Congress briefing against SIR rules, ECI numbers and latest court orders"
+  ]
+}
