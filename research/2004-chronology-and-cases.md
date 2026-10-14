@@ -22,7 +22,14 @@ Publication gate: research notes only. No case below is approved or published, a
 | 2004-03-30 | RAGA-2004-0001 | BJP allegedly treats India's development as already complete. | REVIEW PENDING; original unedited remarks missing | Unresolved / medium |
 | 2004-04-07 | — | Autobiographical statement about choosing politics during his father's funeral journey; recorded by contemporary journalist, not part of this BJP institutional scrutiny. | contextual lead | N/A |
 | 2004-04-15 | RAGA-2004-0002 | Citizens in Uttar Pradesh allegedly do not recognise the India Shining campaign; critique of its reach. | REVIEW PENDING; original remarks and awareness data missing | Unsubstantiated / medium-low |
-| 2004-04-16 to 2004-12-31 | — | Remaining months not yet systematically searched. Do not advance to 2005 yet. | NOT SEARCHED | N/A |
+| 2004-04-16 to 2004-06-07 | — | Focused discovery incomplete; earlier qualifying remarks might exist. | SEARCHED, NOT FOUND (limited search) | N/A |
+| 2004-06-08 | LEAD-2004-06-08 | Criticism of Uttar Pradesh law and order and Congress-SP coordination. | DISCOVERY ONLY, original speech missing | No verdict assigned |
+| 2004-06-09 | LEAD-2004-06-09 | Denial of dual power centres in UPA government, assertion of no interference; claim that POTA had been misused; comments about earlier NDA campaign. | DISCOVERY ONLY, original PTI encounter missing | No verdict assigned |
+| 2004-07-27 | LEAD-2004-07-27 | Claims of deteriorating UP governance, alleged murder of party worker and deficient services. | DISCOVERY ONLY, underlying records not checked | No verdict assigned |
+| 2004-10-13 | LEAD-2004-10-13 | Gandhi-Bachchan relationship accusations, original provenance not found; reported retrospectively. | DISCOVERY ONLY, out of priority until earlier leads addressed | No verdict assigned |
+| 2004-10-14 | LEAD-2004-10-14 | Acknowledgment of excesses during the Emergency, reported from Amethi press interaction; test against 1975-77 primary records. | DISCOVERY ONLY, speech recording missing | No verdict assigned |
+| 2004-11-16 | — | Personal statement that becoming PM was not his goal, not an independent testable claim about BJP/institutions. | Contextual documentation | Opinion / prediction (not a numbered claim case) |
+| 2004-11-17 to 2004-12-31 | — | Focused discovery incomplete. | NOT SEARCHED | N/A |
 
 ### RAGA-2004-0001: BJP's development messaging attributed as 'fully developed'
 - Claimant: Rahul Gandhi.
@@ -64,6 +71,19 @@ Publication gate: research notes only. No case below is approved or published, a
 - Open primary evidence: original April 15 interview/audio; a contemporaneous awareness survey with Uttar Pradesh subsample, questionnaire wording, fieldwork dates, weights and uncertainty; original 2004 ads (including Hindi-language translations).
 - Reviewer: editorial approval **pending**; primary source of Gandhi statement **not verified**; publication_status=draft; review_status=pending; primary_source_verified=false.
 
+
+## Further 2004 leads located during broader discovery (NO FINDINGS)
+All articles below are contemporary or retrospective reporting; **none** is an authenticated unedited recording. Statement dates are the reports' attributed dates and may require correction if direct material is found. These leads must be treated in the order listed above.
+
+- 8 June 2004, PTI, law and order and coordination in Uttar Pradesh, https://in.rediff.com/news/2004/jun/08rahul.htm (B; concerns SP-led state government, not a direct BJP claim).
+- 9 June 2004, PTI, no dual centres of power, POTA alleged misuse, https://www.rediff.com/news/report/rahul/20040609.htm (B; requires POTA records, government administrative actions, and actual claimant transcript).
+- 27 July 2004, PTI, Uttar Pradesh governance complaints, https://www.rediff.com/news/report/rahul/20040727.htm (B; requires government/statistical records and local incident documentation).
+- 13 October 2004, indirect retrospective quotation in Outlook, https://www.outlookindia.com/amp/story/national/the-b-i-g-freeze-news-225612 (C/B: reporting, original exchange not yet recovered).
+- 14 October 2004, Times of India report, Emergency excesses, https://timesofindia.indiatimes.com/india/Rahul-says-Emergency-saw-excesses/articleshow/885811.cms (B; positive/true claim must receive equal scrutiny).
+- 16 November 2004, PTI, personal goals and parliamentary experience, https://in.rediff.com/news/report/rahul/20041116.htm (B; subjective statement primarily contextual).
+
+Search limitation: web search ranking is **not exhaustive** and absence of a result is not proof that no contemporaneous statement exists. Assignment of stable RAGA-YYYY-NNNN IDs to these later leads is postponed until all earlier discoveries have been processed.
+
 ## Evidence records, current retrieval state
 | Source | Issued | Tier | Retrieved status |
 |---|---|---|---|
@@ -92,7 +112,8 @@ Publication gate: research notes only. No case below is approved or published, a
 1. Search for **pre-29 March 2004** first-person Rahul statements so the starting boundary is evidence based.
 2. Obtain Gandhi's **30 March 2004** full statement and original 2004 BJP campaign materials; re-evaluate RAGA-2004-0001 without assuming intent.
 3. Obtain 2004 Uttar Pradesh recognition data or label unsupported; re-evaluate RAGA-2004-0002.
-4. Sweep **16 April through December 2004**, date and index qualifying statements before opening 2005.
-5. Only after independent editorial approval, transform approved case(s) to CASE_SCHEMA.md fields in data/cases.json. Never treat working verdicts as public findings.
+4. Investigate **8 June 2004** remarks on Uttar Pradesh, then **9 June 2004** POTA and UPA governance assertions, before July and later 2004. Open no 2005 case until the chronological 2004 queue is reviewed.
+5. Perform a systematic coverage sweep of **16 April through December 2004** for other missing statements, especially all dated Lok Sabha interventions.
+6. Only after independent editorial approval, transform approved case(s) to CASE_SCHEMA.md fields in data/cases.json. Never treat working verdicts as public findings.
 
-Corrections this checkpoint: none. Publication changes this checkpoint: none. Explicitly **not** a complete 2004 historical index.
+Change history: initial 2004 case and source index, followed by June-November 2004 discovery additions. No published corrections. Publication changes this checkpoint: none. Explicitly **not** a complete 2004 historical index.
