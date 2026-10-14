@@ -410,6 +410,26 @@
       "title": "MEA Lok Sabha unstarred question 843 on Indo-China border-related agreements",
       "url": "https://www.mea.gov.in/lok-sabha.htm?dtl%2F39008%2FQUESTION_NO_843_INDOCHINA_AGREEMENT_ON_BORDERRELATED_ISSUES%2523%3A~%3Atext=India%252525252520and%252525252520China%252525252520reached%252525252520agreement%2Cthe%252525252520friction%252525252520points%252525252520of%2525252525202020.",
       "locator": "question 843 dated Feb 7 2025; 21 Oct 2024 patrolling agreement; official index text read; direct full page inaccessible"
+    },
+    {
+      "id": "S-2024-04",
+      "class": "primary-parliamentary-transcript",
+      "status": "official 403-page PDF opened and relevant pages indexed/visually inspected (PDF zero-based 133-134); public version includes explicit expungements; not verbatim for expunged words",
+      "date": "2024-07-01",
+      "accessed": "2026-10-15",
+      "title": "Lok Sabha Debates Original Version, First Session, 18th Lok Sabha, 1 July 2024",
+      "url": "https://sansad.in/getFile/debatestextmk/18/I/01.07.2024.pdf?source=loksabhadocs",
+      "locator": "contents PDF p.5 lists Rahul Gandhi at printed pp126-159; p.132–136 contested exchange; PDF zero-based pages 133 and 134 visually inspected; expungement footnote"
+    },
+    {
+      "id": "S-2024-05",
+      "class": "independent-publisher-video-lead",
+      "status": "verified publisher contemporaneous 1 July 2024 YouTube video listing and contextual description; uninterrupted clip playback and audio transcription not performed",
+      "date": "2024-07-01",
+      "accessed": "2026-10-15",
+      "title": "The Hindu: You are not a Hindu — Rahul Gandhi and PM Modi exchange words in Parliament",
+      "url": "https://www.youtube.com/watch?v=AnvK6ReSjJM",
+      "locator": "publisher describes opposing interpretations including Gandhi rebuttal mentioning BJP/RSS; original footage/timecodes pending"
     }
   ],
   "cases": [
@@ -632,8 +652,15 @@
       "topic": "Parliament and religion",
       "description": "Official Sansad TV speech; test disputed interpretations in full context",
       "source": "https://sansadtv.nic.in/loksabha/rahul-gandhis-remarks-motion-of-thanks-on-the-presidents-address-in-18thloksabha",
-      "status": "primary page located; video passage verification pending",
-      "verdict": null
+      "status": "official 1 July 2024 403-page debate PDF obtained and printed pp132–133 visually inspected; disputed speech words expunged; original Sansad TV video landing located but full playback/timestamps pending; no verdict",
+      "verdict": null,
+      "dossier": "research/leads/LEAD-2024-01.md",
+      "source_ids": [
+        "S-2024-01",
+        "S-2024-04",
+        "S-2024-05"
+      ],
+      "next_action": "Review uninterrupted official Sansad TV recording, original Hindi and gestures, compare expunged transcript; identify distinct fact-checkable claim before opening a case."
     },
     {
       "id": "LEAD-2026-01",
@@ -735,7 +762,7 @@
       "entries": []
     },
     "2024": {
-      "status": "selective leads found; systematic year search incomplete",
+      "status": "one parliamentary speech lead with official debates partly reviewed; systematic annual coverage incomplete",
       "entries": [
         "LEAD-2024-01"
       ]
@@ -778,7 +805,7 @@
       "leads": [
         "LEAD-2024-01"
       ],
-      "coverage": "partial discovery"
+      "coverage": "source authentication advanced for one 1 July 2024 lead; edited official parliamentary debate inspected, video/context pending"
     },
     {
       "domain": "Armed forces, borders and defence procurement",
@@ -848,7 +875,8 @@
       "2024 Form 17A/marked-roll material must be requested through lawful Rule 93 court-authorised procedure and checked for Rule 94 retention/disposal; 2023 ECI manual and statute now verified, but individual polling records are not.",
       "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication.",
       "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed.",
-      "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained."
+      "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained.",
+      "LEAD-2024-01: full uninterrupted official Sansad TV video and Hindi timecoded transcript still missing; official printed pp132–136 explicitly contain expungements, so central disputed words cannot be authenticated from edited debate text alone."
     ],
     "recheck": [
       "RAGA-2025-0001",
@@ -869,9 +897,9 @@
     }
   ],
   "next_three": [
-    "RAGA-2020-0001: recover exact 20 June original claimant post and attached media, ground maps and official patrol records to distinguish intrusion from alleged PM-directed cession.",
-    "LEAD-2024-01: inspect original Sansad TV 1 July 2024 Lok Sabha remarks with continuous passage and official debate record; isolate separately testable propositions.",
-    "Continue RAGA-2025-0001 primary-voter roll/Form 17C sourcing and genuine human review for RAGA-2019-0001; preserve both as unpublished."
+    "LEAD-2024-01: authenticate full 1 Jul 2024 Sansad TV speech with original Hindi/timecodes; compare with expunged Lok Sabha printed pp132–136. No premature verdict.",
+    "RAGA-2020-0001: recover 20 June original X post/attached media and independent geospatial & patrol records to test surrendered-territory causality.",
+    "Continue Mahadevapura original roll/poll-station verification (RAGA-2025-0001); keep RAGA-2019-0001 in review pending until human editor validates video and findings."
   ],
   "checkpoint_notes": {
     "id": "RAGA-20261015-007",
@@ -884,7 +912,9 @@
       "S-2020-04",
       "S-2020-05",
       "S-2020-06",
-      "S-2020-07"
+      "S-2020-07",
+      "S-2024-04",
+      "S-2024-05"
     ],
     "new_draft_cases": [
       "RAGA-2020-0001"
@@ -897,6 +927,14 @@
     "publication_approvals": 0,
     "site_verified_live": false,
     "source_status": "Claimant original X identified but inaccessible. Contemporaneous India Today embed/Reuters imagery reporting and PMO/Defence original statements inspected. Later 2025 MEA reply read only via indexed text.",
-    "editorial_verdict_changes": 0
+    "editorial_verdict_changes": 0,
+    "leads_advanced": [
+      "LEAD-2024-01"
+    ],
+    "new_research_files": [
+      "research/cases/RAGA-2020-0001.md",
+      "research/leads/LEAD-2024-01.md"
+    ],
+    "deployment_verification": "Attempted GitHub Pages homepage and data/cases.json; external tool returned DisabledError/inaccessible. GitHub repository main checked; live Pages not verified."
   }
 }
