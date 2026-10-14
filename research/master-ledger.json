@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-004",
+  "checkpoint_id": "RAGA-20261015-005",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Continuation of prior selective audit: authenticated 15 Apr 2019 court order, reviewed 14 Nov third-party court PDF, checked ECI 2024 segment figures, documented 2026 CMS/video date discrepancy. Not comprehensive.",
+  "scope": "Checkpoint 005: verified original election-law requirements and 2023 ECI manual, 2025 ECI explanatory FAQ, reported first-person denial and source authenticity limits for Mahadevapura. Selective research, not a complete historical audit.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -232,7 +232,7 @@
     {
       "id": "S-2025-07",
       "class": "first-party-claimant-full-video-located-not-reviewed",
-      "status": "Verified claimant's public Telegram announcement links the 7 Aug 2025 full YouTube conference; video title/URL found, uninterrupted footage NOT played or transcribed",
+      "status": "First-party verified Rahul Gandhi YouTube channel lists full conference as published 7 Aug 2025; primary description/title checked in search result. Full playback/transcript/timecodes NOT obtained; claim wording remains unverified verbatim.",
       "date": "2025-08-07",
       "accessed": "2026-10-15",
       "title": "Rahul Gandhi: Press Conference - #VoteChori | Indira Bhawan, New Delhi",
@@ -268,6 +268,46 @@
       "title": "INC original X post describing 1,00,250 alleged vote theft in Mahadevapura",
       "url": "https://x.com/INCIndia/status/1953398989186801815",
       "locator": "Contemporaneous embedded party post and Hindi excerpt at https://www.latestly.com/socially/india/news/rahul-gandhis-vote-chori-allegations-karnataka-ceo-sends-notice-to-congress-leader-asks-him-to-provide-documents-to-inquire-into-his-vote-theft-allegations-7051689.html"
+    },
+    {
+      "id": "S-1961-01",
+      "class": "primary-legislation-official-consolidation",
+      "status": "Full official Ministry of Law and Justice PDF retrieved; PDF pp 161 (printed 78, rule 49L), 219 (printed 107, rule 93), 333-335 (Forms 17A/17C). Rules are longstanding; online consolidated document uploaded July 2025, so contemporaneous changes must be checked before relying on any later-added text.",
+      "date": "1961-01-01",
+      "accessed": "2026-10-15",
+      "title": "Conduct of Elections Rules, 1961, Ministry of Law and Justice official consolidated PDF (2025 site edition)",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/f7dc5e0686b1be5b478fdef741981e60.pdf",
+      "locator": "Rule 49L printed p.78/PDF p.162 (0-based 161); rule 93 printed p.107/PDF p.220 (0-based 219); Forms 17A/17C printed pp.164-165"
+    },
+    {
+      "id": "S-2023-01",
+      "class": "primary-contemporaneous-eci-election-manual",
+      "status": "ECI-hosted August 2023 Edition 8 Manual on EVM retrieved; sections on closure, Form 17C and counting reviewed; establishes rules and process available before 2024 poll, not records of what happened in Mahadevapura.",
+      "date": "2023-08",
+      "accessed": "2026-10-15",
+      "title": "Election Commission of India: Manual on Electronic Voting Machine, Edition 8, August 2023",
+      "url": "https://www.eci.gov.in/eci-backend/public/uploads/monthly_2023_08/EVMManualAugust2023_pdf.1f8976b609ce6fefe9b0fe69d3f848ff",
+      "locator": "PDF p.70/printed p.67 §11.13 closure poll; Annexure 34 Form 17C printed pp.171-172; counting §14"
+    },
+    {
+      "id": "S-2025-11",
+      "class": "primary-institutional-explanatory-guidance",
+      "status": "ECI official explanatory FAQ text inspected; index says updated 15 Jul 2025. ECI says Form 17A voter register and Form 17C EVM vote accounting may not match due to rules 49O/49M/49MA; Form 17C supplied to polling agents while Form 17A not publicly shared. Explanatory guidance, not independent audit.",
+      "date": "2025-07-15",
+      "accessed": "2026-10-15",
+      "title": "ECI EVM FAQs: Form 17A vs 17C, polling agent copies and reconciliation",
+      "url": "https://www.eci.gov.in/evm-faqs/",
+      "locator": "Common Allegations / Misconceptions, Q9; General Queries Q18; ECI page Last Updated 15 July 2025"
+    },
+    {
+      "id": "S-2025-12",
+      "class": "independent-reported-first-person-denial",
+      "status": "India Today report inspected; attributes denial of double voting to voter in video message released 12 Aug 2025; direct raw video and commissioning circumstances NOT independently reviewed. Treat as first-person allegation as reported, not authenticated election audit or conclusive finding. Do not reproduce unnecessary personal data.",
+      "date": "2025-08-13",
+      "accessed": "2026-10-15",
+      "title": "India Today report: voter publicly says she voted only once and objects to publicity",
+      "url": "https://www.indiatoday.in/india/story/shakun-rani-who-rahul-gandhi-claimed-voted-twice-in-2024-polls-says-she-voted-only-once-2770365-2025-08-13",
+      "locator": "Article dated 13 Aug 2025, statements attributed to video message released 12 Aug; underlying recording not inspected"
     }
   ],
   "cases": [
@@ -361,7 +401,11 @@
         "S-2025-07",
         "S-2025-08",
         "S-2025-09",
-        "S-2025-10"
+        "S-2025-10",
+        "S-1961-01",
+        "S-2023-01",
+        "S-2025-11",
+        "S-2025-12"
       ],
       "evidence_for": [
         "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
@@ -375,21 +419,26 @@
         "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity.",
         "ECI segment table reports only 354830 EVM votes (including NOTA) for Mahadevapura; 6.5 lakh is elector count, not EVM ballots polled.",
         "ECI indexed constituency result reports BJP 658915 versus INC 626208, winning margin 32707; changing this margin cannot be inferred from 100250 suspicious entries without proven unique invalid votes.",
-        "10 Aug 2025 CEO Karnataka social notice, as quoted by independent contemporary reports, contests one purported instance of double voting; this is an institutional allegation pending review of its inquiry and underlying marked-roll evidence, not independently proven exculpatory evidence."
+        "10 Aug 2025 CEO Karnataka social notice, as quoted by independent contemporary reports, contests one purported instance of double voting; this is an institutional allegation pending review of its inquiry and underlying marked-roll evidence, not independently proven exculpatory evidence.",
+        "Rule 49L requires voter entry in Form 17A and a marked roll; rule 93 restricts access to the authenticated sealed records. Neither an image of two alleged ticked entries nor duplicate registrations alone proves two cast votes.",
+        "ECI August 2023 EVM manual and 15 July 2025 ECI FAQ describe Form 17C as the polling-station total vote account. Form 17A attendance differs in concept from EVM ballots polled, so any claimed double-voting count must be independently reconciled.",
+        "An August 2025 video statement attributed to the voter denies double voting, as reported by India Today. Source video and original Form 17A/marked electoral roll not inspected; testimony should be weighed, not treated as an official final adjudication."
       ],
       "limitations": [
         "Constituency 2024 source voter roll and supplemental logs not retrieved",
         "Potential category overlaps not evaluated",
         "Full 7 August 2025 claimant-owned press conference URL recovered and linked from first-party channel, but full audio/video and claim timestamps not checked",
         "CEO Karnataka 10 August signed notice was posted on official X (URL located); attached signed original not directly inspected because X returned 403; 7 August earlier sworn-declaration letter still missing",
-        "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained"
+        "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained",
+        "2025 Ministry of Law consolidated statute and 2023 ECI manual inspected to establish lawful route to evidence; Rule 93 sealed records need court-authorised access, and Rule 94 retention/disposal status for 2024 election packets must be confirmed rather than assuming archived copies still exist.",
+        "Direct first-person video denial reported 13 Aug 2025; raw footage provenance not verified, no protected voting register compared."
       ],
       "editorial_reviewer": null,
       "editorial_approval": false,
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Review full 7 Aug 2025 claimant-owned recording with timestamps and accurate transcript; obtain 7 Aug declaration letter and readable 10 Aug signed notice plus underlying inquiry; independently audit legally available Mahadevapura roll and voting data."
+      "next_action": "Secure complete timecoded claimant recording, signed CEO 7 and 10 Aug notices and inquiry attachments; seek lawful 2024 marked-roll/Form 17A access under rule 93 where records retained, obtain candidate-held station Form 17C and compare audit evidence; human reviewer to approve any verdict."
     }
   ],
   "leads": [
@@ -628,7 +677,9 @@
       "Mahadevapura 2024 rolls and polling station-level records",
       "7 Aug 2025 CEO sworn declaration request remains missing as signed original; 10 Aug 2025 official social notice link found but attached signed image inaccessible; inquiry file and replies missing",
       "Full unedited 10 Apr 2019 Gandhi video and judiciary-hosted originals of the 10 Apr and 14 Nov judgments (third-party PDFs read)",
-      "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims"
+      "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims",
+      "2024 Form 17A/marked-roll material must be requested through lawful Rule 93 court-authorised procedure and checked for Rule 94 retention/disposal; 2023 ECI manual and statute now verified, but individual polling records are not.",
+      "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication."
     ],
     "recheck": [
       "RAGA-2025-0001",
@@ -648,24 +699,24 @@
     }
   ],
   "next_three": [
-    "Play or transcribe full 7 Aug 2025 claimant-owned video KPVF6ihjaz4; obtain signed 10 Aug CEO notice and ascertain whether named-elector allegation has source-level proof",
-    "Play or transcribe original 10 Apr 2019 Gandhi remarks with context; obtain court-hosted 10 Apr and 14 Nov judgments; human editorial review",
-    "Obtain Mahadevapura 2024 rolls and lawful booth-level records; separately authenticate or withdraw unconfirmed October 2026 video lead"
+    "Retrieve timecoded full 7 Aug 2025 claimant recording; obtain signed Karnataka CEO 7/10 Aug notices, inquiry documents, and underlying party evidence for Shakun Rani example",
+    "Confirm retention and obtain lawful access to 2024 Mahadevapura marked roll and Form 17A under Rule 93, plus candidate-held Form 17C and authenticated station-level reconciliation",
+    "Continue full original 10 Apr 2019 Gandhi remarks/judiciary-hosted judgments for human editorial review; verify October 2026 video provenance separately"
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-004",
+    "id": "RAGA-20261015-005",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-003",
+    "resume_from": "RAGA-20261015-004",
     "new_source_ids": [
-      "S-2025-07",
-      "S-2025-08",
-      "S-2025-09",
-      "S-2025-10"
+      "S-1961-01",
+      "S-2023-01",
+      "S-2025-11",
+      "S-2025-12"
     ],
     "unpublished_cases_updated": [
       "RAGA-2025-0001"
     ],
-    "source_status": "Claimant video URL found via first-party post but content not played; official CEO and INC social post links located but inaccessible; 2026 INC date metadata remains contradictory",
+    "source_status": "Official election statute and 2023 ECI manual retrieved; ECI FAQ read; first-person voter denial attributed by press; claimant video first-party metadata confirmed without transcription; signed CEO notices and marked rolls not obtained.",
     "publication_approvals": 0,
     "site_verified_live": false,
     "editorial_verdict_changes": 0
