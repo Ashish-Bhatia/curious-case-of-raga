@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-008",
+  "checkpoint_id": "RAGA-20261015-009",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 008: published a dated, non-verdict research progress section in the website after confirming no cases had editorial approval; preserved empty public ledger and case statuses.",
+  "scope": "Checkpoint 009: investigated distinct 1 July 2024 MSP vs legal guarantee proposition using original parliamentary record and contemporary government sources; opened unpublished Supported-scope dossier without altering editorial gate.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -430,6 +430,46 @@
       "title": "The Hindu: You are not a Hindu — Rahul Gandhi and PM Modi exchange words in Parliament",
       "url": "https://www.youtube.com/watch?v=AnvK6ReSjJM",
       "locator": "publisher describes opposing interpretations including Gandhi rebuttal mentioning BJP/RSS; original footage/timecodes pending"
+    },
+    {
+      "id": "S-2024-06",
+      "class": "primary-government-contemporaneous-cabinet-msp-schedule",
+      "status": "original government PIB record directly opened; 19 June 2024 release, 2024-25 crop MSP table and published past procurement totals inspected; self-reported procurement not independently audited",
+      "date": "2024-06-19",
+      "accessed": "2026-10-15",
+      "title": "Ministry of Agriculture & Farmers Welfare, Cabinet approves MSP for Kharif Crops, Marketing Season 2024-25",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2026698&lang=2&reg=48",
+      "locator": "opening paragraphs, Kharif 2024-25 table, Annexure II historic procurement; preclaim"
+    },
+    {
+      "id": "S-2023-02",
+      "class": "primary-government-parliamentary-answer-contemporaneous-to-policy",
+      "status": "original PIB text directly opened and read; describes price support and conditional purchases but not a general statutory MSP entitlement",
+      "date": "2023-02-03",
+      "accessed": "2026-10-15",
+      "title": "Agriculture Ministry, Rajya Sabha reply ‘Legal Guarantee for MSP’",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1896131&lang=2&reg=48",
+      "locator": "price-setting for 22 crops, FCI paddy/wheat and price-support purchase conditions, distinct sugarcane FRP; preclaim"
+    },
+    {
+      "id": "S-2024-07",
+      "class": "primary-government-parliament-rajya-sabha-written-reply-postclaim",
+      "status": "original Rajya Sabha ministry signed-layout answer PDF directly opened and visually inspected (single page); dated 26 July 2024, later than claim",
+      "date": "2024-07-26",
+      "accessed": "2026-10-15",
+      "title": "Rajya Sabha Unstarred Question 495, ‘Legal Guarantee for MSP’, Agriculture Minister",
+      "url": "https://sansad.in/getFile/annex/265/AU495_s7jrSv.pdf?source=pqars",
+      "locator": "PDF p.1 question a-d and minister's answer: 12 July 2022 MSP committee / CACP, 22 crops, no identified universal legal guarantee"
+    },
+    {
+      "id": "S-2024-08",
+      "class": "independent-contemporaneous-reported-ministerial-statement",
+      "status": "Press Trust of India original 26 Jul 2024 reporting opened via Business Standard; reports ministerial responses and lack of firm commitment, not original parliamentary evidence",
+      "date": "2024-07-26",
+      "accessed": "2026-10-15",
+      "title": "PTI via Business Standard: MSP legal guarantee issue rocks Rajya Sabha",
+      "url": "https://www.business-standard.com/politics/msp-legal-guarantee-issue-rocks-rajya-sabha-cong-led-oppn-stages-protest-124072600872_1.html",
+      "locator": "PTI story 26 Jul 2024, first published 23:12 IST, section on MSP committee and outstanding legal-guarantee demand"
     }
   ],
   "cases": [
@@ -624,6 +664,59 @@
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
       "next_action": "Retrieve/compare original claimant post media, dated imagery and physical LAC coordinates; independent patrol records and 2020 negotiation terms; only then conduct human editorial review."
+    },
+    {
+      "id": "RAGA-2024-0001",
+      "year": 2024,
+      "title": "MSP existed, but a universal statutory legal guarantee was still disputed",
+      "speaker": "Rahul Gandhi",
+      "date": "2024-07-01",
+      "original_language": "English passage embedded in official bilingual Lok Sabha Original Version; preceding exchange Hindi",
+      "medium": "Lok Sabha debate, Motion of Thanks on President's Address",
+      "claim_text": "“MSP is being given but kisans want MSP with legal guarantee” (official Lok Sabha original-version debate p.148; continuation criticizes government's readiness).",
+      "claim_url": "https://sansad.in/getFile/debatestextmk/18/I/01.07.2024.pdf?source=loksabhadocs",
+      "claim_type": "factual agricultural policy and statutory entitlement distinction; accompanying policy opinion",
+      "testable_propositions": [
+        "Government announced/procured crops at MSP before 1 July 2024.",
+        "Existing MSP price announcements and conditional procurement were not equivalent to an across-the-board statutory legal MSP entitlement for all eligible farmers."
+      ],
+      "institution": "Parliament",
+      "topic": "Agriculture, minimum support prices, statutory guarantee",
+      "provisional_verdict": "Supported",
+      "confidence": "moderate-high for narrow price-policy vs general enforceable-right distinction; legal cross-jurisdiction audit still pending",
+      "status": "investigating",
+      "case_dossier": "research/cases/RAGA-2024-0001.md",
+      "source_ids": [
+        "S-2024-04",
+        "S-2024-06",
+        "S-2023-02",
+        "S-2024-07",
+        "S-2024-08"
+      ],
+      "evidence_for": [
+        "Official 1 Jul 2024 parliamentary record p148 directly quotes Gandhi acknowledging MSP was given and explicitly distinguishing it from a legal guarantee; the MSP passage itself is not expunged.",
+        "Preclaim 19 Jun 2024 Union Cabinet decision sets Kharif 2024-25 MSP prices and lists procurement.",
+        "Preclaim Feb 2023 government reply distinguishes administrative/conditional MSP support from a general legal entitlement.",
+        "Later Jul 26 2024 official written answer treats the legal-guarantee demand as a separate question and refers to an MSP policy committee; PTI corroborates ongoing dispute."
+      ],
+      "evidence_against": [
+        "Government legitimately noted existing MSP procurement, refuting a different claim that there was no MSP at all; Gandhi expressly clarified he did not claim that.",
+        "Sugarcane FRP and commodity-specific law can create narrower pricing obligations; a blanket claim that India had no legally regulated farm prices would be overbroad.",
+        "The government’s 26 July reply postdates the statement and does not prove future policy choices, and a complete central/state statute audit is outstanding."
+      ],
+      "counterargument": "Setting and procuring commodities at MSP constitutes substantive government support. The MP's factual point survives only when read as a demand for a generally enforceable legal guarantee, not an absence of price support. Political intent and future legislation are not judicially testable from a committee response.",
+      "limitations": [
+        "Full parliamentary audiovisual playback not independently reviewed; exact English clarification in authenticated official unexpunged parliamentary transcript on printed p148.",
+        "No exhaustive central/state statute, commodity-control-order and Gazette audit completed; legal guarantee must be defined consistently.",
+        "Independent source PTI postdates claim and provides context rather than independent legal adjudication.",
+        "Do not apply result to the separate religion/violence exchange LEAD-2024-01, with expunged words and still unplayed video."
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": true,
+      "last_checked": "2026-10-15",
+      "next_action": "Review full Sansad TV video and conduct India Code/Gazette/state law audit before genuine human editor approval. Keep public cases.json empty."
     }
   ],
   "leads": [
@@ -762,9 +855,10 @@
       "entries": []
     },
     "2024": {
-      "status": "one parliamentary speech lead with official debates partly reviewed; systematic annual coverage incomplete",
+      "status": "Two targeted parliamentary topics; newly verified MSP primary exchange with legal-scope work pending. Annual search not comprehensive.",
       "entries": [
-        "LEAD-2024-01"
+        "LEAD-2024-01",
+        "RAGA-2024-0001"
       ]
     },
     "2025": {
@@ -801,11 +895,13 @@
     },
     {
       "domain": "Parliament and constitutional offices",
-      "reviewed": [],
+      "reviewed": [
+        "RAGA-2024-0001"
+      ],
       "leads": [
         "LEAD-2024-01"
       ],
-      "coverage": "source authentication advanced for one 1 July 2024 lead; edited official parliamentary debate inspected, video/context pending"
+      "coverage": "Two distinct 1 July 2024 speech topics: unexpunged MSP statement opened as a draft; disputed religion exchange remains a lead pending video"
     },
     {
       "domain": "Armed forces, borders and defence procurement",
@@ -837,9 +933,11 @@
     },
     {
       "domain": "Agriculture / social policy",
-      "reviewed": [],
+      "reviewed": [
+        "RAGA-2024-0001"
+      ],
       "leads": [],
-      "coverage": "not searched"
+      "coverage": "One targeted 1 July 2024 MSP legal-guarantee case with official parliamentary and ministry sources; more statute/source audit pending"
     },
     {
       "domain": "International affairs and diplomacy",
@@ -851,7 +949,8 @@
   "queues": {
     "investigating": [
       "RAGA-2025-0001",
-      "RAGA-2020-0001"
+      "RAGA-2020-0001",
+      "RAGA-2024-0001"
     ],
     "review_pending": [
       "RAGA-2019-0001"
@@ -876,12 +975,14 @@
       "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication.",
       "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed.",
       "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained.",
-      "LEAD-2024-01: full uninterrupted official Sansad TV video and Hindi timecoded transcript still missing; official printed pp132–136 explicitly contain expungements, so central disputed words cannot be authenticated from edited debate text alone."
+      "LEAD-2024-01: full uninterrupted official Sansad TV video and Hindi timecoded transcript still missing; official printed pp132–136 explicitly contain expungements, so central disputed words cannot be authenticated from edited debate text alone.",
+      "RAGA-2024-0001: the 1 July official transcript MSP portion has been authenticated, but full original speech video/timecodes and exhaustive central/state MSP legal entitlement review remain outstanding."
     ],
     "recheck": [
       "RAGA-2025-0001",
       "LEAD-2026-01",
-      "RAGA-2020-0001"
+      "RAGA-2020-0001",
+      "RAGA-2024-0001"
     ],
     "publication_ready": [],
     "published": []
@@ -907,16 +1008,23 @@
     }
   ],
   "next_three": [
-    "LEAD-2024-01: authenticate full 1 Jul 2024 Sansad TV speech with original Hindi/timecodes; compare with expunged Lok Sabha printed pp132–136. No premature verdict.",
-    "RAGA-2020-0001: recover 20 June original X post/attached media and independent geospatial & patrol records to test surrendered-territory causality.",
-    "Continue Mahadevapura original roll/poll-station verification (RAGA-2025-0001); keep RAGA-2019-0001 in review pending until human editor validates video and findings."
+    "RAGA-2024-0001: audit India Code, Gazette and any state-specific legal MSP guarantees in force 1 Jul 2024; recheck official Sansad TV audiovisual context and submit for genuine human editorial review.",
+    "LEAD-2024-01: inspect full unedited 1 Jul 2024 Sansad TV Hindu/violence exchange; original parliamentary debate has expunged words, verdict not assigned.",
+    "RAGA-2020-0001 and RAGA-2025-0001: source and document access gaps remain; prioritize independently verifiable mapping and voter-roll/poll-station primary records."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-008",
+    "id": "RAGA-20261015-009",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-007",
-    "new_source_ids": [],
-    "new_draft_cases": [],
+    "resume_from": "RAGA-20261015-008",
+    "new_source_ids": [
+      "S-2024-06",
+      "S-2023-02",
+      "S-2024-07",
+      "S-2024-08"
+    ],
+    "new_draft_cases": [
+      "RAGA-2024-0001"
+    ],
     "parked_approved_cases": [],
     "review_pending_unchanged": [
       "RAGA-2019-0001"
@@ -924,12 +1032,13 @@
     "public_cases_added": 0,
     "publication_approvals": 0,
     "site_verified_live": false,
-    "source_status": "No new primary source for a factual allegation retrieved. Re-read repository README, CASE_SCHEMA, drafts, ledger and checkpoint 007.",
+    "source_status": "4 new provenance-typed sources added. Official 1 July parliamentary PDF source S-2024-04 previously authenticated; distinct unexpunged MSP passage (printed p148) now inspected.",
     "editorial_verdict_changes": 0,
     "leads_advanced": [],
     "new_research_files": [
-      "research/checkpoints/RAGA-20261015-008.md"
+      "research/cases/RAGA-2024-0001.md",
+      "research/checkpoints/RAGA-20261015-009.md"
     ],
-    "deployment_verification": "GitHub commit e4125e4 confirmed on main. Pages workflow run 38651619206 observed in progress. Public URL fetch failed due client network/tool restrictions."
+    "deployment_verification": "GitHub Pages public URL external client returned DisabledError, so live check not passed. Pending website status snapshot update."
   }
 }
