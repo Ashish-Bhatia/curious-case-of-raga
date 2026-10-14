@@ -1,14 +1,14 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-007",
+  "checkpoint_id": "RAGA-20261015-008",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 006: retrieved authenticated court-domain 10 Apr 2019 Rafale admissibility judgment; recovered indexed first-party 2025 allegations newsletter and original 7 Aug CEO post link (attachments not retrievable); publication still gated.",
+  "scope": "Checkpoint 008: published a dated, non-verdict research progress section in the website after confirming no cases had editorial approval; preserved empty public ledger and case statuses.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "unverified: external fetch failed",
+    "site_live_status": "User reports GitHub Pages deployed. Latest research-desk update committed; external fetch blocked, Pages workflow observed in progress, so latest live revision unverified.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -886,7 +886,17 @@
     "publication_ready": [],
     "published": []
   },
-  "site_changes": [],
+  "site_changes": [
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "e4125e45478f65a714f696a274593f51da913536",
+      "description": "Published dated research-desk snapshot with 3 draft dossiers, 39 indexed source entries, 4 leads and zero editorially approved findings. No draft case text or verdict entered into public cases ledger.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Pages workflow triggered and in progress; external GitHub Pages fetch unavailable. Not verified live."
+    }
+  ],
   "corrections": [
     {
       "date": "2026-10-15",
@@ -902,23 +912,11 @@
     "Continue Mahadevapura original roll/poll-station verification (RAGA-2025-0001); keep RAGA-2019-0001 in review pending until human editor validates video and findings."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-007",
+    "id": "RAGA-20261015-008",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-006",
-    "new_source_ids": [
-      "S-2020-01",
-      "S-2020-02",
-      "S-2020-03",
-      "S-2020-04",
-      "S-2020-05",
-      "S-2020-06",
-      "S-2020-07",
-      "S-2024-04",
-      "S-2024-05"
-    ],
-    "new_draft_cases": [
-      "RAGA-2020-0001"
-    ],
+    "resume_from": "RAGA-20261015-007",
+    "new_source_ids": [],
+    "new_draft_cases": [],
     "parked_approved_cases": [],
     "review_pending_unchanged": [
       "RAGA-2019-0001"
@@ -926,15 +924,12 @@
     "public_cases_added": 0,
     "publication_approvals": 0,
     "site_verified_live": false,
-    "source_status": "Claimant original X identified but inaccessible. Contemporaneous India Today embed/Reuters imagery reporting and PMO/Defence original statements inspected. Later 2025 MEA reply read only via indexed text.",
+    "source_status": "No new primary source for a factual allegation retrieved. Re-read repository README, CASE_SCHEMA, drafts, ledger and checkpoint 007.",
     "editorial_verdict_changes": 0,
-    "leads_advanced": [
-      "LEAD-2024-01"
-    ],
+    "leads_advanced": [],
     "new_research_files": [
-      "research/cases/RAGA-2020-0001.md",
-      "research/leads/LEAD-2024-01.md"
+      "research/checkpoints/RAGA-20261015-008.md"
     ],
-    "deployment_verification": "Attempted GitHub Pages homepage and data/cases.json; external tool returned DisabledError/inaccessible. GitHub repository main checked; live Pages not verified."
+    "deployment_verification": "GitHub commit e4125e4 confirmed on main. Pages workflow run 38651619206 observed in progress. Public URL fetch failed due client network/tool restrictions."
   }
 }
