@@ -1,14 +1,14 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-011",
+  "checkpoint_id": "RAGA-20261015-012",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 011: 2019 Supreme Court attribution judicial paragraphs rechecked; a distinct 2018 Rafale speech/tweet and 2026 defamation appeal lead opened from original court metadata, court-text reproduction and contemporary reporting. No verdict publication or editorial approval.",
+  "scope": "Restarted strict chronology in 2004, inspected BJP 11 Jan original economic resolution, contemporaneous PTI accounts and MHA legal records, distinguished UPA POTA decision from misuse allegation. No approved cases.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "Checkpoint 011 research desk HTML updated on main; Pages workflow 38655254082 observed in_progress at first check; direct Pages homepage and JSON were inaccessible, hence not verified live.",
+    "site_live_status": "main research commits require separate Pages deployment/live verification.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -520,9 +520,227 @@
       "title": "Indian Express: Supreme Court stays defamation trial over 2018 remarks, seeks response",
       "url": "https://indianexpress.com/article/legal-news/rahul-gandhi-defamation-case-pm-modi-supreme-court-trial-stay-10919174/",
       "locator": "14 Oct 2026 report: 13 Oct interim trial stay and notice; distinguishes 2018 complaint from 2019 contempt"
+    },
+    {
+      "id": "S-2004-01",
+      "class": "primary-party-original",
+      "status": "PDF pp.1 and 3 inspected: development remains unfinished; compilation dated 2005 with 2016 artifacts",
+      "date": "2004-01-11",
+      "accessed": "2026-10-15",
+      "title": "BJP Jan 11-12 2004 economic resolution",
+      "url": "https://library.bjp.org/jspui/bitstream/123456789/265/1/BJP-Economics%20Resolutions.pdf",
+      "locator": "PDF pp.1 and 3 inspected: development remains unfinished; compilation dated 2005 with 2016 artifacts"
+    },
+    {
+      "id": "S-2004-02",
+      "class": "contemporaneous-report",
+      "status": "Contemporaneous description of goals as future; original government booklet missing",
+      "date": "2004-02-22",
+      "accessed": "2026-10-15",
+      "title": "Times of India 2004 I&B NDA achievement booklet report",
+      "url": "https://timesofindia.indiatimes.com/india/india-shining-go-by-the-book/articleshow/511964.cms",
+      "locator": "Contemporaneous description of goals as future; original government booklet missing"
+    },
+    {
+      "id": "S-2004-03",
+      "class": "contemporaneous-wire",
+      "status": "Direct interview recording absent, source previously examined",
+      "date": "2004-03-30",
+      "accessed": "2026-10-15",
+      "title": "PTI Gandhi interview India Shining critique",
+      "url": "https://www.rediff.com/election/2004/mar/30cong.htm",
+      "locator": "Direct interview recording absent, source previously examined"
+    },
+    {
+      "id": "S-2004-04",
+      "class": "primary-party-original",
+      "status": "Party text inspected previous 2004 checkpoint; digital scan later compiled; exact issue day unresolved",
+      "date": "2004-03",
+      "accessed": "2026-10-15",
+      "title": "BJP Vision Document 2004",
+      "url": "https://library.bjp.org/jspui/bitstream/123456789/244/1/BJP%20VISION%20DOCUMENT%202004.pdf",
+      "locator": "Party text inspected previous 2004 checkpoint; digital scan later compiled; exact issue day unresolved"
+    },
+    {
+      "id": "S-2004-05",
+      "class": "contemporaneous-wire",
+      "status": "No unedited source audio; source examined previous 2004 checkpoint",
+      "date": "2004-04-15",
+      "accessed": "2026-10-15",
+      "title": "PTI Gandhi statement on India Shining awareness",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-slams-bjp-for-its-india-shining-campaign/articleshow/618949.cms",
+      "locator": "No unedited source audio; source examined previous 2004 checkpoint"
+    },
+    {
+      "id": "S-2004-06",
+      "class": "survey-project-index",
+      "status": "No specific India Shining awareness result or UP subsample verified",
+      "date": "2004",
+      "accessed": "2026-10-15",
+      "title": "Lokniti CSDS National Election Studies index",
+      "url": "https://www.lokniti.org/national-election-studies",
+      "locator": "No specific India Shining awareness result or UP subsample verified"
+    },
+    {
+      "id": "S-2004-07",
+      "class": "contemporaneous-wire",
+      "status": "18:35 IST report; interview audio and incident case numbers unavailable",
+      "date": "2004-06-08",
+      "accessed": "2026-10-15",
+      "title": "PTI Gandhi Rae Bareli law and order claims",
+      "url": "https://in.rediff.com/news/2004/jun/08rahul.htm",
+      "locator": "18:35 IST report; interview audio and incident case numbers unavailable"
+    },
+    {
+      "id": "S-2004-08",
+      "class": "contemporaneous-wire",
+      "status": "14:51 IST report; unedited claimant source missing",
+      "date": "2004-06-09",
+      "accessed": "2026-10-15",
+      "title": "PTI Gandhi POTA and dual power claims",
+      "url": "https://www.rediff.com/news/report/rahul/20040609.htm",
+      "locator": "14:51 IST report; unedited claimant source missing"
+    },
+    {
+      "id": "S-2004-09",
+      "class": "primary-policy-text-reproduction",
+      "status": "POTA repeal promise by 27 May; allegations of abuse are party positions not independent proof",
+      "date": "2004-05-27",
+      "accessed": "2026-10-15",
+      "title": "UPA Common Minimum Programme, third-party reproduction",
+      "url": "https://architexturez.net/doc/az-cf-182356",
+      "locator": "POTA repeal promise by 27 May; allegations of abuse are party positions not independent proof"
+    },
+    {
+      "id": "S-2004-10",
+      "class": "official-parliament-index-excerpt",
+      "status": "Indexed text confirms repeal steps started and reproduces CMP; full official PDF timed out",
+      "date": "2004-07-14",
+      "accessed": "2026-10-15",
+      "title": "Rajya Sabha PQ 339 Abrogation of POTA",
+      "url": "https://www.rsdebate.nic.in/bitstream/123456789/65782/1/PQ_202_14072004_U339_p59_p59.pdf",
+      "locator": "Indexed text confirms repeal steps started and reproduces CMP; full official PDF timed out"
+    },
+    {
+      "id": "S-2004-11",
+      "class": "primary-official-statute",
+      "status": "Act 26 2004 enacted Dec 21, deemed effective Sep 21",
+      "date": "2004-12-21",
+      "accessed": "2026-10-15",
+      "title": "India Code POTA Repeal Act 2004 metadata",
+      "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1672?view_type=browse",
+      "locator": "Act 26 2004 enacted Dec 21, deemed effective Sep 21"
+    },
+    {
+      "id": "S-2004-12",
+      "class": "primary-government-release",
+      "status": "Original MHA page inspected: ordinance 21 Sep and ministry's misuse allegation",
+      "date": "2004-11-25",
+      "accessed": "2026-10-15",
+      "title": "Ministry of Home Affairs PIB repeal statement",
+      "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=5082",
+      "locator": "Original MHA page inspected: ordinance 21 Sep and ministry's misuse allegation"
+    },
+    {
+      "id": "S-2004-13",
+      "class": "contemporaneous-political-response",
+      "status": "Political rebuttal, not independent proof of comparative crime levels",
+      "date": "2004-06-09",
+      "accessed": "2026-10-15",
+      "title": "PTI SP Amar Singh response to Gandhi",
+      "url": "https://in.rediff.com/news/2004/jun/08rahul1.htm",
+      "locator": "Political rebuttal, not independent proof of comparative crime levels"
     }
   ],
   "cases": [
+    {
+      "id": "RAGA-2004-0001",
+      "year": 2004,
+      "title": "BJP allegedly claimed India was fully developed",
+      "speaker": "Rahul Gandhi",
+      "date": "2004-03-30",
+      "original_language": "Original spoken language and complete verbatim remarks not authenticated; PTI English rendering",
+      "medium": "Reported informal media exchange at Amethi",
+      "claim_text": "PTI English rendering: 'they (the BJP) claim the country has developed fully'.",
+      "claim_url": "https://www.rediff.com/election/2004/mar/30cong.htm",
+      "claim_type": "factual attribution with potential political rhetoric",
+      "testable_propositions": [
+        "BJP declared India's development already complete before 30 March 2004."
+      ],
+      "institution": "Other public claims",
+      "topic": "2004 BJP campaign and election messaging",
+      "provisional_verdict": "Unresolved",
+      "confidence": "medium; BJP primary documents contradict the literal attribution but original Gandhi context missing",
+      "status": "investigating",
+      "case_dossier": "research/2004-chronology-and-cases.md",
+      "source_ids": [
+        "S-2004-01",
+        "S-2004-02",
+        "S-2004-03",
+        "S-2004-04"
+      ],
+      "evidence_for": [
+        "Contemporaneous wire reporting preserves the attributed statement; complete primary exchange remains missing."
+      ],
+      "evidence_against": [
+        "Comparison records are limited to material explicitly located and checked; absence of evidence is not proof of falsity."
+      ],
+      "counterargument": "Wording might reflect anecdotal or political characterisation rather than the strongest literal universal proposition.",
+      "limitations": [
+        "BJP 11 January resolution instead sets further development tasks",
+        "BJP Vision Document contemporaneous exact release timing uncertain",
+        "NDA April 8 manifesto is after claim date"
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Obtain unedited claimant statement and date-specific comparator evidence. Keep unpublished."
+    },
+    {
+      "id": "RAGA-2004-0002",
+      "year": 2004,
+      "title": "Awareness of India Shining among Uttar Pradesh voters",
+      "speaker": "Rahul Gandhi",
+      "date": "2004-04-15",
+      "original_language": "Original spoken language and complete verbatim remarks not authenticated; PTI English rendering",
+      "medium": "Reported informal media exchange at Amethi",
+      "claim_text": "PTI reported some residents Gandhi met 'do not even know what India shining is'.",
+      "claim_url": "https://timesofindia.indiatimes.com/india/rahul-slams-bjp-for-its-india-shining-campaign/articleshow/618949.cms",
+      "claim_type": "factual attribution with potential political rhetoric",
+      "testable_propositions": [
+        "The slogan lacked recognition among Uttar Pradesh residents or among Gandhi's interviewees, depending on contextual scope."
+      ],
+      "institution": "Other public claims",
+      "topic": "2004 BJP campaign and election messaging",
+      "provisional_verdict": "Unsubstantiated",
+      "confidence": "medium-low; no matched 2004 UP survey or native-language context",
+      "status": "investigating",
+      "case_dossier": "research/2004-chronology-and-cases.md",
+      "source_ids": [
+        "S-2004-05",
+        "S-2004-06",
+        "S-2004-04"
+      ],
+      "evidence_for": [
+        "Contemporaneous wire reporting preserves the attributed statement; complete primary exchange remains missing."
+      ],
+      "evidence_against": [
+        "Comparison records are limited to material explicitly located and checked; absence of evidence is not proof of falsity."
+      ],
+      "counterargument": "Wording might reflect anecdotal or political characterisation rather than the strongest literal universal proposition.",
+      "limitations": [
+        "Interview denominator unknown",
+        "No identified CSDS survey item establishes campaign slogan recognition"
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Obtain unedited claimant statement and date-specific comparator evidence. Keep unpublished."
+    },
     {
       "id": "RAGA-2019-0001",
       "year": 2019,
@@ -580,84 +798,6 @@
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
       "next_action": "Authenticate full unedited 10 April 2019 Rahul Gandhi remarks and Hindi/English timecoded transcript; retrieve court-domain 14 Nov 2019 final judgment directly; seek human editorial review. Keep publication status draft."
-    },
-    {
-      "id": "RAGA-2025-0001",
-      "year": 2025,
-      "title": "Mahadevapura: 1,00,250 allegedly stolen votes",
-      "speaker": "Rahul Gandhi",
-      "date": "2025-08-07",
-      "original_language": "English, based on Congress summary; full unedited video verification pending",
-      "medium": "press conference, Indira Bhawan, New Delhi",
-      "claim_text": "Congress-edited highlights: 'approximately 1,00,250 votes were stolen out of 6.5 lakh total votes in Mahadevapura.'",
-      "claim_url": "https://inc.in/congress-sandesh/national/a-systematic-multi-pronged-approach-the-bjp-controlled-eci",
-      "claim_type": "quantitative electoral fraud and causal allegation",
-      "testable_propositions": [
-        "Exactly or approximately 100,250 fraudulent ballots were cast or counted in 2024.",
-        "Five categories of suspicious electoral roll entries reliably identify unique ineligible voters rather than overlapping entries or stale address records.",
-        "The suspicious entries caused the result in Bangalore Central to change.",
-        "BJP and ECI intentionally colluded in this alleged manipulation."
-      ],
-      "institution": "Election Commission of India",
-      "topic": "Electoral rolls, 2024 Bangalore Central / Mahadevapura",
-      "provisional_verdict": "Unsubstantiated",
-      "confidence": "moderate on failure to establish ballot theft, not a finding that rolls were clean",
-      "status": "investigating",
-      "case_dossier": "research/cases/RAGA-2025-0001.md",
-      "source_ids": [
-        "S-2025-01",
-        "S-2025-02",
-        "S-2025-03",
-        "S-2025-04",
-        "S-2025-05",
-        "S-2024-02",
-        "S-2024-03",
-        "S-2025-07",
-        "S-2025-08",
-        "S-2025-09",
-        "S-2025-10",
-        "S-1961-01",
-        "S-2023-01",
-        "S-2025-11",
-        "S-2025-12",
-        "S-2025-13",
-        "S-2025-14"
-      ],
-      "evidence_for": [
-        "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
-        "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification.",
-        "2024 ECI source records 659826 registered Mahadevapura electors, compatible with 6.5 lakh as roll denominator, but not 6.5 lakh ballots cast.",
-        "Rahul Gandhi's first-party public channel links the contemporaneous full press conference recording, creating a path to contextual claim authentication; the recording was not played.",
-        "Claimant-controlled website 31 Aug 2025 newsletter search-indexed infographic repeats the five categories and numbers. This corroborates publication of the claim, not individual electoral anomalies or illegal ballots."
-      ],
-      "evidence_against": [
-        "An entry in a voter roll is not proof that a ballot was cast; no identified voter-level ballot reconciliation or deduplicated methodology retrieved.",
-        "Mobility and legitimate historic occupancy explain some high address counts, while not dispelling stale/ineligible entries.",
-        "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity.",
-        "ECI segment table reports only 354830 EVM votes (including NOTA) for Mahadevapura; 6.5 lakh is elector count, not EVM ballots polled.",
-        "ECI indexed constituency result reports BJP 658915 versus INC 626208, winning margin 32707; changing this margin cannot be inferred from 100250 suspicious entries without proven unique invalid votes.",
-        "10 Aug 2025 CEO Karnataka social notice, as quoted by independent contemporary reports, contests one purported instance of double voting; this is an institutional allegation pending review of its inquiry and underlying marked-roll evidence, not independently proven exculpatory evidence.",
-        "Rule 49L requires voter entry in Form 17A and a marked roll; rule 93 restricts access to the authenticated sealed records. Neither an image of two alleged ticked entries nor duplicate registrations alone proves two cast votes.",
-        "ECI August 2023 EVM manual and 15 July 2025 ECI FAQ describe Form 17C as the polling-station total vote account. Form 17A attendance differs in concept from EVM ballots polled, so any claimed double-voting count must be independently reconciled.",
-        "An August 2025 video statement attributed to the voter denies double voting, as reported by India Today. Source video and original Form 17A/marked electoral roll not inspected; testimony should be weighed, not treated as an official final adjudication."
-      ],
-      "limitations": [
-        "Constituency 2024 source voter roll and supplemental logs not retrieved",
-        "Potential category overlaps not evaluated",
-        "Full 7 August 2025 claimant-owned press conference URL recovered and linked from first-party channel, but full audio/video and claim timestamps not checked",
-        "CEO Karnataka 10 August signed notice was posted on official X (URL located); attached signed original not directly inspected because X returned 403; 7 August earlier sworn-declaration letter still missing",
-        "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained",
-        "2025 Ministry of Law consolidated statute and 2023 ECI manual inspected to establish lawful route to evidence; Rule 93 sealed records need court-authorised access, and Rule 94 retention/disposal status for 2024 election packets must be confirmed rather than assuming archived copies still exist.",
-        "Direct first-person video denial reported 13 Aug 2025; raw footage provenance not verified, no protected voting register compared.",
-        "CEO Karnataka's 7 Aug 2025 X post with a letter image is now identified by exact original post ID, but the signed notice cannot be read owing to X 403. News accounts remain secondary.",
-        "Claimant-hosted 31 Aug 2025 newsletter PDF indexed text includes five category numbers, but full newsletter PDF not visually retrieved; do not treat this editorial recap as verbatim 7 Aug press conference."
-      ],
-      "editorial_reviewer": null,
-      "editorial_approval": false,
-      "publication_status": "draft",
-      "primary_source_verified": false,
-      "last_checked": "2026-10-15",
-      "next_action": "Authenticate full video/timecodes, signed CEO 7/10 Aug letters and inquiry annexures; seek lawful original 2024 marked-roll/Form 17A records and station Form 17C with retention check; independent category overlap audit; human editorial review."
     },
     {
       "id": "RAGA-2020-0001",
@@ -767,6 +907,84 @@
       "primary_source_verified": true,
       "last_checked": "2026-10-15",
       "next_action": "Review full Sansad TV video and conduct India Code/Gazette/state law audit before genuine human editor approval. Keep public cases.json empty."
+    },
+    {
+      "id": "RAGA-2025-0001",
+      "year": 2025,
+      "title": "Mahadevapura: 1,00,250 allegedly stolen votes",
+      "speaker": "Rahul Gandhi",
+      "date": "2025-08-07",
+      "original_language": "English, based on Congress summary; full unedited video verification pending",
+      "medium": "press conference, Indira Bhawan, New Delhi",
+      "claim_text": "Congress-edited highlights: 'approximately 1,00,250 votes were stolen out of 6.5 lakh total votes in Mahadevapura.'",
+      "claim_url": "https://inc.in/congress-sandesh/national/a-systematic-multi-pronged-approach-the-bjp-controlled-eci",
+      "claim_type": "quantitative electoral fraud and causal allegation",
+      "testable_propositions": [
+        "Exactly or approximately 100,250 fraudulent ballots were cast or counted in 2024.",
+        "Five categories of suspicious electoral roll entries reliably identify unique ineligible voters rather than overlapping entries or stale address records.",
+        "The suspicious entries caused the result in Bangalore Central to change.",
+        "BJP and ECI intentionally colluded in this alleged manipulation."
+      ],
+      "institution": "Election Commission of India",
+      "topic": "Electoral rolls, 2024 Bangalore Central / Mahadevapura",
+      "provisional_verdict": "Unsubstantiated",
+      "confidence": "moderate on failure to establish ballot theft, not a finding that rolls were clean",
+      "status": "investigating",
+      "case_dossier": "research/cases/RAGA-2025-0001.md",
+      "source_ids": [
+        "S-2025-01",
+        "S-2025-02",
+        "S-2025-03",
+        "S-2025-04",
+        "S-2025-05",
+        "S-2024-02",
+        "S-2024-03",
+        "S-2025-07",
+        "S-2025-08",
+        "S-2025-09",
+        "S-2025-10",
+        "S-1961-01",
+        "S-2023-01",
+        "S-2025-11",
+        "S-2025-12",
+        "S-2025-13",
+        "S-2025-14"
+      ],
+      "evidence_for": [
+        "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
+        "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification.",
+        "2024 ECI source records 659826 registered Mahadevapura electors, compatible with 6.5 lakh as roll denominator, but not 6.5 lakh ballots cast.",
+        "Rahul Gandhi's first-party public channel links the contemporaneous full press conference recording, creating a path to contextual claim authentication; the recording was not played.",
+        "Claimant-controlled website 31 Aug 2025 newsletter search-indexed infographic repeats the five categories and numbers. This corroborates publication of the claim, not individual electoral anomalies or illegal ballots."
+      ],
+      "evidence_against": [
+        "An entry in a voter roll is not proof that a ballot was cast; no identified voter-level ballot reconciliation or deduplicated methodology retrieved.",
+        "Mobility and legitimate historic occupancy explain some high address counts, while not dispelling stale/ineligible entries.",
+        "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity.",
+        "ECI segment table reports only 354830 EVM votes (including NOTA) for Mahadevapura; 6.5 lakh is elector count, not EVM ballots polled.",
+        "ECI indexed constituency result reports BJP 658915 versus INC 626208, winning margin 32707; changing this margin cannot be inferred from 100250 suspicious entries without proven unique invalid votes.",
+        "10 Aug 2025 CEO Karnataka social notice, as quoted by independent contemporary reports, contests one purported instance of double voting; this is an institutional allegation pending review of its inquiry and underlying marked-roll evidence, not independently proven exculpatory evidence.",
+        "Rule 49L requires voter entry in Form 17A and a marked roll; rule 93 restricts access to the authenticated sealed records. Neither an image of two alleged ticked entries nor duplicate registrations alone proves two cast votes.",
+        "ECI August 2023 EVM manual and 15 July 2025 ECI FAQ describe Form 17C as the polling-station total vote account. Form 17A attendance differs in concept from EVM ballots polled, so any claimed double-voting count must be independently reconciled.",
+        "An August 2025 video statement attributed to the voter denies double voting, as reported by India Today. Source video and original Form 17A/marked electoral roll not inspected; testimony should be weighed, not treated as an official final adjudication."
+      ],
+      "limitations": [
+        "Constituency 2024 source voter roll and supplemental logs not retrieved",
+        "Potential category overlaps not evaluated",
+        "Full 7 August 2025 claimant-owned press conference URL recovered and linked from first-party channel, but full audio/video and claim timestamps not checked",
+        "CEO Karnataka 10 August signed notice was posted on official X (URL located); attached signed original not directly inspected because X returned 403; 7 August earlier sworn-declaration letter still missing",
+        "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained",
+        "2025 Ministry of Law consolidated statute and 2023 ECI manual inspected to establish lawful route to evidence; Rule 93 sealed records need court-authorised access, and Rule 94 retention/disposal status for 2024 election packets must be confirmed rather than assuming archived copies still exist.",
+        "Direct first-person video denial reported 13 Aug 2025; raw footage provenance not verified, no protected voting register compared.",
+        "CEO Karnataka's 7 Aug 2025 X post with a letter image is now identified by exact original post ID, but the signed notice cannot be read owing to X 403. News accounts remain secondary.",
+        "Claimant-hosted 31 Aug 2025 newsletter PDF indexed text includes five category numbers, but full newsletter PDF not visually retrieved; do not treat this editorial recap as verbatim 7 Aug press conference."
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Authenticate full video/timecodes, signed CEO 7/10 Aug letters and inquiry annexures; seek lawful original 2024 marked-roll/Form 17A records and station Form 17C with retention check; independent category overlap audit; human editorial review."
     }
   ],
   "leads": [
@@ -832,12 +1050,39 @@
         "S-2026-04"
       ],
       "next_action": "Authenticate entire original 2018 speech, first-party X media, signed 2026 HC/SC orders, relevant original Rafale procurement records; extract factual assertions separately."
+    },
+    {
+      "id": "LEAD-2004-06-08",
+      "date": "2004-06-08",
+      "topic": "Rae Bareli law and order",
+      "description": "Quoted comparison requires original 8 Jun interview, FIRs and district-level police records; provisionally unsubstantiated and not refuted.",
+      "source": "https://in.rediff.com/news/2004/jun/08rahul.htm",
+      "status": "investigating; original source and incident statistics missing",
+      "verdict": null,
+      "case_id": null
+    },
+    {
+      "id": "LEAD-2004-06-09",
+      "date": "2004-06-09",
+      "topic": "POTA repeal, misuse and government autonomy",
+      "description": "27 May coalition programme supports announced POTA repeal, official follow-through confirmed. Underlying alleged misuse and autonomy assertions require separate evidentiary tests.",
+      "source": "https://www.rediff.com/news/report/rahul/20040609.htm",
+      "status": "investigating; narrow repeal commitment provisionally Supported, other allegations unresolved",
+      "verdict": null,
+      "case_id": null
     }
   ],
   "year_index": {
     "2004": {
-      "status": "not searched",
-      "entries": []
+      "status": "Focused research through 9 June with known later 2004 leads; no exhaustive annual coverage or full original claimant recordings",
+      "entries": [
+        "RAGA-2004-0001",
+        "RAGA-2004-0002",
+        "LEAD-2004-06-08",
+        "LEAD-2004-06-09"
+      ],
+      "chronology": "research/2004-chronology-and-cases.md",
+      "next_cursor": "June 8 district crime/FIR verification, June 9 POTA case-level records, then July 27"
     },
     "2005": {
       "status": "not searched",
@@ -987,17 +1232,22 @@
     },
     {
       "domain": "BJP/RSS and Constitution",
-      "reviewed": [],
+      "reviewed": [
+        "RAGA-2004-0001",
+        "RAGA-2004-0002"
+      ],
       "leads": [
         "LEAD-2022-01"
       ],
-      "coverage": "partial discovery"
+      "coverage": "Early 2004 BJP campaign positioning documented; no original claimant audio or full campaign advertising."
     },
     {
       "domain": "Economy / jobs / RBI / CAG / SEBI / welfare",
-      "reviewed": [],
+      "reviewed": [
+        "RAGA-2004-0001"
+      ],
       "leads": [],
-      "coverage": "not searched"
+      "coverage": "11 Jan 2004 BJP economic resolution reviewed against March 2004 campaign claim; remaining economy history not searched."
     },
     {
       "domain": "CBI / ED and regulator allegations",
@@ -1018,10 +1268,21 @@
       "reviewed": [],
       "leads": [],
       "coverage": "not searched"
+    },
+    {
+      "domain": "Uttar Pradesh governance and POTA (2004)",
+      "reviewed": [],
+      "leads": [
+        "LEAD-2004-06-08",
+        "LEAD-2004-06-09"
+      ],
+      "coverage": "June 8-9 original speech missing, original MHA statute evidence retrieved, district crime and POTA case files outstanding."
     }
   ],
   "queues": {
     "investigating": [
+      "RAGA-2004-0001",
+      "RAGA-2004-0002",
       "RAGA-2025-0001",
       "RAGA-2020-0001",
       "RAGA-2024-0001"
@@ -1030,6 +1291,7 @@
       "RAGA-2019-0001"
     ],
     "historical_backlog": [
+      "2004 original Gandhi speeches, BJP campaign, Rae Bareli crime rates, POTA case-level record sweep",
       "2004-2018 annual original-speech discovery",
       "2022 RSS/Constitution claims",
       "2024 full parliamentary speech review",
@@ -1041,6 +1303,7 @@
       "LEAD-2018-01: separate 13 Oct 2026 Supreme Court interim appeal about alleged 2018 remarks"
     ],
     "primary_source_missing": [
+      "2004 March/April/June unedited Rahul speech sources and UP 2004 slogan awareness; official Rajya Sabha July 14 PDF; Rae Bareli 2004 FIRs and POTA review case files",
       "Full 7 Aug 2025 Congress briefing URL located (YouTube KPVF6ihjaz4), but video still needs playback, original-language transcription and timecodes",
       "Mahadevapura 2024 rolls and polling station-level records",
       "7 Aug 2025 CEO original post/photo URL recovered but signed letter image inaccessible (X 403); 10 Aug official post linked but signed notice attachment likewise inaccessible; inquiry material/replies missing",
@@ -1055,6 +1318,8 @@
       "LEAD-2018-01: full 20 Sep Sagwara rally recording/timecodes, 24 Sep original tweet + attached video, 25 Sep Amethi video; official HC 8 Sep 2026 signed judgment and SC 13 Oct 2026 signed interim order text"
     ],
     "recheck": [
+      "RAGA-2004-0001",
+      "RAGA-2004-0002",
       "RAGA-2025-0001",
       "LEAD-2026-01",
       "RAGA-2020-0001",
@@ -1127,48 +1392,43 @@
     }
   ],
   "next_three": [
-    "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits.",
-    "RAGA-2019-0001: full unedited 10 Apr 2019 claimant recording and court-domain 14 Nov 2019 final judgment still outstanding; seek genuine editorial review after records complete.",
-    "RAGA-2024-0001: complete MSP India Code/Gazette legal scope and Sansad TV audiovisual context checks; keep supported provisional assessment unpublished."
+    "Retrieve 30 March Rahul original media exchange and contemporaneous BJP advertising.",
+    "Obtain 15 April original remarks and 2004 UP awareness survey question and denominator.",
+    "Reconcile 8 June Rae Bareli incident and district crime data, 9 June POTA case records, then proceed to 27 July in chronological order."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-011",
+    "id": "RAGA-20261015-012",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-010",
-    "new_source_ids": [
-      "S-2018-01",
-      "S-2018-02",
-      "S-2026-02",
-      "S-2026-03",
-      "S-2026-04"
+    "resume_from": "RAGA-20261015-011",
+    "chronological_cursor": "2004-06-08; March/April primary gaps still open",
+    "newly_retrieved_source_ids": [
+      "S-2004-01",
+      "S-2004-02",
+      "S-2004-07",
+      "S-2004-08",
+      "S-2004-09",
+      "S-2004-10",
+      "S-2004-11",
+      "S-2004-12",
+      "S-2004-13"
+    ],
+    "prior_2004_research_imported": [
+      "S-2004-03",
+      "S-2004-04",
+      "S-2004-05",
+      "S-2004-06"
+    ],
+    "new_cases": [
+      "RAGA-2004-0001",
+      "RAGA-2004-0002"
     ],
     "new_leads": [
-      "LEAD-2018-01"
+      "LEAD-2004-06-08",
+      "LEAD-2004-06-09"
     ],
-    "new_draft_cases": [],
-    "case_verdict_changes": [],
     "publication_approvals": 0,
     "public_cases_added": 0,
     "corrections": [],
-    "site_verified_live": false,
-    "primary_2019_recheck": "Supreme Court 14 Nov 2019 107-page judgment reproduced by Supreme Court Observer, PDF p12 para26 and PDF p15 paras31-32 rechecked visually; official court-hosted final judgment inaccessible; full April 10 original video unplayed.",
-    "new_primary_2026": "Supreme Court official latest orders index lists 13 Oct SLP(Crl) 19559/2026, uploaded 14 Oct; full signed order PDF inaccessible.",
-    "distinct_proceedings": "2018 alleged statements 2026 defamation matter are separate from 2019 contempt over court attribution; do not conflate.",
-    "next_action": "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits.",
-    "research_file_changes": [
-      "research/leads/LEAD-2018-01.md",
-      "research/master-ledger.json",
-      "research/checkpoints/RAGA-20261015-011.md"
-    ],
-    "research_commits": [
-      "b64ed3c72adce08cdea312e6e71fb063182413f3",
-      "50c70d2799d6ab7c55db3525d514c77bde792325",
-      "d0f77ebf6ac00cb878fb25dd7c5d3b4054d230d7"
-    ],
-    "site_commits": [
-      "d2b632e24792065c8a7de1a78b506ca218cd26bf"
-    ],
-    "deployment_verification": "Workflow 38655254082 initially in_progress; external Pages URL inaccessible. Commit not independently verified live.",
-    "checkpoint_file_commit": "d0f77ebf6ac00cb878fb25dd7c5d3b4054d230d7"
+    "site_verified_live": false
   }
 }
