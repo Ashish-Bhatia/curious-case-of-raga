@@ -8,7 +8,7 @@
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "The repository index now links four publicly inspectable unfinished dossiers. HTML and CSS commits recorded on main; direct external Pages fetch failed (DisabledError), so latest deployment is not verified live.",
+    "site_live_status": "Checkpoint 011 research desk HTML updated on main; Pages workflow 38655254082 observed in_progress at first check; direct Pages homepage and JSON were inaccessible, hence not verified live.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -1106,6 +1106,15 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "Committed to main; current deployment not verified live."
+    },
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "d2b632e24792065c8a7de1a78b506ca218cd26bf",
+      "description": "Updated public research desk checkpoint to 011, corrected static index counts to 48 source entries and 5 leads; linked new 2018 Rafale lead explicitly as unverified. Four draft case dossiers still linked and zero approved findings; public data/cases.json remains empty.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Pages build 38655254082 in progress when first inspected; direct Pages homepage and cases.json returned DisabledError/inaccessible. Not verified live."
     }
   ],
   "corrections": [
@@ -1145,6 +1154,21 @@
     "primary_2019_recheck": "Supreme Court 14 Nov 2019 107-page judgment reproduced by Supreme Court Observer, PDF p12 para26 and PDF p15 paras31-32 rechecked visually; official court-hosted final judgment inaccessible; full April 10 original video unplayed.",
     "new_primary_2026": "Supreme Court official latest orders index lists 13 Oct SLP(Crl) 19559/2026, uploaded 14 Oct; full signed order PDF inaccessible.",
     "distinct_proceedings": "2018 alleged statements 2026 defamation matter are separate from 2019 contempt over court attribution; do not conflate.",
-    "next_action": "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits."
+    "next_action": "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits.",
+    "research_file_changes": [
+      "research/leads/LEAD-2018-01.md",
+      "research/master-ledger.json",
+      "research/checkpoints/RAGA-20261015-011.md"
+    ],
+    "research_commits": [
+      "b64ed3c72adce08cdea312e6e71fb063182413f3",
+      "50c70d2799d6ab7c55db3525d514c77bde792325",
+      "d0f77ebf6ac00cb878fb25dd7c5d3b4054d230d7"
+    ],
+    "site_commits": [
+      "d2b632e24792065c8a7de1a78b506ca218cd26bf"
+    ],
+    "deployment_verification": "Workflow 38655254082 initially in_progress; external Pages URL inaccessible. Commit not independently verified live.",
+    "checkpoint_file_commit": "d0f77ebf6ac00cb878fb25dd7c5d3b4054d230d7"
   }
 }
