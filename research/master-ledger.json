@@ -1,6 +1,6 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-006",
+  "checkpoint_id": "RAGA-20261015-007",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
   "scope": "Checkpoint 006: retrieved authenticated court-domain 10 Apr 2019 Rafale admissibility judgment; recovered indexed first-party 2025 allegations newsletter and original 7 Aug CEO post link (attachments not retrievable); publication still gated.",
@@ -340,6 +340,76 @@
       "title": "Chief Electoral Officer Karnataka 7 August 2025 original letter social-media post (image inaccessible)",
       "url": "https://x.com/ceo_karnataka/status/1953393121393283104/photo/1",
       "locator": "Original post ID 1953393121393283104, photo 1; source discovered but full attachment inaccessible."
+    },
+    {
+      "id": "S-2020-01",
+      "class": "claimant-primary-found-inaccessible",
+      "status": "found but inaccessible: original Twitter/X post ID located from contemporaneous embedded source; direct original returns HTTP 403; accompanying media not reviewed",
+      "date": "2020-06-20",
+      "accessed": "2026-10-15",
+      "title": "Rahul Gandhi original Twitter post alleging PM surrendered territory",
+      "url": "https://twitter.com/RahulGandhi/status/1274177964104486912",
+      "locator": "post ID 1274177964104486912, embedded June 20 in India Today; do not mark original inspected"
+    },
+    {
+      "id": "S-2020-02",
+      "class": "independent-secondary",
+      "status": "retrieved contemporaneous report with embedded original claimant post; reproduction inspected, not X original",
+      "date": "2020-06-20",
+      "accessed": "2026-10-15",
+      "title": "India Today: Rahul Gandhi PM surrendered Indian territory tweet",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-narendra-modi-china-india-clash-ladakh-1690862-2020-06-20",
+      "locator": "article original publication 09:16 IST; embed links direct post"
+    },
+    {
+      "id": "S-2020-03",
+      "class": "government-primary",
+      "status": "retrieved and read PMO public communication, treated as government claim rather than independent ground verification",
+      "date": "2020-06-19",
+      "accessed": "2026-10-15",
+      "title": "PMO summary: all-party meeting 19 June 2020, border confrontation",
+      "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=209621",
+      "locator": "PM statement that no one remained inside Indian territory / post captured"
+    },
+    {
+      "id": "S-2020-04",
+      "class": "government-primary",
+      "status": "retrieved and read clarification posted 20 Jun at 13:40 IST, after claimant post was reported",
+      "date": "2020-06-20",
+      "accessed": "2026-10-15",
+      "title": "PMO clarification on all-party meeting statement",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1632856&lang=2&reg=48",
+      "locator": "Chinese attempt to erect structures just across perceived LAC; PM phrasing explained as outcome of Indian soldiers' action"
+    },
+    {
+      "id": "S-2020-05",
+      "class": "independent-imagery-report",
+      "status": "retrieved contemporaneous Reuters syndicated text (third-party host); source satellite scenes/metadata not independently downloaded or verified",
+      "date": "2020-06-19",
+      "accessed": "2026-10-15",
+      "title": "Reuters: satellite imagery suggests Chinese activity before Galwan clash",
+      "url": "https://indianexpress.com/article/india/satellite-images-suggest-chinese-activity-at-indias-himalayan-border-before-clash/lite/",
+      "locator": "Reuters by Simon Scarr and Sanjeev Miglani; observed machinery and river-course activity, competing LAC assertions"
+    },
+    {
+      "id": "S-2020-06",
+      "class": "government-primary-postclaim",
+      "status": "retrieved and read official 15 September 2020 Defence Minister Parliament statement; available months after original claim",
+      "date": "2020-09-15",
+      "accessed": "2026-10-15",
+      "title": "Rajnath Singh statement in Lok Sabha on situation on Eastern border in Ladakh",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1654484&lang=2&reg=48",
+      "locator": "paragraphs 2, 5, 9-11: un-delineated LAC, 2020 patrol disruption, Chinese transgression attempts"
+    },
+    {
+      "id": "S-2020-07",
+      "class": "government-primary-postclaim-indexed",
+      "status": "MEA official search-indexed 7 February 2025 Lok Sabha answer inspected; direct page response failed, distinguish indexed text from directly opened document",
+      "date": "2025-02-07",
+      "accessed": "2026-10-15",
+      "title": "MEA Lok Sabha unstarred question 843 on Indo-China border-related agreements",
+      "url": "https://www.mea.gov.in/lok-sabha.htm?dtl%2F39008%2FQUESTION_NO_843_INDOCHINA_AGREEMENT_ON_BORDERRELATED_ISSUES%2523%3A~%3Atext=India%252525252520and%252525252520China%252525252520reached%252525252520agreement%2Cthe%252525252520friction%252525252520points%252525252520of%2525252525202020.",
+      "locator": "question 843 dated Feb 7 2025; 21 Oct 2024 patrolling agreement; official index text read; direct full page inaccessible"
     }
   ],
   "cases": [
@@ -478,6 +548,62 @@
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
       "next_action": "Authenticate full video/timecodes, signed CEO 7/10 Aug letters and inquiry annexures; seek lawful original 2024 marked-roll/Form 17A records and station Form 17C with retention check; independent category overlap audit; human editorial review."
+    },
+    {
+      "id": "RAGA-2020-0001",
+      "year": 2020,
+      "title": "Ladakh: claim PM surrendered Indian territory to China",
+      "speaker": "Rahul Gandhi",
+      "date": "2020-06-20",
+      "original_language": "English (contemporaneous embedded post reproduction; direct original X post inaccessible)",
+      "medium": "public Twitter/X post",
+      "claim_text": "Attributed 20 June tweet: 'PM has surrendered Indian territory to Chinese aggression.' Accompanying questions ask why and where Indian soldiers were killed.",
+      "claim_url": "https://twitter.com/RahulGandhi/status/1274177964104486912",
+      "claim_type": "causal attribution of territorial concession; rhetorical questions about contested border",
+      "testable_propositions": [
+        "Violent 15 June 2020 Galwan confrontation and deaths occurred.",
+        "Chinese military activity disrupted patrols or attempted to alter the LAC in eastern Ladakh.",
+        "By 20 June 2020, Prime Minister personally yielded Indian sovereign territory through a decision or concession."
+      ],
+      "institution": "Defence and security",
+      "topic": "China/Ladakh 2020 border confrontation",
+      "provisional_verdict": "Unsubstantiated",
+      "confidence": "moderate-low on causal surrender claim; substantive border incursions supported but original post and ground-control baselines pending",
+      "status": "investigating",
+      "case_dossier": "research/cases/RAGA-2020-0001.md",
+      "source_ids": [
+        "S-2020-01",
+        "S-2020-02",
+        "S-2020-03",
+        "S-2020-04",
+        "S-2020-05",
+        "S-2020-06",
+        "S-2020-07"
+      ],
+      "evidence_for": [
+        "20 June 2020 publisher embed reproduces dated claimant allegation and the prime minister's contested 19 June shorthand.",
+        "Reuters 19 June contemporaneous satellite-imagery reporting indicates significant Chinese ground activity; does not establish voluntary cession.",
+        "Defence Minister 15 September parliamentary account later acknowledges Chinese LAC transgression attempts and interference with traditional patrols; this later statement was unavailable to claimant at posting."
+      ],
+      "evidence_against": [
+        "PMO 20 June clarification attributes absence of Chinese presence at the specific Galwan point to Indian armed forces' resistance; this is an interested government explanation, not independent proof.",
+        "No authenticated government cession decision, geospatial possession baseline or primary army logs were retrieved to demonstrate PM voluntarily surrendered territory.",
+        "An undemarcated and disputed LAC, temporary incursion, patrol disruption and sovereign territory transfer are distinct propositions."
+      ],
+      "counterargument": "The PMO's earlier categorical 19 June phrasing invited challenge and Reuters satellite findings support Chinese activity. Official rebuttals are not independent proof that all ground positions were unchanged.",
+      "limitations": [
+        "Exact original X post and attached media found but inaccessible (403); contemporary media embed is a reproduction.",
+        "No raw geospatial image comparison or verifiable ground access patrol records inspected.",
+        "No primary evidence identifying a voluntary PM-directed cession by 20 June 2020; absence does not prove allegation false.",
+        "Sep 2020 official parliamentary statement and Feb 2025 MEA later answer cannot be backdated into June contemporaneous evidence.",
+        "2025 MEA question only indexed, direct original page inaccessible."
+      ],
+      "editorial_reviewer": null,
+      "editorial_approval": false,
+      "publication_status": "draft",
+      "primary_source_verified": false,
+      "last_checked": "2026-10-15",
+      "next_action": "Retrieve/compare original claimant post media, dated imagery and physical LAC coordinates; independent patrol records and 2020 negotiation terms; only then conduct human editorial review."
     }
   ],
   "leads": [
@@ -486,9 +612,10 @@
       "date": "2020-06-20",
       "topic": "China/Ladakh",
       "description": "Rahul Gandhi allegation that PM surrendered territory; separate legal/geographic border claims from rhetorical characterisation",
-      "source": "https://www.indiatoday.in/india/story/rahul-gandhi-narendra-modi-china-india-clash-ladakh-1690862-2020-06-20",
-      "status": "lead only; original tweet and official location records missing",
-      "verdict": null
+      "source": "https://twitter.com/RahulGandhi/status/1274177964104486912",
+      "status": "promoted to investigation RAGA-2020-0001; original X post located but 403, government/Reuters records inspected",
+      "verdict": null,
+      "case_id": "RAGA-2020-0001"
     },
     {
       "id": "LEAD-2022-01",
@@ -587,9 +714,10 @@
       ]
     },
     "2020": {
-      "status": "selective leads found; systematic year search incomplete",
+      "status": "one targeted 2020 Ladakh case opened; systematic 2020 coverage incomplete",
       "entries": [
-        "LEAD-2020-01"
+        "LEAD-2020-01",
+        "RAGA-2020-0001"
       ]
     },
     "2021": {
@@ -654,11 +782,11 @@
     },
     {
       "domain": "Armed forces, borders and defence procurement",
-      "reviewed": [],
-      "leads": [
-        "LEAD-2020-01"
+      "reviewed": [
+        "RAGA-2020-0001"
       ],
-      "coverage": "partial discovery; Rafale attribution tracked under judiciary"
+      "leads": [],
+      "coverage": "one draft on 2020 China-Ladakh; source authentication and full border audit outstanding"
     },
     {
       "domain": "BJP/RSS and Constitution",
@@ -695,7 +823,8 @@
   ],
   "queues": {
     "investigating": [
-      "RAGA-2025-0001"
+      "RAGA-2025-0001",
+      "RAGA-2020-0001"
     ],
     "review_pending": [
       "RAGA-2019-0001"
@@ -703,7 +832,6 @@
     "historical_backlog": [
       "2004-2018 annual original-speech discovery",
       "2018 Rafale contract/pricing assertions",
-      "2020 Ladakh border claim",
       "2022 RSS/Constitution claims",
       "2024 full parliamentary speech review"
     ],
@@ -719,11 +847,13 @@
       "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims",
       "2024 Form 17A/marked-roll material must be requested through lawful Rule 93 court-authorised procedure and checked for Rule 94 retention/disposal; 2023 ECI manual and statute now verified, but individual polling records are not.",
       "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication.",
-      "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed."
+      "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed.",
+      "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained."
     ],
     "recheck": [
       "RAGA-2025-0001",
-      "LEAD-2026-01"
+      "LEAD-2026-01",
+      "RAGA-2020-0001"
     ],
     "publication_ready": [],
     "published": []
@@ -739,26 +869,34 @@
     }
   ],
   "next_three": [
-    "Prioritize full 7 Aug 2025 press conference recording, Hindi/English exact quotes and timecodes; retrieve original signed CEO 7/10 Aug letter images and their enquiry attachments.",
-    "Obtain preserved 2024 rolls and lawful Rule 93 marked roll/Form 17A access if possible; request Form 17C from polling agents; audit five-category overlaps before concluding stolen votes.",
-    "Authenticate full original 10 Apr 2019 Gandhi video, request accessible official court-domain 14 Nov 2019 judgment, seek real human editorial approval; maintain research/publication separation."
+    "RAGA-2020-0001: recover exact 20 June original claimant post and attached media, ground maps and official patrol records to distinguish intrusion from alleged PM-directed cession.",
+    "LEAD-2024-01: inspect original Sansad TV 1 July 2024 Lok Sabha remarks with continuous passage and official debate record; isolate separately testable propositions.",
+    "Continue RAGA-2025-0001 primary-voter roll/Form 17C sourcing and genuine human review for RAGA-2019-0001; preserve both as unpublished."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-006",
+    "id": "RAGA-20261015-007",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-005",
+    "resume_from": "RAGA-20261015-006",
     "new_source_ids": [
-      "S-2019-10",
-      "S-2025-13",
-      "S-2025-14"
+      "S-2020-01",
+      "S-2020-02",
+      "S-2020-03",
+      "S-2020-04",
+      "S-2020-05",
+      "S-2020-06",
+      "S-2020-07"
     ],
-    "unpublished_cases_updated": [
-      "RAGA-2019-0001",
-      "RAGA-2025-0001"
+    "new_draft_cases": [
+      "RAGA-2020-0001"
     ],
-    "source_status": "Supreme Court 10 April 2019 full judgment obtained on official domain and operative para inspected; first-party 2025 claimant newsletter text only indexed; original CEO Karnataka 7 Aug 2025 signed letter post found but attachment X 403.",
+    "parked_approved_cases": [],
+    "review_pending_unchanged": [
+      "RAGA-2019-0001"
+    ],
+    "public_cases_added": 0,
     "publication_approvals": 0,
     "site_verified_live": false,
+    "source_status": "Claimant original X identified but inaccessible. Contemporaneous India Today embed/Reuters imagery reporting and PMO/Defence original statements inspected. Later 2025 MEA reply read only via indexed text.",
     "editorial_verdict_changes": 0
   }
 }
