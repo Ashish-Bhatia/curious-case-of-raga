@@ -1020,6 +1020,15 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "Main branch writes succeeded; latest Pages deployment not verified from environment."
+    },
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "44f274baaf4156c399a628a9d06072b40a9b592f",
+      "description": "Updated research desk checkpoint heading and URL to RAGA-20261015-010 after creating checkpoint file.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Committed to main; current deployment not verified live."
     }
   ],
   "corrections": [
@@ -1063,9 +1072,11 @@
     ],
     "site_commits": [
       "0ec723fe1be61fe31ecd8e3b3653e5c6d3ca05b6",
-      "ece2e0ad1eeeff2a58d73bab2fa65a1474fb372e"
+      "ece2e0ad1eeeff2a58d73bab2fa65a1474fb372e",
+      "44f274baaf4156c399a628a9d06072b40a9b592f"
     ],
     "deployment_verification": "Browser fetch of Pages homepage returned DisabledError; direct JSON page URL inaccessible. GitHub main branch updates are not proof of live deployment.",
-    "next_action": "Obtain missing unedited original claimant recordings and court/polling primary records; request case-by-case human editorial review. Keep public data/cases.json empty until genuine approval."
+    "next_action": "Obtain missing unedited original claimant recordings and court/polling primary records; request case-by-case human editorial review. Keep public data/cases.json empty until genuine approval.",
+    "checkpoint_file_commit": "c33392e09b504413e87c7c4c93eea9ee363e235c"
   }
 }
