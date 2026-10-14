@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-001",
+  "checkpoint_id": "RAGA-20261015-002",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Selective initial audit and three-claim source discovery, not a complete 2004-2026 search",
+  "scope": "Continuation of prior selective audit: authenticated 15 Apr 2019 court order, reviewed 14 Nov third-party court PDF, checked ECI 2024 segment figures, documented 2026 CMS/video date discrepancy. Not comprehensive.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -123,12 +123,79 @@
     {
       "id": "S-2026-01",
       "class": "claimant-party-video-page",
-      "status": "original publisher page retrieved; speech and specific factual assertions not yet transcribed",
-      "date": "2026-10-14",
+      "status": "publisher page retrieved; rendered page shows 11 Oct 2026, search index reports 14 Oct 2026; embedded Rahul Gandhi YouTube video was uploaded 17 Sep 2025; no unique 14 Oct 2026 event authenticated",
+      "date": null,
       "accessed": "2026-10-15",
       "title": "Indian National Congress special press conference, Vote Chori Factory",
       "url": "https://inc.in/media/videos/special-press-conference-vote-chori-factory-rahul-gandhi",
-      "locator": "Official video landing page"
+      "locator": "Official video landing page",
+      "claim_date": null,
+      "page_display_date": "2026-10-11",
+      "search_index_date": "2026-10-14",
+      "video_url": "https://www.youtube.com/watch?v=xZPIv6cS3RQ",
+      "video_upload_date": "2025-09-17"
+    },
+    {
+      "id": "S-2019-04",
+      "class": "primary-original-judiciary-hosted",
+      "status": "official 2-page PDF retrieved and visually inspected",
+      "date": "2019-04-15",
+      "accessed": "2026-10-15",
+      "title": "Supreme Court of India Record of Proceedings: Meenakshi Lekhi v Rahul Gandhi, CONMT.PET.(Crl.) No.3/2019",
+      "url": "https://api.sci.gov.in/supremecourt/2019/13640/13640_2019_Order_15-Apr-2019.pdf",
+      "locator": "PDF p.1, no Court finding as alleged; legal admissibility only; p.2 warning on court attribution"
+    },
+    {
+      "id": "S-2019-05",
+      "class": "primary-document-third-party-pdf-reproduction",
+      "status": "107-page Supreme Court judgment reproduction retrieved and paragraphs 26-33 inspected; official court-domain URL found but not retrievable",
+      "date": "2019-11-14",
+      "accessed": "2026-10-15",
+      "title": "Rafale review and Meenakshi Lekhi contempt, Supreme Court 14 November 2019 judgment, Kaul J. and Joseph J.",
+      "url": "https://www.scobserver.in/wp-content/uploads/2021/10/58_2019_1_1502_18275_Judgement_14-Nov-2019.pdf",
+      "official_url": "https://main.sci.gov.in/supremecourt/2019/58/58_2019_1_1502_18275_Judgement_14-Nov-2019.pdf",
+      "locator": "PDF pp.12-16, paras 26-33; 2019-04-10 attribution, 2019-05-08 apology, closed with caution"
+    },
+    {
+      "id": "S-2019-06",
+      "class": "independent-analysis-with-embedded-original-video-lead",
+      "status": "article and embedded video URL retrieved; video not played/verified end-to-end",
+      "date": "2019-04-23",
+      "accessed": "2026-10-15",
+      "title": "Alt News assessment of April 2019 Supreme Court apology coverage",
+      "url": "https://www.altnews.in/did-rahul-gandhi-apologise-to-supreme-court-over-chowkidar-chor-hai-comment/",
+      "video_url": "https://www.youtube.com/watch?v=36ZA9-9l90s",
+      "locator": "Describes contemporaneous video segment 03:05–03:18; shows affidavit context and separates judicial misattribution from underlying Rafale accusation"
+    },
+    {
+      "id": "S-2024-02",
+      "class": "primary-official-eci-statistical-report",
+      "status": "ECI 280-page PDF retrieved; relevant printed page 79 visually inspected",
+      "date": "2024",
+      "accessed": "2026-10-15",
+      "title": "ECI General Election 2024 statistical report: Assembly Segment-wise Information, Electors and EVM Votes",
+      "url": "https://www.eci.gov.in/eci-backend/public/all_files/GE-2024-statistical-report/15-Assembly-SegmentWise-Information-Electors.pdf",
+      "locator": "Printed p.79, PDF page index 78, Bangalore Central -> Mahadevapura, 659826 registered electors, 354830 EVM votes including NOTA"
+    },
+    {
+      "id": "S-2024-03",
+      "class": "primary-official-eci-report-index-excerpt",
+      "status": "official ECI indexed table excerpt retrieved; full source PDF direct fetch failed",
+      "date": "2024",
+      "accessed": "2026-10-15",
+      "title": "ECI 2024 Constituency-wise Detailed Result: Bangalore Central PC 25",
+      "url": "https://www.eci.gov.in/eci-backend/public/all_files/GE-2024-statistical-report/33-Constituency-Wise-Detailed-Result.pdf",
+      "locator": "PC 25 Bangalore Central, P C Mohan 658915 and Mansoor Ali Khan 626208; margin 32707"
+    },
+    {
+      "id": "S-2025-06",
+      "class": "claimant-owned-video-index",
+      "status": "YouTube listing retrieved; playback unavailable; upload date is 2025-09-17",
+      "date": "2025-09-17",
+      "accessed": "2026-10-15",
+      "title": "Rahul Gandhi verified YouTube video: Special Press Conference - Vote Chori Factory",
+      "url": "https://www.youtube.com/watch?v=xZPIv6cS3RQ",
+      "locator": "Linked by INC video page with purported October 2026 label; upload date conflicts with 2026 event assumption"
     }
   ],
   "cases": [
@@ -155,27 +222,32 @@
       "source_ids": [
         "S-2019-01",
         "S-2019-02",
-        "S-2019-03"
+        "S-2019-03",
+        "S-2019-04",
+        "S-2019-05",
+        "S-2019-06"
       ],
       "evidence_for": [
         "Contemporaneous recorded-video page establishes an attribution was publicly reported; judgment itself describes the attribution."
       ],
       "evidence_against": [
         "15 Apr 2019 Supreme Court order explicitly disclaimed any such finding, limiting the 10 Apr decision to admissibility of documents.",
-        "14 Nov 2019 judgment paras 26-33 records attribution, unconditional apology on 8 May, and closure with caution."
+        "14 Nov 2019 judgment paras 26-33 records attribution, unconditional apology on 8 May, and closure with caution.",
+        "Authenticated SC original 15 Apr 2019 PDF expressly rules out the alleged judicial finding; independently archived Nov 2019 judgment PDF paras 26-33 inspected."
       ],
       "counterargument": "Gandhi described his rhetoric as heat-of-campaign and said the attribution was unintentional. That speaks to intent, not truth of the attributed judicial finding.",
       "limitations": [
-        "Court-domain signed PDFs not obtained",
+        "15 Apr court-hosted order obtained; 10 Apr court-hosted ruling searched but not found; 14 Nov court-hosted original found but inaccessible",
         "Whole April 10 recording and surrounding remarks not transcribed",
-        "No broader verdict here on merits of the Rafale corruption allegations"
+        "No broader verdict here on merits of the Rafale corruption allegations",
+        "Contemporaneous video URL identified with secondary timestamp 03:05–03:18 but playback and full context not validated"
       ],
       "editorial_reviewer": null,
       "editorial_approval": false,
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Retrieve Court-hosted 10 Apr, 15 Apr and 14 Nov documents and complete video; submit to human editor"
+      "next_action": "Retrieve full original Gandhi 10 Apr 2019 video and court-hosted 10 Apr/14 Nov PDFs, transcribe in context, seek human review"
     },
     {
       "id": "RAGA-2025-0001",
@@ -205,30 +277,35 @@
         "S-2025-02",
         "S-2025-03",
         "S-2025-04",
-        "S-2025-05"
+        "S-2025-05",
+        "S-2024-02",
+        "S-2024-03"
       ],
       "evidence_for": [
         "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
-        "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification."
+        "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification.",
+        "2024 ECI source records 659826 registered Mahadevapura electors, compatible with 6.5 lakh as roll denominator, but not 6.5 lakh ballots cast."
       ],
       "evidence_against": [
         "An entry in a voter roll is not proof that a ballot was cast; no identified voter-level ballot reconciliation or deduplicated methodology retrieved.",
         "Mobility and legitimate historic occupancy explain some high address counts, while not dispelling stale/ineligible entries.",
-        "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity."
+        "CEO Karnataka asked for a sworn particulars-based complaint, which is an institutional response rather than proof of falsity.",
+        "ECI segment table reports only 354830 EVM votes (including NOTA) for Mahadevapura; 6.5 lakh is elector count, not EVM ballots polled.",
+        "ECI indexed constituency result reports BJP 658915 versus INC 626208, winning margin 32707; changing this margin cannot be inferred from 100250 suspicious entries without proven unique invalid votes."
       ],
       "limitations": [
         "Constituency 2024 source voter roll and supplemental logs not retrieved",
         "Potential category overlaps not evaluated",
-        "Official votes-cast records and tendered-voter/marked-roll information missing",
         "Full original event recording not checked",
-        "CEO signed notice missing"
+        "CEO signed notice missing",
+        "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained"
       ],
       "editorial_reviewer": null,
       "editorial_approval": false,
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Obtain dated 2024 roll snapshots, Form 6/7/8 adjudications, Form 17C and poll-station records where law permits; examine category overlap and turnout"
+      "next_action": "Obtain Mahadevapura 2024 roll snapshots and applications, allegations at individual-record level, deduplicate five categories, reconcile legally accessible booth-level voting evidence"
     }
   ],
   "leads": [
@@ -261,12 +338,13 @@
     },
     {
       "id": "LEAD-2026-01",
-      "date": "2026-10-14",
+      "date": null,
       "topic": "Elections/SIR",
-      "description": "Congress posted Vote Chori Factory briefing; claims and evidence packet require first extraction",
+      "description": "Vote Chori Factory video page has conflicting October 2026 metadata and embeds a 17 Sep 2025 Rahul Gandhi video; do not register a distinct 14 October 2026 press conference until independently authenticated",
       "source": "https://inc.in/media/videos/special-press-conference-vote-chori-factory-rahul-gandhi",
-      "status": "original publisher page located; original video not authenticated end-to-end",
-      "verdict": null
+      "status": "original URL retrieved but event/date unverified; source metadata conflict; no 2026 claims extracted",
+      "verdict": null,
+      "previous_assumed_date": "2026-10-14"
     }
   ],
   "year_index": {
@@ -462,23 +540,51 @@
       "2025 Bihar SIR data and court orders"
     ],
     "primary_source_missing": [
-      "Original full 10 Apr 2019 Gandhi media statement and Supreme Court-hosted court orders",
       "Original 7 Aug 2025 complete Congress briefing",
       "Mahadevapura 2024 rolls and polling station-level records",
       "Karnataka CEO signed notice and subsequent filings",
-      "2026-10-14 full briefing transcript and original evidence"
+      "Full unedited 10 Apr 2019 Gandhi video and judiciary-hosted 10 Apr decision (searched but not found) and 14 Nov judgment (link found but inaccessible)",
+      "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims"
     ],
     "recheck": [
-      "RAGA-2025-0001"
+      "RAGA-2025-0001",
+      "LEAD-2026-01"
     ],
     "publication_ready": [],
     "published": []
   },
   "site_changes": [],
-  "corrections": [],
+  "corrections": [
+    {
+      "date": "2026-10-15",
+      "scope": "unpublished lead metadata only",
+      "item": "LEAD-2026-01",
+      "change": "Earlier research baseline called the source a 14 October 2026 briefing. INC page currently shows 11 October 2026 and embeds a Rahul Gandhi video uploaded 17 September 2025; distinct 14 October event unverified. Do not claim the 2026 event occurred from this URL alone.",
+      "publication_impact": "none; no public case published"
+    }
+  ],
   "next_three": [
-    "Authenticate 2019 official Supreme Court judgments and full April 10 statement; request editorial review",
-    "Reconcile 2025 Mahadevapura 100,250 category totals against official roll, poll-day marks and independent on-site counterevidence",
-    "Transcribe and break down 14 Oct 2026 Congress briefing against SIR rules, ECI numbers and latest court orders"
-  ]
+    "Retrieve full 10 April 2019 Rahul Gandhi recording and judiciary-hosted 10 April and 14 November judgments; independent human editorial review of RAGA-2019-0001",
+    "Investigate 2024 Mahadevapura 100250 alleged entries by sampling, deduplicating, obtaining roll snapshots and matching valid poll records with privacy controls",
+    "Resolve Congress Vote Chori Factory video provenance: the linked video is a 2025 upload, so independently locate any distinct October 2026 event and check original SIR court filings"
+  ],
+  "checkpoint_notes": {
+    "id": "RAGA-20261015-002",
+    "date": "2026-10-15",
+    "new_primary_documents": [
+      "S-2019-04",
+      "S-2024-02"
+    ],
+    "primary_index_or_reproduction": [
+      "S-2019-05",
+      "S-2024-03"
+    ],
+    "original_video_leads": [
+      "S-2019-06",
+      "S-2025-06"
+    ],
+    "publication_approvals": 0,
+    "site_verified_live": false,
+    "editorial_verdict_changes": 0
+  }
 }
