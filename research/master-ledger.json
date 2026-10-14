@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-005",
+  "checkpoint_id": "RAGA-20261015-006",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 005: verified original election-law requirements and 2023 ECI manual, 2025 ECI explanatory FAQ, reported first-person denial and source authenticity limits for Mahadevapura. Selective research, not a complete historical audit.",
+  "scope": "Checkpoint 006: retrieved authenticated court-domain 10 Apr 2019 Rafale admissibility judgment; recovered indexed first-party 2025 allegations newsletter and original 7 Aug CEO post link (attachments not retrievable); publication still gated.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -201,7 +201,7 @@
     {
       "id": "S-2019-07",
       "class": "primary-judicial-text-third-party-pdf-reproduction",
-      "status": "56-page court-authored 10 April 2019 judgment retrieved from Supreme Court Observer, pdf pp 1 and 18, and operative para 12 visually inspected; judiciary-hosted original still missing",
+      "status": "56-page court-authored 10 April 2019 judgment retrieved from Supreme Court Observer, pdf pp 1 and 18, and operative para 12 visually inspected; judiciary-hosted original still missing Official judiciary-domain counterpart subsequently opened and inspected as S-2019-10.",
       "date": "2019-04-10",
       "accessed": "2026-10-15",
       "title": "Yashwant Sinha v CBI, Rafale review admissibility ruling, Supreme Court, 10 April 2019",
@@ -309,6 +309,37 @@
       "title": "India Today report: voter publicly says she voted only once and objects to publicity",
       "url": "https://www.indiatoday.in/india/story/shakun-rani-who-rahul-gandhi-claimed-voted-twice-in-2024-polls-says-she-voted-only-once-2770365-2025-08-13",
       "locator": "Article dated 13 Aug 2025, statements attributed to video message released 12 Aug; underlying recording not inspected"
+    },
+    {
+      "id": "S-2019-10",
+      "class": "primary-original-judiciary-hosted",
+      "status": "Official Supreme Court-hosted 56-page judgment directly opened and parsed on 15 Oct 2026; cover visually inspected; operative majority paragraph 12 at PDF page 18 read from source text. Confirms government documentary-admissibility objection rejected and review merits reserved. Does NOT rule on corruption.",
+      "date": "2019-04-10",
+      "accessed": "2026-10-15",
+      "title": "Supreme Court original: Yashwant Sinha v CBI, Rafale review documentary admissibility judgment, 10 April 2019",
+      "url": "https://api.sci.gov.in/supremecourt/2018/2018__Judgement_10-Apr-2019.pdf",
+      "locator": "PDF page 1: court and petition identity; PDF page 18 (zero-index 17), majority judgment para 12; Justice Joseph concurrence follows, pages 19-56",
+      "source_context": "Provides official-domain authentication for the 10 April 2019 text previously examined via third-party reproduction S-2019-07."
+    },
+    {
+      "id": "S-2025-13",
+      "class": "claimant-owned-party-published-newsletter-indexed-excerpt",
+      "status": "First-party website PDF located in search index with illustrated five-category numerical breakdown; indexed text inspected, direct PDF open returned an error. Cannot claim whole PDF visually inspected or that newsletter is verbatim 7 Aug video transcript.",
+      "date": "2025-08-31",
+      "accessed": "2026-10-15",
+      "title": "Rahul Gandhi official website: 31 August 2025 newsletter, 'Exposing Vote Chori' infographic",
+      "url": "https://rahulgandhi.in/newsletter-aug-31-2025-en.pdf",
+      "locator": "Search-indexed 'EXPOSING VOTE CHORI' infographic: 11,965, 40,009, 10,452, 4,132, 33,692; editorial narrative asserts more than 1 lakh fake voters."
+    },
+    {
+      "id": "S-2025-14",
+      "class": "primary-institutional-original-social-post-link-unreadable",
+      "status": "Search index identified Karnataka Chief Electoral Officer's original 7 Aug 2025 X photo post labeled letter to Shri Rahul Gandhi; opening signed-image link returned 403. Content and signature not authenticated; contemporary news quotations are secondary.",
+      "date": "2025-08-07",
+      "accessed": "2026-10-15",
+      "title": "Chief Electoral Officer Karnataka 7 August 2025 original letter social-media post (image inaccessible)",
+      "url": "https://x.com/ceo_karnataka/status/1953393121393283104/photo/1",
+      "locator": "Original post ID 1953393121393283104, photo 1; source discovered but full attachment inaccessible."
     }
   ],
   "cases": [
@@ -341,7 +372,8 @@
         "S-2019-06",
         "S-2019-07",
         "S-2019-08",
-        "S-2019-09"
+        "S-2019-09",
+        "S-2019-10"
       ],
       "evidence_for": [
         "Contemporaneous recorded-video page establishes an attribution was publicly reported; judgment itself describes the attribution.",
@@ -351,11 +383,12 @@
         "15 Apr 2019 Supreme Court order explicitly disclaimed any such finding, limiting the 10 Apr decision to admissibility of documents.",
         "14 Nov 2019 judgment paras 26-33 records attribution, unconditional apology on 8 May, and closure with caution.",
         "Authenticated SC original 15 Apr 2019 PDF expressly rules out the alleged judicial finding; independently archived Nov 2019 judgment PDF paras 26-33 inspected.",
-        "Newly inspected 10 April 2019 Supreme Court judgment reproduction, majority paragraph 12 (printed p.18), directly limits the ruling to documentary admissibility and future review on merits."
+        "Newly inspected 10 April 2019 Supreme Court judgment reproduction, majority paragraph 12 (printed p.18), directly limits the ruling to documentary admissibility and future review on merits.",
+        "Supreme Court's own 10 Apr 2019 judgment now directly retrieved from api.sci.gov.in: operative majority para 12 on PDF page 18 explicitly leaves review merits for later adjudication; it supplies no judicial finding of theft."
       ],
       "counterargument": "Gandhi described his rhetoric as heat-of-campaign and said the attribution was unintentional. That speaks to intent, not truth of the attributed judicial finding.",
       "limitations": [
-        "15 Apr court-hosted order authenticated; 10 Apr judgment now obtained and examined as a third-party reproduction but judiciary-hosted original still not found; 14 Nov judiciary-hosted original inaccessible",
+        "15 Apr order and 10 Apr substantive admissibility judgment both retrieved from official Supreme Court host; judiciary-hosted 14 Nov judgment remains inaccessible, but its third-party PDF reproduction has been inspected",
         "Whole April 10 recording and surrounding remarks not transcribed",
         "No broader verdict here on merits of the Rafale corruption allegations",
         "Contemporaneous video URL identified with secondary timestamp 03:05–03:18 but playback and full context not validated",
@@ -366,7 +399,7 @@
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Retrieve the original full 10 April Rahul Gandhi statement, verify uninterrupted context and translation; locate court-domain 10 April and 14 November judgment PDFs; submit case to human editor for review"
+      "next_action": "Authenticate full unedited 10 April 2019 Rahul Gandhi remarks and Hindi/English timecoded transcript; retrieve court-domain 14 Nov 2019 final judgment directly; seek human editorial review. Keep publication status draft."
     },
     {
       "id": "RAGA-2025-0001",
@@ -406,13 +439,16 @@
         "S-1961-01",
         "S-2023-01",
         "S-2025-11",
-        "S-2025-12"
+        "S-2025-12",
+        "S-2025-13",
+        "S-2025-14"
       ],
       "evidence_for": [
         "Independent field checks found mass registrations tied to changing-tenancy addresses; irregular/stale entries have support.",
         "Five category totals supplied by Congress sum to 100,250, but arithmetic is not independent verification.",
         "2024 ECI source records 659826 registered Mahadevapura electors, compatible with 6.5 lakh as roll denominator, but not 6.5 lakh ballots cast.",
-        "Rahul Gandhi's first-party public channel links the contemporaneous full press conference recording, creating a path to contextual claim authentication; the recording was not played."
+        "Rahul Gandhi's first-party public channel links the contemporaneous full press conference recording, creating a path to contextual claim authentication; the recording was not played.",
+        "Claimant-controlled website 31 Aug 2025 newsletter search-indexed infographic repeats the five categories and numbers. This corroborates publication of the claim, not individual electoral anomalies or illegal ballots."
       ],
       "evidence_against": [
         "An entry in a voter roll is not proof that a ballot was cast; no identified voter-level ballot reconciliation or deduplicated methodology retrieved.",
@@ -432,14 +468,16 @@
         "CEO Karnataka 10 August signed notice was posted on official X (URL located); attached signed original not directly inspected because X returned 403; 7 August earlier sworn-declaration letter still missing",
         "ECI aggregate EVM votes now found; ballot-level/poll-station Form 17C, marked-roll records and eligibility adjudications not obtained",
         "2025 Ministry of Law consolidated statute and 2023 ECI manual inspected to establish lawful route to evidence; Rule 93 sealed records need court-authorised access, and Rule 94 retention/disposal status for 2024 election packets must be confirmed rather than assuming archived copies still exist.",
-        "Direct first-person video denial reported 13 Aug 2025; raw footage provenance not verified, no protected voting register compared."
+        "Direct first-person video denial reported 13 Aug 2025; raw footage provenance not verified, no protected voting register compared.",
+        "CEO Karnataka's 7 Aug 2025 X post with a letter image is now identified by exact original post ID, but the signed notice cannot be read owing to X 403. News accounts remain secondary.",
+        "Claimant-hosted 31 Aug 2025 newsletter PDF indexed text includes five category numbers, but full newsletter PDF not visually retrieved; do not treat this editorial recap as verbatim 7 Aug press conference."
       ],
       "editorial_reviewer": null,
       "editorial_approval": false,
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Secure complete timecoded claimant recording, signed CEO 7 and 10 Aug notices and inquiry attachments; seek lawful 2024 marked-roll/Form 17A access under rule 93 where records retained, obtain candidate-held station Form 17C and compare audit evidence; human reviewer to approve any verdict."
+      "next_action": "Authenticate full video/timecodes, signed CEO 7/10 Aug letters and inquiry annexures; seek lawful original 2024 marked-roll/Form 17A records and station Form 17C with retention check; independent category overlap audit; human editorial review."
     }
   ],
   "leads": [
@@ -676,11 +714,12 @@
     "primary_source_missing": [
       "Full 7 Aug 2025 Congress briefing URL located (YouTube KPVF6ihjaz4), but video still needs playback, original-language transcription and timecodes",
       "Mahadevapura 2024 rolls and polling station-level records",
-      "7 Aug 2025 CEO sworn declaration request remains missing as signed original; 10 Aug 2025 official social notice link found but attached signed image inaccessible; inquiry file and replies missing",
-      "Full unedited 10 Apr 2019 Gandhi video and judiciary-hosted originals of the 10 Apr and 14 Nov judgments (third-party PDFs read)",
+      "7 Aug 2025 CEO original post/photo URL recovered but signed letter image inaccessible (X 403); 10 Aug official post linked but signed notice attachment likewise inaccessible; inquiry material/replies missing",
+      "Full unedited 10 Apr 2019 Gandhi remarks and official Supreme Court 14 Nov 2019 judgment PDF remain missing; official 10 Apr judgment now read directly as S-2019-10",
       "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims",
       "2024 Form 17A/marked-roll material must be requested through lawful Rule 93 court-authorised procedure and checked for Rule 94 retention/disposal; 2023 ECI manual and statute now verified, but individual polling records are not.",
-      "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication."
+      "Raw first-person 12 Aug 2025 voter video reported 13 Aug remains unviewed; do not treat the press summary as adjudication.",
+      "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed."
     ],
     "recheck": [
       "RAGA-2025-0001",
@@ -700,24 +739,24 @@
     }
   ],
   "next_three": [
-    "Retrieve timecoded full 7 Aug 2025 claimant recording; obtain signed Karnataka CEO 7/10 Aug notices, inquiry documents, and underlying party evidence for Shakun Rani example",
-    "Confirm retention and obtain lawful access to 2024 Mahadevapura marked roll and Form 17A under Rule 93, plus candidate-held Form 17C and authenticated station-level reconciliation",
-    "Continue full original 10 Apr 2019 Gandhi remarks/judiciary-hosted judgments for human editorial review; verify October 2026 video provenance separately"
+    "Prioritize full 7 Aug 2025 press conference recording, Hindi/English exact quotes and timecodes; retrieve original signed CEO 7/10 Aug letter images and their enquiry attachments.",
+    "Obtain preserved 2024 rolls and lawful Rule 93 marked roll/Form 17A access if possible; request Form 17C from polling agents; audit five-category overlaps before concluding stolen votes.",
+    "Authenticate full original 10 Apr 2019 Gandhi video, request accessible official court-domain 14 Nov 2019 judgment, seek real human editorial approval; maintain research/publication separation."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-005",
+    "id": "RAGA-20261015-006",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-004",
+    "resume_from": "RAGA-20261015-005",
     "new_source_ids": [
-      "S-1961-01",
-      "S-2023-01",
-      "S-2025-11",
-      "S-2025-12"
+      "S-2019-10",
+      "S-2025-13",
+      "S-2025-14"
     ],
     "unpublished_cases_updated": [
+      "RAGA-2019-0001",
       "RAGA-2025-0001"
     ],
-    "source_status": "Official election statute and 2023 ECI manual retrieved; ECI FAQ read; first-person voter denial attributed by press; claimant video first-party metadata confirmed without transcription; signed CEO notices and marked rolls not obtained.",
+    "source_status": "Supreme Court 10 April 2019 full judgment obtained on official domain and operative para inspected; first-party 2025 claimant newsletter text only indexed; original CEO Karnataka 7 Aug 2025 signed letter post found but attachment X 403.",
     "publication_approvals": 0,
     "site_verified_live": false,
     "editorial_verdict_changes": 0
