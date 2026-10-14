@@ -1,6 +1,6 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-002",
+  "checkpoint_id": "RAGA-20261015-003",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
   "scope": "Continuation of prior selective audit: authenticated 15 Apr 2019 court order, reviewed 14 Nov third-party court PDF, checked ECI 2024 segment figures, documented 2026 CMS/video date discrepancy. Not comprehensive.",
@@ -196,6 +196,37 @@
       "title": "Rahul Gandhi verified YouTube video: Special Press Conference - Vote Chori Factory",
       "url": "https://www.youtube.com/watch?v=xZPIv6cS3RQ",
       "locator": "Linked by INC video page with purported October 2026 label; upload date conflicts with 2026 event assumption"
+    },
+    {
+      "id": "S-2019-07",
+      "class": "primary-judicial-text-third-party-pdf-reproduction",
+      "status": "56-page court-authored 10 April 2019 judgment retrieved from Supreme Court Observer, pdf pp 1 and 18, and operative para 12 visually inspected; judiciary-hosted original still missing",
+      "date": "2019-04-10",
+      "accessed": "2026-10-15",
+      "title": "Yashwant Sinha v CBI, Rafale review admissibility ruling, Supreme Court, 10 April 2019",
+      "url": "https://www.scobserver.in/wp-content/uploads/2021/10/19__Judgement_10-Apr-2019.pdf",
+      "locator": "PDF page 1 case identity; printed p 18 / PDF p 18 majority operative paragraph 12; Joseph J concurrence printed p 38 / PDF p 56",
+      "source_context": "Dismissed Union's preliminary objections to using three documents; review petitions to be adjudicated on merits; no adjudication of Modi theft assertion in this preliminary ruling"
+    },
+    {
+      "id": "S-2019-08",
+      "class": "primary-government-executive-contemporaneous-statement",
+      "status": "PIB Ministry of Defence 10 Apr 2019 public statement opened and checked; represents executive response, not independent proof",
+      "date": "2019-04-10",
+      "accessed": "2026-10-15",
+      "title": "Ministry of Defence PIB: Supreme Court’s order dated 10 April 2019 on 36 Rafale Procurement Case",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1570349&lang=2&reg=48",
+      "locator": "Release timestamp 3:52 PM; distinguishes admitting documents from undecided review merits"
+    },
+    {
+      "id": "S-2019-09",
+      "class": "contemporaneous-publisher-original-video-lead",
+      "status": "Verified publisher video landing and publication date found, but video playback/full-context transcription not completed",
+      "date": "2019-04-10",
+      "accessed": "2026-10-15",
+      "title": "The Economic Times video: SC agrees 'Chowkidar chor hai', says Rahul Gandhi on Rafale review case",
+      "url": "https://www.youtube.com/watch?v=Ck4uVc3MTjw",
+      "locator": "Video description only, not treated as verbatim claim transcript"
     }
   ],
   "cases": [
@@ -225,29 +256,35 @@
         "S-2019-03",
         "S-2019-04",
         "S-2019-05",
-        "S-2019-06"
+        "S-2019-06",
+        "S-2019-07",
+        "S-2019-08",
+        "S-2019-09"
       ],
       "evidence_for": [
-        "Contemporaneous recorded-video page establishes an attribution was publicly reported; judgment itself describes the attribution."
+        "Contemporaneous recorded-video page establishes an attribution was publicly reported; judgment itself describes the attribution.",
+        "The 10 April ruling really did dismiss the Union's document-admissibility objection, as confirmed by the judgment text and contemporaneous Ministry of Defence PIB statement."
       ],
       "evidence_against": [
         "15 Apr 2019 Supreme Court order explicitly disclaimed any such finding, limiting the 10 Apr decision to admissibility of documents.",
         "14 Nov 2019 judgment paras 26-33 records attribution, unconditional apology on 8 May, and closure with caution.",
-        "Authenticated SC original 15 Apr 2019 PDF expressly rules out the alleged judicial finding; independently archived Nov 2019 judgment PDF paras 26-33 inspected."
+        "Authenticated SC original 15 Apr 2019 PDF expressly rules out the alleged judicial finding; independently archived Nov 2019 judgment PDF paras 26-33 inspected.",
+        "Newly inspected 10 April 2019 Supreme Court judgment reproduction, majority paragraph 12 (printed p.18), directly limits the ruling to documentary admissibility and future review on merits."
       ],
       "counterargument": "Gandhi described his rhetoric as heat-of-campaign and said the attribution was unintentional. That speaks to intent, not truth of the attributed judicial finding.",
       "limitations": [
-        "15 Apr court-hosted order obtained; 10 Apr court-hosted ruling searched but not found; 14 Nov court-hosted original found but inaccessible",
+        "15 Apr court-hosted order authenticated; 10 Apr judgment now obtained and examined as a third-party reproduction but judiciary-hosted original still not found; 14 Nov judiciary-hosted original inaccessible",
         "Whole April 10 recording and surrounding remarks not transcribed",
         "No broader verdict here on merits of the Rafale corruption allegations",
-        "Contemporaneous video URL identified with secondary timestamp 03:05–03:18 but playback and full context not validated"
+        "Contemporaneous video URL identified with secondary timestamp 03:05–03:18 but playback and full context not validated",
+        "New 10 Apr 2019 Economic Times publisher recording URL identified; full original video still not played or transcribed"
       ],
       "editorial_reviewer": null,
       "editorial_approval": false,
       "publication_status": "draft",
       "primary_source_verified": false,
       "last_checked": "2026-10-15",
-      "next_action": "Retrieve full original Gandhi 10 Apr 2019 video and court-hosted 10 Apr/14 Nov PDFs, transcribe in context, seek human review"
+      "next_action": "Retrieve the original full 10 April Rahul Gandhi statement, verify uninterrupted context and translation; locate court-domain 10 April and 14 November judgment PDFs; submit case to human editor for review"
     },
     {
       "id": "RAGA-2025-0001",
@@ -543,7 +580,7 @@
       "Original 7 Aug 2025 complete Congress briefing",
       "Mahadevapura 2024 rolls and polling station-level records",
       "Karnataka CEO signed notice and subsequent filings",
-      "Full unedited 10 Apr 2019 Gandhi video and judiciary-hosted 10 Apr decision (searched but not found) and 14 Nov judgment (link found but inaccessible)",
+      "Full unedited 10 Apr 2019 Gandhi video and judiciary-hosted originals of the 10 Apr and 14 Nov judgments (third-party PDFs read)",
       "October 2026 Vote Chori Factory page date provenance; identify any separate event before transcribing claims"
     ],
     "recheck": [
@@ -564,24 +601,21 @@
     }
   ],
   "next_three": [
-    "Retrieve full 10 April 2019 Rahul Gandhi recording and judiciary-hosted 10 April and 14 November judgments; independent human editorial review of RAGA-2019-0001",
-    "Investigate 2024 Mahadevapura 100250 alleged entries by sampling, deduplicating, obtaining roll snapshots and matching valid poll records with privacy controls",
-    "Resolve Congress Vote Chori Factory video provenance: the linked video is a 2025 upload, so independently locate any distinct October 2026 event and check original SIR court filings"
+    "Play or transcribe uninterrupted original 10 April 2019 Rahul Gandhi remarks, preserving Hindi/English translation and surrounding context; locate court-hosted judicial PDFs and request human review",
+    "Obtain Mahadevapura 2024 electoral-roll changes, signed CEO notice and lawfully accessible polling station turnout to test duplicated entries against actual casting of ballots",
+    "Resolve provenance of the supposed October 2026 Vote Chori Factory page; authenticate a distinct 2026 video/event before creating any finding"
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-002",
+    "id": "RAGA-20261015-003",
     "date": "2026-10-15",
-    "new_primary_documents": [
-      "S-2019-04",
-      "S-2024-02"
+    "new_source_ids": [
+      "S-2019-07",
+      "S-2019-08",
+      "S-2019-09"
     ],
-    "primary_index_or_reproduction": [
-      "S-2019-05",
-      "S-2024-03"
-    ],
-    "original_video_leads": [
-      "S-2019-06",
-      "S-2025-06"
+    "court_original_10_april": "court-authored PDF inspected through Supreme Court Observer archive, not judiciary-hosted",
+    "unpublished_cases_updated": [
+      "RAGA-2019-0001"
     ],
     "publication_approvals": 0,
     "site_verified_live": false,
