@@ -1,5 +1,5 @@
 # 2004 chronological investigation register
-Checkpoint: RAGA-2004-001
+Checkpoint: RAGA-2004-002
 Reviewed: 2026-10-15 (IST)
 Scope: Rahul Gandhi's own public statements, chronological from 1 January 2004; first identified testable BJP-related statements. Later years are **not yet researched** in this sequence.
 Publication gate: research notes only. No case below is approved or published, and this file is not consumed by the website case ledger.
@@ -23,8 +23,8 @@ Publication gate: research notes only. No case below is approved or published, a
 | 2004-04-07 | — | Autobiographical statement about choosing politics during his father's funeral journey; recorded by contemporary journalist, not part of this BJP institutional scrutiny. | contextual lead | N/A |
 | 2004-04-15 | RAGA-2004-0002 | Citizens in Uttar Pradesh allegedly do not recognise the India Shining campaign; critique of its reach. | REVIEW PENDING; original remarks and awareness data missing | Unsubstantiated / medium-low |
 | 2004-04-16 to 2004-06-07 | — | Focused discovery incomplete; earlier qualifying remarks might exist. | SEARCHED, NOT FOUND (limited search) | N/A |
-| 2004-06-08 | LEAD-2004-06-08 | Criticism of Uttar Pradesh law and order and Congress-SP coordination. | DISCOVERY ONLY, original speech missing | No verdict assigned |
-| 2004-06-09 | LEAD-2004-06-09 | Denial of dual power centres in UPA government, assertion of no interference; claim that POTA had been misused; comments about earlier NDA campaign. | DISCOVERY ONLY, original PTI encounter missing | No verdict assigned |
+| 2004-06-08 | LEAD-2004-06-08 | Uttar Pradesh law-and-order critique and attacks on Congress workers. | INVESTIGATING; contemporary PTI dispatch inspected; original remarks and incident records missing | No final verdict; underlying facts unsubstantiated |
+| 2004-06-09 | LEAD-2004-06-09 | UPA POTA-repeal decision, distinct alleged misuse, and claim of no dual power centres. | INVESTIGATING; UPA policy corroborated by 27 May CMP and 14 July parliamentary answer; source interview missing | Repeal-plan proposition provisionally Supported; other propositions ungraded |
 | 2004-07-27 | LEAD-2004-07-27 | Claims of deteriorating UP governance, alleged murder of party worker and deficient services. | DISCOVERY ONLY, underlying records not checked | No verdict assigned |
 | 2004-10-13 | LEAD-2004-10-13 | Gandhi-Bachchan relationship accusations, original provenance not found; reported retrospectively. | DISCOVERY ONLY, out of priority until earlier leads addressed | No verdict assigned |
 | 2004-10-14 | LEAD-2004-10-14 | Acknowledgment of excesses during the Emergency, reported from Amethi press interaction; test against 1975-77 primary records. | DISCOVERY ONLY, speech recording missing | No verdict assigned |
@@ -117,3 +117,57 @@ Search limitation: web search ranking is **not exhaustive** and absence of a res
 6. Only after independent editorial approval, transform approved case(s) to CASE_SCHEMA.md fields in data/cases.json. Never treat working verdicts as public findings.
 
 Change history: initial 2004 case and source index, followed by June-November 2004 discovery additions. No published corrections. Publication changes this checkpoint: none. Explicitly **not** a complete 2004 historical index.
+
+---
+
+## Checkpoint RAGA-2004-002: contemporaneous documentary cross-check (15 October 2026)
+
+This addendum **supersedes the June 8–9 lead-status descriptions above**. It neither resolves the missing primary claimant audio nor authorises a public verdict. Do not interpret an unrecovered recording as proof of inaccuracy.
+
+### Backward check before 30 March 2004
+Focused queries for first-person pre-29 March BJP-related Rahul remarks did not identify an authenticated recording or complete original transcript. Contemporary dated agency photographs show election appearances but do not establish the content of speeches. Status remains **SEARCHED, NOT FOUND (non-exhaustive)**. Do not imply that no such statement occurred.
+
+### New pre-claim first-party BJP material relevant to RAGA-2004-0001
+
+- **11–12 January 2004**, BJP National Executive, Hyderabad, *Economic Resolution*, first-party original text preserved in party-published *Economic Resolutions* Volume 6 (2005 edition, later digital re-typesetting timestamps 2016). URL: https://library.bjp.org/jspui/bitstream/123456789/265/1/BJP-Economics%20Resolutions.pdf. **PDF index page 0 / printed p.1**: economic improvements celebrated yet poverty and underdevelopment remain tasks to tackle. **PDF index page 2 / printed p.3**: explicit future mission to further reduce poverty and transform India into an economic superpower; expansion/upgrading of infrastructure contemplated. Both pages **visually inspected**. Classification **A for contemporaneous party position**, later compilation caveat.
+- **22 February 2004**, Times of India firsthand contemporary report about the Information and Broadcasting Ministry booklet *Achievements of NDA Government*, https://timesofindia.indiatimes.com/india/india-shining-go-by-the-book/articleshow/511964.cms. Describes Vajpayee's aspirations for a poverty-free developed India as a **future dream**, not a completed project. **Classification B, book itself NOT obtained**.
+- **30 March 2004**, original Gandhi reported quotation remains the PTI/Rediff account https://www.rediff.com/election/2004/mar/30cong.htm. The contemporaneous source recounts an argument about BJP campaign messaging and the "feel-good" theme, rather than demonstrating a verbatim BJP party promise that development was already complete.
+- **Revised source reading, NOT a verdict change:** The pre-date BJP document further disfavors a strictly literal interpretation of the claim that BJP officially regarded development as finished. Equating political optimism in advertisements with such a literal party statement would be overreach; on the other hand, a rhetorical description of triumphalist campaigning might be fair commentary. Verdict stays **Unresolved**, medium confidence that the literal attribution is unsupported by the inspected primary party texts. Original campaign films, original interview and any 2004 party statements making the specific assertion remain missing. The **8 April NDA manifesto postdates Gandhi's 30 March remarks** and cannot prove what he knew then.
+
+### LEAD-2004-06-08: reported Amethi comments on Uttar Pradesh law and order
+
+- **Claimant/date/location:** Rahul Gandhi; 8 June 2004, Amethi constituency visit; precise time and original spoken language unknown.
+- **Contemporaneous claimant account:** PTI at 18:35 IST, reproduced by Rediff: https://in.rediff.com/news/2004/jun/08rahul.htm. Reported short quotation: "The law and order situation in Uttar Pradesh in general is not good and in Rae Bareli it is worse." Also refers to attacks on Congress workers; says Congress and SP cooperation lacked coordination.
+- **Responses:** PTI June 9 report of Samajwadi Party's Amar Singh criticising Gandhi: https://in.rediff.com/news/2004/jun/08rahul1.htm. That is a partisan response and does not independently verify police incident statistics or the allegation.
+- **Propositions:** (1) There had been attacks on party workers in Rae Bareli (specific incidents not yet identified); (2) crime/public safety were worse in Rae Bareli than the rest of the state (requires comparable police reporting and reporting-bias analysis); (3) interparty coordination was poor (partly subjective insider assessment). His worry about security is an opinion, not inherently false.
+- **Evidence limitation:** No original remarks, FIRs, district-wise 2003–04 NCRB datasets or assembly record identified and checked in this run. An exchange of political statements is insufficient to establish the incident counts or geographic comparison. **Provisional assessment:** Unsubstantiated on the measurable comparison, **low-medium confidence**, not disproved. **Stage:** INVESTIGATING; not an approved numbered dossier.
+
+### LEAD-2004-06-09: distinguish POTA intention from POTA abuse and government autonomy
+
+- **Claimant/date/location:** Rahul Gandhi, speaking to PTI in Amethi on 9 June 2004; original audio and Hindi/native-language transcript missing. Contemporary PTI at 14:51 IST: https://www.rediff.com/news/report/rahul/20040609.htm.
+- **Two independent propositions about POTA:** (1) UPA had decided to repeal Prevention of Terrorism Act, 2002; (2) POTA had been misused. These are not equivalent. Another remark that Manmohan Singh governed without interference is a separate opaque claim about political autonomy; no direct Cabinet or internal UPA decision evidence obtained.
+- **Contemporaneous policy evidence:** National Common Minimum Programme **published 27 May 2004**, source-text reproduction https://architexturez.net/doc/az-cf-182356, Defence and Internal Security passage: UPA describes alleged gross misuse and **commits to repeal**. This confirms an announced coalition policy by June 9, but the document's claim of misuse is the coalition's position, not independent proof of particular abuses. A **14 July 2004 Rajya Sabha starred/unstarred Question 339, p.59**, addressed by MoS Home Sriprakash Jaiswal, further records the government's statement that repeal had been initiated and quotes the 27 May CMP text: https://www.rsdebate.nic.in/bitstream/123456789/65782/1/PQ_202_14072004_U339_p59_p59.pdf. Official PDF **search-indexed excerpt retrieved; direct PDF timed out**, so do not state the original signed/scanned page was examined.
+- **Post-claim control (not available to Gandhi on June 9):** India Code official *Prevention of Terrorism (Repeal) Act, 2004*, Act 26 of 2004, enacted **21 December**, deemed effective **21 September**: https://www.indiacode.nic.in/indiacode/handle/123456789/1672?view_type=browse. MHA/PIB release dated **25 November 2004**, https://www.pib.gov.in/newsite/erelcontent.aspx?relid=5082, affirms 21 September repeal ordinance and cites alleged abuse as government rationale. This is primary proof of repeal activity and official explanation, not independent adjudication of all POTA cases.
+- **Provisional finding on narrow proposition "UPA had adopted repeal as its policy by 9 June": Supported; moderate-high confidence** from the dated May policy reproduction, official July Parliamentary answer excerpt and enacted follow-through. Distinguish coalition policy decision from proof of a Cabinet decision made by a specific hour/date; Cabinet minutes remain unexamined. **Alleged misuse: Unsubstantiated pending individual trial/review records; no judgement of falsity.** Neither verdict is approved. The dual-power-centres assertion remains **Unresolved**, and may not be independently testable absent credible internal evidence.
+- **Adversarial check:** Even opponents of POTA were not thereby proving that every prosecution lacked merit. Repeal retained savings provisions for earlier cases; the later repeal cannot establish retroactively which prosecutions constituted misuse. Conversely, genuine abuses might exist and should be evaluated using case orders rather than political assertions.
+
+### 2004 timeline and evidence status after this update
+
+| Date | Primary-status-sensitive event | Why it matters |
+|---|---|---|
+| 11–12 Jan 2004 | BJP economic resolution, primary party text recovered from later official compilation | Knowable before 30 Mar; a development programme with unfinished tasks |
+| 22 Feb 2004 | Contemporary reporting on NDA achievements booklet, original booklet not recovered | Adds interpretive context without upgrading secondary account to primary |
+| 30 Mar 2004 | Gandhi campaign remark, PTI text only | Full unedited claimant record still missing |
+| 15 Apr 2004 | Awareness remark, PTI text only | Survey denominator and UP subsample absent |
+| 27 May 2004 | UPA CMP announced, text reproduced; authenticated first-party signed original pending | Government-party published repeal plan predated 9 Jun |
+| 8 Jun 2004 | UP law-and-order criticism, PTI only | Original remarks, district statistics and incident records required |
+| 9 Jun 2004 | POTA policy and multiple additional remarks, PTI only | Policy direction corroborated, POTA misuse not proven by coalition statement |
+| 14 Jul 2004 | Rajya Sabha Q339 official PDF indexed but timed out on fetch | Retrospective primary institutional acknowledgment of initiated repeal |
+| 21 Sep 2004 | POTA repeal ordinance became effective | Subsequent confirmed action, not contemporaneous June proof |
+| 21 Dec 2004 | Parliament enacted Act 26 of 2004 with effect from 21 Sep | Official statutory confirmation |
+
+**Other time-order constraints:** The 27 July, October and November leads have not been adjudicated in this addendum. Their previous place in the chronological table is preserved; do not jump to later decades. May–June 2004 parliamentary utterances and earlier campaign statements may still be discovered.
+
+**Sources newly obtained this checkpoint:** BJP Jan 2004 resolution PDF pp. 1,3; 22 Feb I&B booklet contemporaneous reporting; 8 Jun and 9 Jun PTI articles; 27 May UPA CMP reproduced text; 14 Jul Rajya Sabha official indexed Q339; 2004 India Code POTA repeal statute page; 25 Nov Ministry of Home Affairs PIB release; 9 Jun SP response. Original full claimant recordings **searched but not found**.
+
+**Next chronological priority:** Obtain March 30/April 15 original speech tapes and survey, then June 8 Rae Bareli FIR/crime figures and June 9 POTA misuse case-level judicial/review records. After these blockers are marked, advance to the next dated 2004 claim, starting 27 July, without implying exhaustive earlier coverage. No publication or approval in this checkpoint.
