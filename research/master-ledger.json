@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-010",
+  "checkpoint_id": "RAGA-20261015-011",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 010: published a clearly designated open-research index linking four unfinished case dossiers and the source/lead register. No findings or provisional verdicts entered the public case ledger; authenticated evidence and editorial approval gates unchanged.",
+  "scope": "Checkpoint 011: 2019 Supreme Court attribution judicial paragraphs rechecked; a distinct 2018 Rafale speech/tweet and 2026 defamation appeal lead opened from original court metadata, court-text reproduction and contemporary reporting. No verdict publication or editorial approval.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -470,6 +470,56 @@
       "title": "PTI via Business Standard: MSP legal guarantee issue rocks Rajya Sabha",
       "url": "https://www.business-standard.com/politics/msp-legal-guarantee-issue-rocks-rajya-sabha-cong-led-oppn-stages-protest-124072600872_1.html",
       "locator": "PTI story 26 Jul 2024, first published 23:12 IST, section on MSP committee and outstanding legal-guarantee demand"
+    },
+    {
+      "id": "S-2018-01",
+      "class": "contemporaneous-publisher-original-video-lead",
+      "status": "20 September 2018 verified publisher recording landing and date identified; full rally playback and Hindi transcript/timecode not authenticated",
+      "date": "2018-09-20",
+      "accessed": "2026-10-15",
+      "title": "Mango News: Rahul Gandhi rally at Sagwara in Dungarpur",
+      "url": "https://www.youtube.com/watch?v=fy9HYh3jFr0",
+      "locator": "20 Sep 2018 YouTube publisher recording, complete film not played"
+    },
+    {
+      "id": "S-2018-02",
+      "class": "contemporaneous-independent-report-with-claimant-tweet-embed",
+      "status": "24 September 2018 dated article and original first-party tweet embed located; original X post status ID/attached video not retrieved",
+      "date": "2018-09-24",
+      "accessed": "2026-10-15",
+      "title": "India Today: Commander-in-Thief post and Rafale/François Hollande context",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-rafale-deal-francois-hollande-mediapart-1347658-2018-09-24",
+      "locator": "Contains contemporaneous Rahul Gandhi embed with pic.twitter.com/USrxqlJTWe; embedded media not independently played"
+    },
+    {
+      "id": "S-2026-02",
+      "class": "primary-supreme-court-official-case-order-index",
+      "status": "official sci.gov.in latest orders index directly inspected: Gandhi v State of Maharashtra SLP(Crl) 19559/2026, diary 61668/2026, order 13 Oct 2026, upload 14 Oct; signed downloadable order body not retrieved",
+      "date": "2026-10-13",
+      "accessed": "2026-10-15",
+      "title": "Supreme Court latest orders: Rahul Gandhi v State of Maharashtra, SLP(Crl) 19559/2026",
+      "url": "https://www.sci.gov.in/latest-orders/",
+      "locator": "Latest orders row naming party, SLP(Crl) No.19559/2026, Diary No.61668/2026, uploaded 14 October 2026"
+    },
+    {
+      "id": "S-2026-03",
+      "class": "primary-judicial-text-third-party-reproduction",
+      "status": "8 Sep 2026 Bombay High Court digitally-signed-layout oral order text accessed from Indian Kanoon, 11 pages text checked; original court domain PDF/signature not authenticated",
+      "date": "2026-09-08",
+      "accessed": "2026-10-15",
+      "title": "Bombay HC: Rahul Gandhi v State of Maharashtra, Criminal WP 4391/2021, N.R. Borkar J.",
+      "url": "https://indiankanoon.org/doc/167473602/",
+      "locator": "Reproduced judgment pp 1-11, paras 3,5,8 quoted complaint; paras 17-23 limited standing/quash procedural finding"
+    },
+    {
+      "id": "S-2026-04",
+      "class": "independent-contemporaneous-court-report",
+      "status": "Article accessed and dated 14 October 2026; independent description of SC interim stay/notice, not first-party written SC order",
+      "date": "2026-10-14",
+      "accessed": "2026-10-15",
+      "title": "Indian Express: Supreme Court stays defamation trial over 2018 remarks, seeks response",
+      "url": "https://indianexpress.com/article/legal-news/rahul-gandhi-defamation-case-pm-modi-supreme-court-trial-stay-10919174/",
+      "locator": "14 Oct 2026 report: 13 Oct interim trial stay and notice; distinguishes 2018 complaint from 2019 contempt"
     }
   ],
   "cases": [
@@ -764,6 +814,24 @@
       "status": "rechecked page metadata 15 Oct 2026; event authentication still unresolved, not a finding",
       "verdict": null,
       "previous_assumed_date": "2026-10-14"
+    },
+    {
+      "id": "LEAD-2018-01",
+      "date": "2018-09-20",
+      "topic": "Defence procurement / political rhetoric / defamation procedure",
+      "description": "September 2018 Dungarpur and online Rafale/Commander-in-Thief accusations, later 2026 High Court threshold ruling and Supreme Court interim stay. Separate from April 2019 contempt case.",
+      "source": "https://indiankanoon.org/doc/167473602/",
+      "status": "2018 first-hand publisher recording and claimant tweet embed located but not authenticated end-to-end; HC judicial original text available via third-party reproduction, Supreme Court 13 Oct 2026 case/order index independently verified but signed order PDF unplayed; no verdict",
+      "verdict": null,
+      "dossier": "research/leads/LEAD-2018-01.md",
+      "source_ids": [
+        "S-2018-01",
+        "S-2018-02",
+        "S-2026-02",
+        "S-2026-03",
+        "S-2026-04"
+      ],
+      "next_action": "Authenticate entire original 2018 speech, first-party X media, signed 2026 HC/SC orders, relevant original Rafale procurement records; extract factual assertions separately."
     }
   ],
   "year_index": {
@@ -824,8 +892,10 @@
       "entries": []
     },
     "2018": {
-      "status": "not searched",
-      "entries": []
+      "status": "One targeted Sept 2018 Rafale claim lead identified; original source playback and merits verification pending; systematic year coverage not done",
+      "entries": [
+        "LEAD-2018-01"
+      ]
     },
     "2019": {
       "status": "selective leads found; systematic year search incomplete",
@@ -890,8 +960,10 @@
       "reviewed": [
         "RAGA-2019-0001"
       ],
-      "leads": [],
-      "coverage": "selective initial search"
+      "leads": [
+        "LEAD-2018-01"
+      ],
+      "coverage": "2019 court-attribution dossier, plus distinct 2018 claim / 2026 procedural court lead; 13 Oct 2026 SC order metadata verified, signed order not yet read."
     },
     {
       "domain": "Parliament and constitutional offices",
@@ -908,8 +980,10 @@
       "reviewed": [
         "RAGA-2020-0001"
       ],
-      "leads": [],
-      "coverage": "one draft on 2020 China-Ladakh; source authentication and full border audit outstanding"
+      "leads": [
+        "LEAD-2018-01"
+      ],
+      "coverage": "2020 Ladakh draft and 2018 Rafale rhetoric/defamation lead. Full procurement and border merits audits outstanding."
     },
     {
       "domain": "BJP/RSS and Constitution",
@@ -957,13 +1031,14 @@
     ],
     "historical_backlog": [
       "2004-2018 annual original-speech discovery",
-      "2018 Rafale contract/pricing assertions",
       "2022 RSS/Constitution claims",
-      "2024 full parliamentary speech review"
+      "2024 full parliamentary speech review",
+      "2018 Rafale transaction-level accusations (LEAD-2018-01); original 2018 footage/tweet and contracts pending"
     ],
     "recent_claims": [
       "LEAD-2026-01",
-      "2025 Bihar SIR data and court orders"
+      "2025 Bihar SIR data and court orders",
+      "LEAD-2018-01: separate 13 Oct 2026 Supreme Court interim appeal about alleged 2018 remarks"
     ],
     "primary_source_missing": [
       "Full 7 Aug 2025 Congress briefing URL located (YouTube KPVF6ihjaz4), but video still needs playback, original-language transcription and timecodes",
@@ -976,13 +1051,15 @@
       "31 Aug 2025 claimant-owned newsletter indexed but direct PDF unavailable for full inspection; full original 7 Aug video remains unplayed.",
       "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained.",
       "LEAD-2024-01: full uninterrupted official Sansad TV video and Hindi timecoded transcript still missing; official printed pp132–136 explicitly contain expungements, so central disputed words cannot be authenticated from edited debate text alone.",
-      "RAGA-2024-0001: the 1 July official transcript MSP portion has been authenticated, but full original speech video/timecodes and exhaustive central/state MSP legal entitlement review remain outstanding."
+      "RAGA-2024-0001: the 1 July official transcript MSP portion has been authenticated, but full original speech video/timecodes and exhaustive central/state MSP legal entitlement review remain outstanding.",
+      "LEAD-2018-01: full 20 Sep Sagwara rally recording/timecodes, 24 Sep original tweet + attached video, 25 Sep Amethi video; official HC 8 Sep 2026 signed judgment and SC 13 Oct 2026 signed interim order text"
     ],
     "recheck": [
       "RAGA-2025-0001",
       "LEAD-2026-01",
       "RAGA-2020-0001",
-      "RAGA-2024-0001"
+      "RAGA-2024-0001",
+      "LEAD-2018-01"
     ],
     "publication_ready": [],
     "published": []
@@ -1041,42 +1118,33 @@
     }
   ],
   "next_three": [
-    "RAGA-2024-0001: audit India Code, Gazette and any state-specific legal MSP guarantees in force 1 Jul 2024; recheck official Sansad TV audiovisual context and submit for genuine human editorial review.",
-    "LEAD-2024-01: inspect full unedited 1 Jul 2024 Sansad TV Hindu/violence exchange; original parliamentary debate has expunged words, verdict not assigned.",
-    "RAGA-2020-0001 and RAGA-2025-0001: source and document access gaps remain; prioritize independently verifiable mapping and voter-roll/poll-station primary records."
+    "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits.",
+    "RAGA-2019-0001: full unedited 10 Apr 2019 claimant recording and court-domain 14 Nov 2019 final judgment still outstanding; seek genuine editorial review after records complete.",
+    "RAGA-2024-0001: complete MSP India Code/Gazette legal scope and Sansad TV audiovisual context checks; keep supported provisional assessment unpublished."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-010",
+    "id": "RAGA-20261015-011",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-009",
-    "publication_request": "User requested publish everything and skip editorial review; existing mandatory evidence and human editorial checks were preserved.",
-    "case_dossiers_indexed": [
-      "RAGA-2019-0001",
-      "RAGA-2020-0001",
-      "RAGA-2024-0001",
-      "RAGA-2025-0001"
+    "resume_from": "RAGA-20261015-010",
+    "new_source_ids": [
+      "S-2018-01",
+      "S-2018-02",
+      "S-2026-02",
+      "S-2026-03",
+      "S-2026-04"
     ],
-    "new_source_ids": [],
+    "new_leads": [
+      "LEAD-2018-01"
+    ],
     "new_draft_cases": [],
-    "parked_approved_cases": [],
-    "review_pending_unchanged": [
-      "RAGA-2019-0001"
-    ],
-    "public_cases_added": 0,
+    "case_verdict_changes": [],
     "publication_approvals": 0,
-    "site_verified_live": false,
+    "public_cases_added": 0,
     "corrections": [],
-    "research_file_changes": [
-      "research/master-ledger.json",
-      "research/checkpoints/RAGA-20261015-010.md"
-    ],
-    "site_commits": [
-      "0ec723fe1be61fe31ecd8e3b3653e5c6d3ca05b6",
-      "ece2e0ad1eeeff2a58d73bab2fa65a1474fb372e",
-      "44f274baaf4156c399a628a9d06072b40a9b592f"
-    ],
-    "deployment_verification": "Browser fetch of Pages homepage returned DisabledError; direct JSON page URL inaccessible. GitHub main branch updates are not proof of live deployment.",
-    "next_action": "Obtain missing unedited original claimant recordings and court/polling primary records; request case-by-case human editorial review. Keep public data/cases.json empty until genuine approval.",
-    "checkpoint_file_commit": "c33392e09b504413e87c7c4c93eea9ee363e235c"
+    "site_verified_live": false,
+    "primary_2019_recheck": "Supreme Court 14 Nov 2019 107-page judgment reproduced by Supreme Court Observer, PDF p12 para26 and PDF p15 paras31-32 rechecked visually; official court-hosted final judgment inaccessible; full April 10 original video unplayed.",
+    "new_primary_2026": "Supreme Court official latest orders index lists 13 Oct SLP(Crl) 19559/2026, uploaded 14 Oct; full signed order PDF inaccessible.",
+    "distinct_proceedings": "2018 alleged statements 2026 defamation matter are separate from 2019 contempt over court attribution; do not conflate.",
+    "next_action": "LEAD-2018-01: obtain 13 Oct 2026 Supreme Court signed stay order and underlying 2018 claimant video/X post; separate legal procedural status from factual allegation merits."
   }
 }
