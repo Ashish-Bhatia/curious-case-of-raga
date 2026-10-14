@@ -1,14 +1,14 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-009",
+  "checkpoint_id": "RAGA-20261015-010",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Checkpoint 009: investigated distinct 1 July 2024 MSP vs legal guarantee proposition using original parliamentary record and contemporary government sources; opened unpublished Supported-scope dossier without altering editorial gate.",
+  "scope": "Checkpoint 010: published a clearly designated open-research index linking four unfinished case dossiers and the source/lead register. No findings or provisional verdicts entered the public case ledger; authenticated evidence and editorial approval gates unchanged.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "User previously reported GitHub Pages deployed. Research-only checkpoint 009 updated on main and verified in repository, but live Pages URL fetch remains blocked/unverified for latest revision.",
+    "site_live_status": "The repository index now links four publicly inspectable unfinished dossiers. HTML and CSS commits recorded on main; direct external Pages fetch failed (DisabledError), so latest deployment is not verified live.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -1005,6 +1005,21 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "Main branch file readback verified. Live Pages latest revision could not be fetched; not verified live."
+    },
+    {
+      "date": "2026-10-15",
+      "paths": [
+        "index.html",
+        "styles.css"
+      ],
+      "commits": [
+        "0ec723fe1be61fe31ecd8e3b3653e5c6d3ca05b6",
+        "ece2e0ad1eeeff2a58d73bab2fa65a1474fb372e"
+      ],
+      "description": "Added mobile-responsive public links to all four existing research dossiers and the source/lead register. Visible disclaimer explains these are unfinished questions, not verified findings. No provisional verdict presented in public case ledger.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Main branch writes succeeded; latest Pages deployment not verified from environment."
     }
   ],
   "corrections": [
@@ -1022,18 +1037,18 @@
     "RAGA-2020-0001 and RAGA-2025-0001: source and document access gaps remain; prioritize independently verifiable mapping and voter-roll/poll-station primary records."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-009",
+    "id": "RAGA-20261015-010",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-008",
-    "new_source_ids": [
-      "S-2024-06",
-      "S-2023-02",
-      "S-2024-07",
-      "S-2024-08"
+    "resume_from": "RAGA-20261015-009",
+    "publication_request": "User requested publish everything and skip editorial review; existing mandatory evidence and human editorial checks were preserved.",
+    "case_dossiers_indexed": [
+      "RAGA-2019-0001",
+      "RAGA-2020-0001",
+      "RAGA-2024-0001",
+      "RAGA-2025-0001"
     ],
-    "new_draft_cases": [
-      "RAGA-2024-0001"
-    ],
+    "new_source_ids": [],
+    "new_draft_cases": [],
     "parked_approved_cases": [],
     "review_pending_unchanged": [
       "RAGA-2019-0001"
@@ -1041,15 +1056,16 @@
     "public_cases_added": 0,
     "publication_approvals": 0,
     "site_verified_live": false,
-    "source_status": "4 new provenance-typed sources added. Official 1 July parliamentary PDF source S-2024-04 previously authenticated; distinct unexpunged MSP passage (printed p148) now inspected.",
-    "editorial_verdict_changes": 0,
-    "leads_advanced": [],
-    "new_research_files": [
-      "research/cases/RAGA-2024-0001.md",
-      "research/checkpoints/RAGA-20261015-009.md"
+    "corrections": [],
+    "research_file_changes": [
+      "research/master-ledger.json",
+      "research/checkpoints/RAGA-20261015-010.md"
     ],
-    "deployment_verification": "GitHub commit 63e1c07d updated index.html research status to 4 dossiers/43 sources; HTML section count and 00 approved check passed. Live Pages request yielded DisabledError; status not verified live.",
-    "site_update_commit": "63e1c07df756cef6d2a642c26eff7d570cbd178e",
-    "checkpoint_file_commit": "a951c5762031973ecf5714b39d6c6a65cc21eea8"
+    "site_commits": [
+      "0ec723fe1be61fe31ecd8e3b3653e5c6d3ca05b6",
+      "ece2e0ad1eeeff2a58d73bab2fa65a1474fb372e"
+    ],
+    "deployment_verification": "Browser fetch of Pages homepage returned DisabledError; direct JSON page URL inaccessible. GitHub main branch updates are not proof of live deployment.",
+    "next_action": "Obtain missing unedited original claimant recordings and court/polling primary records; request case-by-case human editorial review. Keep public data/cases.json empty until genuine approval."
   }
 }
