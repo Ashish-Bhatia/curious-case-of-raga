@@ -273,11 +273,12 @@
       "id": "S-1961-01",
       "class": "primary-legislation-official-consolidation",
       "status": "Full official Ministry of Law and Justice PDF retrieved; PDF pp 161 (printed 78, rule 49L), 219 (printed 107, rule 93), 333-335 (Forms 17A/17C). Rules are longstanding; online consolidated document uploaded July 2025, so contemporaneous changes must be checked before relying on any later-added text.",
-      "date": "1961-01-01",
+      "date": "1961",
       "accessed": "2026-10-15",
       "title": "Conduct of Elections Rules, 1961, Ministry of Law and Justice official consolidated PDF (2025 site edition)",
       "url": "https://www.legislative.gov.in/static/uploads/2025/07/f7dc5e0686b1be5b478fdef741981e60.pdf",
-      "locator": "Rule 49L printed p.78/PDF p.162 (0-based 161); rule 93 printed p.107/PDF p.220 (0-based 219); Forms 17A/17C printed pp.164-165"
+      "locator": "Rule 49L printed p.78/PDF p.162 (0-based 161); rule 93 printed p.107/PDF p.220 (0-based 219); Forms 17A/17C printed pp.164-165",
+      "edition_note": "Official consolidated PDF uploaded July 2025; original rule year 1961, precise promulgation date not independently authenticated"
     },
     {
       "id": "S-2023-01",
