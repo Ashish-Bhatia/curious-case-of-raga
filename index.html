@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1016">
+  <meta name="description" content="The Curious Case of RaGa: a satirical, evidence-led editorial archive examining political statements, claims and public records.">
+  <meta property="og:title" content="The Curious Case of RaGa">
+  <meta property="og:description" content="A curious claim deserves a serious receipt.">
+  <title>The Curious Case of RaGa | Evidence before verdict</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header">
+    <a href="#home" class="brand" aria-label="The Curious Case of RaGa, home">
+      <span class="brand-mark" aria-hidden="true">?</span>
+      <span class="brand-text">THE CURIOUS CASE <small>OF <b>RaGa</b></small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-controls="primaryNav" aria-expanded="false">Menu <span aria-hidden="true">☰</span></button>
+    <nav id="primaryNav" aria-label="Primary navigation">
+      <a href="#archive">Case files</a>
+      <a href="#institutions">Institutions</a>
+      <a href="#chronology">Timeline</a>
+      <a href="#cross-exam">The cross-exam</a>
+      <a href="#standards">Our standard</a>
+    </nav>
+    <a class="header-cta" href="#archive"><span class="live-dot"></span> OPEN THE DOSSIER <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main">
+    <section class="hero" id="home" aria-labelledby="heroTitle">
+      <div class="hero-noise" aria-hidden="true"></div>
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="eyebrow-line"></span> INDEPENDENTLY CHECKABLE POLITICAL COMMENTARY <span class="eyebrow-line"></span></div>
+          <p class="hero-kicker">A nation has questions. We brought a filing cabinet.</p>
+          <h1 id="heroTitle">THE CURIOUS<br>CASE OF <em>RaGa<span class="hero-period">.</span></em></h1>
+          <p class="hero-subtitle">Big claims. Bigger scrutiny. Actual sources.</p>
+          <p class="hero-description">A satirical editorial archive investigating Rahul Gandhi’s public statements and allegations. Each published verdict must survive a simple test: <strong>show the claim, show the record, show your work.</strong></p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#archive">Explore case files <span aria-hidden="true">↗</span></a>
+            <a class="button button-text" href="#standards">Read the evidence rules <span aria-hidden="true">→</span></a>
+          </div>
+          <p class="disclosure"><span aria-hidden="true">✳</span> Satire is the presentation. Evidence decides the verdict.</p>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="redacted-note note-one">CLAIM <span>████████</span></div>
+          <div class="redacted-note note-two">EXHIBIT <span>01</span></div>
+          <div class="file-sheet sheet-back"></div>
+          <div class="file-sheet sheet-front">
+            <div class="sheet-top"><span>PUBLIC RECORDS DIVISION</span><span>EST. MMXXVI</span></div>
+            <div class="seal-ring"><span>?</span><small>EXAMINE<br>THE EVIDENCE</small></div>
+            <div class="sheet-rule"></div>
+            <div class="sheet-title">THE<br>RECEIPTS<br>DEPARTMENT</div>
+            <div class="sheet-bottom"><span>CASE SERIES // 001</span><strong>NO ASSUMED VERDICTS</strong></div>
+          </div>
+          <div class="stamp">UNDER<br>REVIEW</div>
+          <div class="spark spark-one">✳</div><div class="spark spark-two">✳</div>
+        </div>
+      </div>
+      <div class="hero-rail">
+        <span>01 / THE ASSERTION</span><span>02 / THE DOCUMENT</span><span>03 / THE CONTEXT</span><span>04 / THE VERDICT</span>
+      </div>
+    </section>
+
+    <section class="numbers" aria-label="Archive statistics">
+      <div><strong id="caseCount">00</strong><span>Published case files</span></div>
+      <div><strong id="sourceCount">00</strong><span>Referenced source records</span></div>
+      <div><strong id="institutionCount">00</strong><span>Institutions in published cases</span></div>
+      <div class="numbers-note"><span class="status-dot"></span> NO CLAIM PUBLISHED WITHOUT REVIEW<br><small>Live figures drawn from the approved evidence ledger.</small></div>
+    </section>
+
+    <section class="section archive-section" id="archive" aria-labelledby="archiveHeading">
+      <div class="section-heading"><p class="section-index">01 — THE EVIDENCE LEDGER</p><h2 id="archiveHeading">Every assertion<br><em>gets a case file.</em></h2><p>Search published case studies. Examine the original statement, counter-evidence, contextual records and reasoning behind the verdict.</p></div>
+      <div class="ledger-toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><span class="sr-only">Search case files</span><input id="searchInput" type="search" placeholder="Search a claim, topic or institution" autocomplete="off"></label>
+        <label class="select-box"><span class="sr-only">Filter verdict</span><select id="verdictSelect"><option value="all">All verdicts</option><option>False</option><option>Misleading</option><option>Unsubstantiated</option><option>Partly true</option><option>Supported</option><option>True</option><option>Disputed</option><option>Unresolved</option><option>Opinion / prediction</option></select></label>
+        <label class="select-box"><span class="sr-only">Sort cases</span><select id="sortSelect"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="az">Title A–Z</option></select></label>
+      </div>
+      <div class="ledger-meta"><span id="resultLabel">Loading verified cases…</span><span>PUBLICATION RULE: DOCUMENTED + EDITOR APPROVED</span></div>
+      <div id="caseGrid" class="case-grid" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state" hidden><div class="empty-icon">?</div><h3 id="emptyTitle">The evidence room is being assembled.</h3><p id="emptyText">No case has passed the publication gate yet. The ledger will display verified findings, not preselected conclusions.</p><a href="#standards">How a finding gets published →</a></div>
+    </section>
+
+    <section class="section institutions-section" id="institutions" aria-labelledby="institutionHeading">
+      <div class="section-heading compact"><p class="section-index">02 — THE INSTITUTIONAL INDEX</p><h2 id="institutionHeading">Nobody gets<br><em>a free pass.</em></h2><p>Explore the subject areas under scrutiny. These are research categories, not allegations or findings.</p></div>
+      <div class="institution-grid" id="institutionGrid">
+        <button data-institution="Election Commission of India"><span class="institution-number">I—01</span><span class="institution-icon">⌗</span><strong>Election Commission</strong><small>Rolls, EVMs, election processes</small><span class="institution-count" data-count="Election Commission of India">0 published cases ↗</span></button>
+        <button data-institution="Judiciary"><span class="institution-number">I—02</span><span class="institution-icon">⚖</span><strong>Judiciary</strong><small>Judgments, proceedings, court claims</small><span class="institution-count" data-count="Judiciary">0 published cases ↗</span></button>
+        <button data-institution="Parliament"><span class="institution-number">I—03</span><span class="institution-icon">▥</span><strong>Parliament</strong><small>Floor statements, records, proceedings</small><span class="institution-count" data-count="Parliament">0 published cases ↗</span></button>
+        <button data-institution="Defence and security"><span class="institution-number">I—04</span><span class="institution-icon">◇</span><strong>Defence & security</strong><small>Defence procurement, borders, forces</small><span class="institution-count" data-count="Defence and security">0 published cases ↗</span></button>
+        <button data-institution="Economy and data"><span class="institution-number">I—05</span><span class="institution-icon">⌁</span><strong>Economy & data</strong><small>Budgets, employment, poverty, surveys</small><span class="institution-count" data-count="Economy and data">0 published cases ↗</span></button>
+        <button data-institution="Other public claims"><span class="institution-number">I—06</span><span class="institution-icon">✳</span><strong>Other public claims</strong><small>Political parties, public administration</small><span class="institution-count" data-count="Other public claims">0 published cases ↗</span></button>
+      </div>
+    </section>
+
+    <section class="interlude" aria-label="Editorial principle"><span class="quote-mark">“</span><blockquote>The burden of proof<br>is not a <em>party affiliation.</em></blockquote><span class="interlude-caption">THE CURIOUS CASE OF RaGa / EDITORIAL STANDARD NO. 1</span></section>
+
+    <section class="section timeline-section" id="chronology" aria-labelledby="timelineHeading">
+      <div class="section-heading compact"><p class="section-index">03 — THE CHRONOLOGY</p><h2 id="timelineHeading">Follow<br><em>the timeline.</em></h2><p>What was said, when it was said, when evidence emerged and whether subsequent events changed the assessment.</p></div>
+      <div class="timeline" id="timelineList"><p class="timeline-placeholder">Chronology entries will appear only after cases have been checked and approved.</p></div>
+    </section>
+
+    <section class="section challenge-section" id="cross-exam" aria-labelledby="challengeHeading">
+      <div class="challenge-copy"><p class="section-index">04 — THE CROSS-EXAM</p><h2 id="challengeHeading">Think you<br>can spot <em>the spin?</em></h2><p>A short reasoning challenge. All scenarios are hypothetical and concern no real individual or event. Pick the defensible editorial response.</p><div class="challenge-key"><span>03 ROUNDS</span><span>NO REAL-PERSON ALLEGATIONS</span><span>EVIDENCE WINS</span></div></div>
+      <div class="challenge-card">
+        <div class="challenge-top"><span>THE EVIDENCE TEST</span><span id="roundNumber">ROUND 01 / 03</span></div>
+        <div class="challenge-track"><span id="challengeTrack"></span></div>
+        <p class="challenge-label">THE SCENARIO</p><h3 id="questionText">Loading scenario…</h3>
+        <div id="answerOptions" class="answer-options"></div>
+        <div id="feedback" class="feedback" hidden role="status"></div>
+        <button class="button button-primary challenge-next" id="nextQuestion" hidden>Next round →</button>
+        <div id="challengeFinal" class="challenge-final" hidden><p class="challenge-score" id="finalScore"></p><button class="button button-primary" id="restartChallenge">Try again ↻</button></div>
+      </div>
+    </section>
+
+    <section class="section standards-section" id="standards" aria-labelledby="standardsHeading">
+      <div class="section-heading compact"><p class="section-index">05 — OUR EDITORIAL CODE</p><h2 id="standardsHeading">The joke is free.<br><em>The facts are not.</em></h2><p>Political satire is commentary. Factual findings require records and traceable reasoning.</p></div>
+      <div class="rules">
+        <div><span>01</span><h3>Find the original</h3><p>Locate the full speech, post, interview, filing or parliamentary record. Preserve its date, language and context.</p></div>
+        <div><span>02</span><h3>Test against evidence</h3><p>Prioritise original data, legislation, signed orders and independent evidence. Scrutinise official rebuttals too.</p></div>
+        <div><span>03</span><h3>Choose the right verdict</h3><p>False, misleading, unsubstantiated, partly true, supported, true, disputed, unresolved or opinion. Never infer intent from error alone.</p></div>
+        <div><span>04</span><h3>Expose the reasoning</h3><p>Publish linked sources, relevant context, corrections and review date. Withdraw or revise any finding contradicted by new records.</p></div>
+      </div>
+      <div class="standards-footer"><span>THIS IS AN EDITORIAL PROJECT, NOT AN OFFICIAL GOVERNMENT OR POLITICAL PARTY WEBSITE.</span><a href="https://github.com/Ashish-Bhatia/curious-case-of-raga" target="_blank" rel="noopener noreferrer">View the public source repository ↗</a></div>
+    </section>
+
+    <section class="submit-band"><div><p class="section-index">HAVE A CLAIM WORTH CHECKING?</p><h2>Bring the quote.<br><em>We'll ask for the receipt.</em></h2></div><a class="button button-primary" href="https://github.com/Ashish-Bhatia/curious-case-of-raga/issues" target="_blank" rel="noopener noreferrer">Open the public issue tracker ↗</a></section>
+  </main>
+  <footer><div class="footer-top"><a href="#home" class="footer-brand">THE CURIOUS CASE<br><em>OF RaGa</em></a><p>Fair evidence standards.<br>Unequalled curiosity.<br>No invented verdicts.</p></div><div class="footer-bottom"><span>© 2026 THE CURIOUS CASE OF RaGa</span><span>POLITICAL SATIRE / PUBLIC RECORDS / EDITORIAL ANALYSIS</span><a href="#home">BACK TO TOP ↑</a></div></footer>
+
+  <dialog id="caseDialog" class="case-dialog" aria-labelledby="dialogTitle"><div class="dialog-head"><span>THE EVIDENCE ROOM</span><button id="closeDialog" aria-label="Close case">✕</button></div><div id="dialogContent"></div></dialog>
+</body>
+</html>
