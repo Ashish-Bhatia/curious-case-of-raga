@@ -8,7 +8,7 @@
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "main research commits require separate Pages deployment/live verification.",
+    "site_live_status": "Website Pages workflow 38656657768 succeeded at HTML revision 6c626b2; direct Pages homepage and public data JSON cannot be accessed in current web environment, not verified live.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -1380,6 +1380,15 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "Pages build 38655254082 in progress when first inspected; direct Pages homepage and cases.json returned DisabledError/inaccessible. Not verified live."
+    },
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "6c626b2c1cbf8f790446e81f16f2bb593a8293b7",
+      "description": "Chronological 2004 research index surfaced. Static research desk counts 6 draft cases, 61 source entries, 7 leads, 0 approved public findings. Added 2004 chronological note link, checkpoint 012 URL. Public ledger data/cases.json untouched.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "GitHub Actions Pages workflow 38656657768 completed success at website commit; direct external Pages homepage and public JSON fetch unavailable. Build passed; latest live content not independently verified."
     }
   ],
   "corrections": [
@@ -1429,6 +1438,14 @@
     "publication_approvals": 0,
     "public_cases_added": 0,
     "corrections": [],
-    "site_verified_live": false
+    "site_verified_live": false,
+    "site_commit": "6c626b2c1cbf8f790446e81f16f2bb593a8293b7",
+    "pages_workflow": {
+      "id": 38656657768,
+      "status": "completed",
+      "conclusion": "success",
+      "verified_live": false
+    },
+    "qa": "61 unique sources, six unique research cases, seven unique leads, all draft with no editorial approval; 2024 MSP case already has a verified primary source but is still unpublished; app.js gate intact; public cases.json empty."
   }
 }
