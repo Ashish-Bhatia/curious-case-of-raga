@@ -1,14 +1,14 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-013",
+  "checkpoint_id": "RAGA-20261015-014",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Chronological 2004 follow-up: POTA case-review counterchecks for 9 June and 27 July UP governance, crime, power shortage; original claimant audio/FIR missing; no approved verdict.",
+  "scope": "Chronological 2004 checkpoint: investigated 13 October Bachchan family dispute, 14 October Emergency excesses; reviewed 16 November subjective PTI remarks; source-original gaps and remaining 2004 parliamentary sweep open.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "Website Pages workflow 38656657768 succeeded at HTML revision 6c626b2; direct Pages homepage and public data JSON cannot be accessed in current web environment, not verified live.",
+    "site_live_status": "Previous Pages workflow build succeeded at checkpoint 012; newer checkpoint 014 Pages build and current live-site contents not yet verified. Public dataset remains [] on main.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -690,6 +690,116 @@
       "title": "Bombay High Court: Aatif Nasir Mulla v Central POTA Review Committee",
       "url": "https://indiankanoon.org/doc/1566394/",
       "locator": "paragraphs 7–10: reproduces 2 July 2004 committee finding declining misuse complaints in specific Mumbai bomb-blast prosecutions"
+    },
+    {
+      "id": "S-2004-18",
+      "class": "contemporary-journalism-attributed-quotation",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-10-13",
+      "accessed": "2026-10-15",
+      "title": "Times of India, TNN, Bachchans full of lies, says Rahul",
+      "url": "https://timesofindia.indiatimes.com/india/bachchans-full-of-lies-says-rahul/articleshow/884262.cms",
+      "locator": "23:20 IST, main report, quotes reply to Jaya's allegation; original Rahul recording not found"
+    },
+    {
+      "id": "S-2004-19",
+      "class": "retrospective-publisher-republication",
+      "status": "republication inspected; old original date not authenticated",
+      "date": "2022-02-05",
+      "accessed": "2026-10-15",
+      "title": "Outlook, Smita Gupta, The B-i-G Freeze",
+      "url": "https://www.outlookindia.com/national/the-b-i-g-freeze-news-225612",
+      "locator": "Present site metadata published Feb 2022, updated Feb 2024, describes 13 Oct 2004; not an authenticated contemporary original"
+    },
+    {
+      "id": "S-2004-20",
+      "class": "primary-legislative-member-index",
+      "status": "indexed official biography found; complete dynamic text inaccessible",
+      "date": "2004",
+      "accessed": "2026-10-15",
+      "title": "Rajya Sabha official biography: Smt. Jaya Amitabh Bachchan",
+      "url": "https://sansad.in/rs/members/biographyM/1964",
+      "locator": "Official indexed member listing identifies Samajwadi Party; direct full JS page inaccessible; Jaya affiliation only"
+    },
+    {
+      "id": "S-2004-21",
+      "class": "contemporary-on-the-record-journalism",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-10-15",
+      "accessed": "2026-10-15",
+      "title": "Telegraph India, Amitabh steps into first family feud",
+      "url": "https://www.telegraphindia.com/india/amitabh-steps-into-first-family-feud/cid/707565",
+      "locator": "Published 15 Oct 2004; contemporaneous reported Bachchan response; Jaya rally claims described secondhand"
+    },
+    {
+      "id": "S-2004-22",
+      "class": "contemporary-journalism-attributed-paraphrase",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-10-14",
+      "accessed": "2026-10-15",
+      "title": "Times of India TNN, Rahul says Emergency saw excesses",
+      "url": "https://timesofindia.indiatimes.com/india/Rahul-says-Emergency-saw-excesses/articleshow/885811.cms",
+      "locator": "14 Oct 2004 at 03:43 IST; report says Thursday exchange, hour/date ambiguity; reported acknowledgment, not verbatim"
+    },
+    {
+      "id": "S-2004-23",
+      "class": "contemporary-partisan-response-by-PTI",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-10-14",
+      "accessed": "2026-10-15",
+      "title": "PTI via Times of India, Congress downplays Rahul's admission about Emergency",
+      "url": "https://timesofindia.indiatimes.com/india/congress-downplays-rahuls-admission-about-emergency/articleshow/885439.cms",
+      "locator": "14 Oct 2004 at 19:48 IST; Girija Vyas response, contextual only"
+    },
+    {
+      "id": "S-2004-24",
+      "class": "primary-government-annual-report-contemporaneous-to-1978",
+      "status": "ministry PDF directly inspected; p.3 visually reviewed",
+      "date": "1978-79",
+      "accessed": "2026-10-15",
+      "title": "Ministry of Home Affairs Annual Report 1978–79",
+      "url": "https://www.mha.gov.in/sites/default/files/REPORT_1978_79_12022021.pdf",
+      "locator": "Original ministry-hosted PDF visually checked, printed p.3 / PDF index 7, paragraph 9: three Shah Commission reports accepted and FIRs registered in certain cases; p.1 / PDF index 5 MISA repeal"
+    },
+    {
+      "id": "S-2004-25",
+      "class": "government-retrospective-context-not-independent",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2025-06-24",
+      "accessed": "2026-10-15",
+      "title": "Press Information Bureau, The Emergency in India (factsheet)",
+      "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=149224&lang=1&reg=48",
+      "locator": "Government 2025 retrospective Shah Commission narrative; details not independently audited, not a contemporaneous report"
+    },
+    {
+      "id": "S-2004-26",
+      "class": "contemporary-wire-report-subjective-remarks",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-11-16",
+      "accessed": "2026-10-15",
+      "title": "PTI via Rediff, Becoming PM not my goal: Rahul",
+      "url": "https://in.rediff.com/news/report/rahul/20041116.htm",
+      "locator": "16 Nov 2004 19:18 IST, Shillong reporter comments; personal ambition/experience; no new graded claim"
+    },
+    {
+      "id": "S-2004-27",
+      "class": "primary-official-parliament-catalogue-index-only",
+      "status": "indexed official session collection found; full download timed out",
+      "date": "2004",
+      "accessed": "2026-10-15",
+      "title": "Parliament Digital Library, Lok Sabha Debate Indexes (2004 session titles)",
+      "url": "https://eparlib.sansad.in/handle/123456789/2976213",
+      "locator": "Search index includes 2 Jun–10 Jun, 5 Jul–26 Aug, 1–23 Dec 2004; full index fetch timed out; member speech content not reviewed"
+    },
+    {
+      "id": "S-2004-28",
+      "class": "contemporary-magazine-jaya-claim-report",
+      "status": "publisher original page opened and read; original underlying speech/primary audio absent",
+      "date": "2004-10-18",
+      "accessed": "2026-10-15",
+      "title": "India Today, Subhash Mishra, Bachchans vs Gandhis: Jaya Bachchan slams Congress",
+      "url": "https://www.indiatoday.in/magazine/indiascope/story/20041018-bachchans-vs-gandhis-jaya-bachchan-slams-congress-praises-amar-singh-789038-2004-10-17",
+      "locator": "Issue date 18 Oct 2004, migrated page carries 2012 timestamp; Jaya quote is reported journalist rendering, raw rally missing"
     }
   ],
   "cases": [
@@ -1134,20 +1244,57 @@
         "S-2004-15"
       ],
       "next_action": "Recover claimant original and alleged worker FIR; obtain comparable 2004 UP/Rae Bareli crime, UPPCL/UPERC distribution, road records; process 13 October lead afterward."
+    },
+    {
+      "id": "LEAD-2004-10-13",
+      "date": "2004-10-13",
+      "topic": "Gandhi–Bachchan dispute; betrayal accusation and party realignment",
+      "description": "13 Oct contemporaneous TNN reports Rahul disputing Jaya's betrayal allegation and accusing Bachchans of changed loyalties. Rajya Sabha official indexed listing identifies Jaya as SP member; broad family loyalty and betrayal accusations remain subjective or unverified. Original Rahul and Jaya recordings not found. Retrospective Outlook webpage has 2022/2024 publication metadata, do not treat as 2004 original.",
+      "source": "https://timesofindia.indiatimes.com/india/bachchans-full-of-lies-says-rahul/articleshow/884262.cms",
+      "status": "investigating; contemporary article inspected, claimant original missing; no single final verdict",
+      "verdict": null,
+      "case_id": null,
+      "source_ids": [
+        "S-2004-18",
+        "S-2004-19",
+        "S-2004-20",
+        "S-2004-21",
+        "S-2004-28"
+      ],
+      "next_action": "Locate full 13 October Amethi audio, Jaya rally recording, precise allegations/timing; restrict party shift to persons proved by dated original records."
+    },
+    {
+      "id": "LEAD-2004-10-14",
+      "date": "2004-10-14",
+      "topic": "1975–77 Emergency excesses acknowledgement; accompanying UP development critique",
+      "description": "Contemporary TNN paraphrases Gandhi admitting wrong Emergency excesses, with context 'very complicated'. MHA Annual Report 1978–79 printed p3/PDF index7 records Shah Commission reports accepted and follow-up FIRs. Narrow existence-of-excesses proposition provisionally Supported; does not determine individual liability. Same TNN article attributes blanket UP no-development criticism, no defined denominator. Original Gandhi interview not found; newspaper 03:43 published hour anomalous relative to Thursday description.",
+      "source": "https://timesofindia.indiatimes.com/india/Rahul-says-Emergency-saw-excesses/articleshow/885811.cms",
+      "status": "investigating; Emergency broad claim provisionally Supported, UP absolute rhetoric Unsubstantiated if literal; original speech missing",
+      "verdict": null,
+      "case_id": null,
+      "source_ids": [
+        "S-2004-22",
+        "S-2004-23",
+        "S-2004-24",
+        "S-2004-25"
+      ],
+      "next_action": "Find unedited October 14 press exchange; obtain direct Shah Commission interim/final report passages and court case-specific records; fix precise date/time and check UP development dataset before case promotion."
     }
   ],
   "year_index": {
     "2004": {
-      "status": "Focused research through 27 July 2004 with March/April/June original records still missing; October–December remain unadjudicated and annual sweep incomplete",
+      "status": "Focused chronological review through contextual 16 Nov 2004; 13/14 October leads investigated; original interview gaps and 17 Nov–31 Dec systematic speech sweep remain.",
       "entries": [
         "RAGA-2004-0001",
         "RAGA-2004-0002",
         "LEAD-2004-06-08",
         "LEAD-2004-06-09",
-        "LEAD-2004-07-27"
+        "LEAD-2004-07-27",
+        "LEAD-2004-10-13",
+        "LEAD-2004-10-14"
       ],
       "chronology": "research/2004-chronology-and-cases.md",
-      "next_cursor": "27 July open original/FIR/cause-record gaps; 13 October then 14 October and November 2004 leads next in chronological order"
+      "next_cursor": "16 November 2004 contextual PTI remarks inspected; next statement-date window 17 Nov–31 Dec 2004 (Parliament index and dated press), with earlier claimant-original source gaps queued."
     },
     "2005": {
       "status": "not searched",
@@ -1340,9 +1487,19 @@
       "leads": [
         "LEAD-2004-06-08",
         "LEAD-2004-06-09",
-        "LEAD-2004-07-27"
+        "LEAD-2004-07-27",
+        "LEAD-2004-10-14"
       ],
-      "coverage": "June/July 2004 firsthand claimant audio absent; MHA 2005–06 POTA Review Committee retrospective data independently opened; 2004 Prayas power data confirms June–July shortages, not specific FIR or responsibility; 2004 crime/local outage datasets absent."
+      "coverage": "June/July 2004 firsthand claimant audio absent; MHA 2005–06 POTA Review Committee retrospective data independently opened; 2004 Prayas power data confirms June–July shortages, not specific FIR or responsibility; 2004 crime/local outage datasets absent. Oct 14 Gandhi UP zero-development criticism reported without quantified programmes, remains rhetoric/unsubstantiated if literal."
+    },
+    {
+      "domain": "Emergency history and public-family political allegations (2004)",
+      "reviewed": [],
+      "leads": [
+        "LEAD-2004-10-13",
+        "LEAD-2004-10-14"
+      ],
+      "coverage": "13 Oct contemporary Gandhi-Bachchan exchanges separated from subjective betrayal assertions, Jaya SP affiliation indexed. 14 Oct Emergency wrong-excesses acknowledgment broadly corroborated by MHA 1978–79 annual report printed p3; original Gandhi and Jaya press/rally sources missing; no public verdict."
     }
   ],
   "queues": {
@@ -1357,6 +1514,7 @@
       "RAGA-2019-0001"
     ],
     "historical_backlog": [
+      "17 Nov–31 Dec 2004 dated claimant statements and official 14th Lok Sabha debate participation, then earlier 2004 original speech/FIR gaps.",
       "2004 original speech and campaign material, Rae Bareli murder and crime evidence, POTA committee case-level records, July power and roads local source authentication",
       "2004-2018 annual original-speech discovery",
       "2022 RSS/Constitution claims",
@@ -1381,7 +1539,8 @@
       "RAGA-2020-0001: original 20 Jun 2020 Rahul Gandhi X post and media located, direct access 403; satellite imagery raw baseline and original patrol/cessation records not obtained.",
       "LEAD-2024-01: full uninterrupted official Sansad TV video and Hindi timecoded transcript still missing; official printed pp132–136 explicitly contain expungements, so central disputed words cannot be authenticated from edited debate text alone.",
       "RAGA-2024-0001: the 1 July official transcript MSP portion has been authenticated, but full original speech video/timecodes and exhaustive central/state MSP legal entitlement review remain outstanding.",
-      "LEAD-2018-01: full 20 Sep Sagwara rally recording/timecodes, 24 Sep original tweet + attached video, 25 Sep Amethi video; official HC 8 Sep 2026 signed judgment and SC 13 Oct 2026 signed interim order text"
+      "LEAD-2018-01: full 20 Sep Sagwara rally recording/timecodes, 24 Sep original tweet + attached video, 25 Sep Amethi video; official HC 8 Sep 2026 signed judgment and SC 13 Oct 2026 signed interim order text",
+      "Original Amethi Rahul 13–14 October 2004 press audio/transcripts; original Jaya campaign rally; primary Shah Commission case-specific report pages; 14th Lok Sabha original 2004 member participation texts."
     ],
     "recheck": [
       "RAGA-2004-0001",
@@ -1467,31 +1626,37 @@
     }
   ],
   "next_three": [
-    "Resolve original Mar 30 and Apr 15 claimant interviews and relevant original BJP advertisement/UP awareness survey; retain unresolved if source unavailable.",
-    "Recover original June 8–9 and July 27 remarks, Rae Bareli murder FIR, POTA individual review files, 2004 UP distribution/crime records.",
-    "Continue in chronological order to 13 Oct 2004 lead, then 14 Oct, 16 Nov and systematic remainder-year Lok Sabha original statement sweep."
+    "Complete 17 November–31 December 2004 full first-person speech discovery and official 14th Lok Sabha debate-index audit, preserving source gap states.",
+    "Recover original 13–14 October Gandhi press remarks and Jaya rallies; inspect Shah Commission original and individual legal case records; retain supported 1975–77 broad proposition provisionally.",
+    "Keep March–July 2004 original claimant, local FIR/crime/road and POTA committee records in recheck queue; do not publish unreviewed cases."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-013",
+    "id": "RAGA-20261015-014",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-012",
-    "chronological_cursor": "2004-07-27 assessed, next dated lead 2004-10-13; earlier original claimant records remain open",
+    "resume_from": "RAGA-20261015-013",
+    "chronological_cursor": "2004-11-16 contextual press exchange assessed; next systematic first-person statements 2004-11-17 through 2004-12-31; earlier missing original recordings queued",
     "newly_retrieved_source_ids": [
-      "S-2004-14",
-      "S-2004-15",
-      "S-2004-16",
-      "S-2004-17"
+      "S-2004-18",
+      "S-2004-19",
+      "S-2004-20",
+      "S-2004-21",
+      "S-2004-22",
+      "S-2004-23",
+      "S-2004-24",
+      "S-2004-25",
+      "S-2004-26",
+      "S-2004-27",
+      "S-2004-28"
     ],
     "new_cases": [],
     "new_leads": [
-      "LEAD-2004-07-27"
+      "LEAD-2004-10-13",
+      "LEAD-2004-10-14"
     ],
-    "updated_leads": [
-      "LEAD-2004-06-09"
-    ],
+    "updated_leads": [],
     "publication_approvals": 0,
     "public_cases_added": 0,
     "site_verified_live": false,
-    "qa": "65 unique source entries, 6 unpublished draft cases, 8 leads, 0 published. 27 July complaints interpreted as reported residents' concerns, not verbatim Gandhi quotes. 2005–06 MHA review evidence is retrospective; no cause/motive inference."
+    "qa": "76 unique source entries, 6 unpublished draft cases, 10 leads, 0 published. 1978–79 MHA original scan visually inspected; 13 Oct betrayals not treated as proven; Rahul 14 Oct Emergency statement only attributed secondhand. Original interview not authenticated."
   }
 }
