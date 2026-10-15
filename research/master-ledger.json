@@ -8,7 +8,7 @@
   "repository_baseline": {
     "branch": "main",
     "public_cases": 0,
-    "site_live_status": "Previous Pages workflow build succeeded at checkpoint 012; newer checkpoint 014 Pages build and current live-site contents not yet verified. Public dataset remains [] on main.",
+    "site_live_status": "GitHub Actions Pages workflows 38660075551 (site HTML commit 189dff1) and 38660161027 (checkpoint file commit f37267f) completed successfully; direct live homepage/public JSON fetch inaccessible, so not verified live.",
     "files_inspected": [
       "README.md",
       "CASE_SCHEMA.md",
@@ -1614,6 +1614,15 @@
       "public_cases_added": 0,
       "editorial_approval_changed": false,
       "deployment_status": "GitHub Actions Pages workflow 38656657768 completed success at website commit; direct external Pages homepage and public JSON fetch unavailable. Build passed; latest live content not independently verified."
+    },
+    {
+      "date": "2026-10-15",
+      "path": "index.html",
+      "commit": "189dff1405fe542080ad29ee4b2a7d76944d2f2b",
+      "description": "Checkpoint 014 research desk counts 06 unpublished draft cases, 76 indexed source entries, 10 research leads, 00 published cases; linked October 2004 checkpoint file. No public verdict or approval flag changed.",
+      "public_cases_added": 0,
+      "editorial_approval_changed": false,
+      "deployment_status": "Pages workflow 38660075551 completed successfully for site HTML commit; later 38660161027 succeeded for checkpoint file. Direct GitHub Pages homepage and cases.json inaccessible through web tool; not independently verified live."
     }
   ],
   "corrections": [
@@ -1657,6 +1666,6 @@
     "publication_approvals": 0,
     "public_cases_added": 0,
     "site_verified_live": false,
-    "qa": "76 unique source entries, 6 unpublished draft cases, 10 leads, 0 published. 1978–79 MHA original scan visually inspected; 13 Oct betrayals not treated as proven; Rahul 14 Oct Emergency statement only attributed secondhand. Original interview not authenticated."
+    "qa": "76 unique source entries, 6 unpublished draft cases, 10 leads, 0 published. 1978–79 MHA original scan visually inspected; 13 Oct betrayals not treated as proven; Rahul 14 Oct Emergency statement only attributed secondhand. Original interview not authenticated. App.js publication gate source inspected; site HTML Pages workflow 38660075551 success; checkpoint file workflow 38660161027 success; direct live page inaccessible."
   }
 }
