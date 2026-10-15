@@ -1,9 +1,9 @@
 {
   "schema_version": "research-1.0",
-  "checkpoint_id": "RAGA-20261015-012",
+  "checkpoint_id": "RAGA-20261015-013",
   "review_date": "2026-10-15",
   "timezone": "Asia/Kolkata",
-  "scope": "Restarted strict chronology in 2004, inspected BJP 11 Jan original economic resolution, contemporaneous PTI accounts and MHA legal records, distinguished UPA POTA decision from misuse allegation. No approved cases.",
+  "scope": "Chronological 2004 follow-up: POTA case-review counterchecks for 9 June and 27 July UP governance, crime, power shortage; original claimant audio/FIR missing; no approved verdict.",
   "publication_rule": "RESEARCH ONLY. This file is not read by app.js. Do not copy records to data/cases.json until originals and corroboration are authenticated and a human editor has approved.",
   "repository_baseline": {
     "branch": "main",
@@ -650,6 +650,46 @@
       "title": "PTI SP Amar Singh response to Gandhi",
       "url": "https://in.rediff.com/news/2004/jun/08rahul1.htm",
       "locator": "Political rebuttal, not independent proof of comparative crime levels"
+    },
+    {
+      "id": "S-2004-14",
+      "class": "contemporaneous-wire",
+      "status": "27 July PTI 19:29 IST original Rediff reproduction directly opened; no unedited claimant audio, no independently identified murdered worker",
+      "date": "2004-07-27",
+      "accessed": "2026-10-15",
+      "title": "PTI: No governance, only drama in UP, Gandhi 27 July 2004",
+      "url": "https://www.rediff.com/news/report/rahul/20040727.htm",
+      "locator": "27 July 2004 19:29 IST, Gandhi remarks, context of site visits, reports complaints of power and roads"
+    },
+    {
+      "id": "S-2004-15",
+      "class": "independent-contemporaneous-sector-research",
+      "status": "original Prayas publisher 26-page PDF directly opened; September issue retrospectively describes June-July UP shortages",
+      "date": "2004-09",
+      "accessed": "2026-10-15",
+      "title": "Prayas Energy Group India Power Reforms Update, Issue IX (September 2004)",
+      "url": "https://energy.prayaspune.org/images/pdf/44_india_reforms_update9_sep04_1.pdf",
+      "locator": "printed pp15–16 / PDF pages 15–16 (zero-based 14–15): power situation, generation/import demand and daily rural hours"
+    },
+    {
+      "id": "S-2004-16",
+      "class": "primary-government-retrospective",
+      "status": "official MHA PDF directly opened; paragraphs 2.117–2.119 inspected; retrospective data cannot be known on 9 June 2004",
+      "date": "2005-06",
+      "accessed": "2026-10-15",
+      "title": "Ministry of Home Affairs Annual Report 2005–06, POTA repeal and Review Committees",
+      "url": "https://www.mha.gov.in/sites/default/files/ar0506-Eng_2.pdf",
+      "locator": "printed p32 / PDF page 38 (zero-based 37), Chapter II paras 2.117–2.119: 263 cases, 1,529 accused, no prima-facie POTA case for 1,006"
+    },
+    {
+      "id": "S-2004-17",
+      "class": "judicial-text-third-party-reproduction",
+      "status": "2010 Bombay HC judgment text directly opened at Indian Kanoon; court-hosted original and 2 July 2004 committee order not obtained",
+      "date": "2010-09-17",
+      "accessed": "2026-10-15",
+      "title": "Bombay High Court: Aatif Nasir Mulla v Central POTA Review Committee",
+      "url": "https://indiankanoon.org/doc/1566394/",
+      "locator": "paragraphs 7–10: reproduces 2 July 2004 committee finding declining misuse complaints in specific Mumbai bomb-blast prosecutions"
     }
   ],
   "cases": [
@@ -1065,24 +1105,49 @@
       "id": "LEAD-2004-06-09",
       "date": "2004-06-09",
       "topic": "POTA repeal, misuse and government autonomy",
-      "description": "27 May coalition programme supports announced POTA repeal, official follow-through confirmed. Underlying alleged misuse and autonomy assertions require separate evidentiary tests.",
+      "description": "27 May coalition programme supports repeal. MHA Annual Report 2005–06 shows 1,006 of 1,529 accused reviewed lacked prima-facie POTA case, while later Bombay HC text records particular 2 July 2004 rejected misuse complaints. Neither supports a blanket all-cases or intent allegation.",
       "source": "https://www.rediff.com/news/report/rahul/20040609.htm",
-      "status": "investigating; narrow repeal commitment provisionally Supported, other allegations unresolved",
+      "status": "investigating; repeal-plan proposition provisionally Supported; later official POTA review evidence supports concern about unsupported prosecutions, individual intent remains unresolved; original claimant recording missing",
       "verdict": null,
-      "case_id": null
+      "case_id": null,
+      "source_ids": [
+        "S-2004-08",
+        "S-2004-09",
+        "S-2004-10",
+        "S-2004-11",
+        "S-2004-12",
+        "S-2004-16",
+        "S-2004-17"
+      ]
+    },
+    {
+      "id": "LEAD-2004-07-27",
+      "date": "2004-07-27",
+      "topic": "Uttar Pradesh governance, worker-murder allegation and service delivery",
+      "description": "PTI reports Gandhi's UP governance critique and alleged Congress worker murder; independent Sept Prayas report retrospectively documents June–July power shortage. No named victim/FIR, validated crime trend, original audio or local outage records.",
+      "source": "https://www.rediff.com/news/report/rahul/20040727.htm",
+      "status": "investigating; service shortfall context corroborated, rhetoric opinion; murder, roads and law-and-order trend unresolved; no final verdict",
+      "verdict": null,
+      "case_id": null,
+      "source_ids": [
+        "S-2004-14",
+        "S-2004-15"
+      ],
+      "next_action": "Recover claimant original and alleged worker FIR; obtain comparable 2004 UP/Rae Bareli crime, UPPCL/UPERC distribution, road records; process 13 October lead afterward."
     }
   ],
   "year_index": {
     "2004": {
-      "status": "Focused research through 9 June with known later 2004 leads; no exhaustive annual coverage or full original claimant recordings",
+      "status": "Focused research through 27 July 2004 with March/April/June original records still missing; October–December remain unadjudicated and annual sweep incomplete",
       "entries": [
         "RAGA-2004-0001",
         "RAGA-2004-0002",
         "LEAD-2004-06-08",
-        "LEAD-2004-06-09"
+        "LEAD-2004-06-09",
+        "LEAD-2004-07-27"
       ],
       "chronology": "research/2004-chronology-and-cases.md",
-      "next_cursor": "June 8 district crime/FIR verification, June 9 POTA case-level records, then July 27"
+      "next_cursor": "27 July open original/FIR/cause-record gaps; 13 October then 14 October and November 2004 leads next in chronological order"
     },
     "2005": {
       "status": "not searched",
@@ -1274,9 +1339,10 @@
       "reviewed": [],
       "leads": [
         "LEAD-2004-06-08",
-        "LEAD-2004-06-09"
+        "LEAD-2004-06-09",
+        "LEAD-2004-07-27"
       ],
-      "coverage": "June 8-9 original speech missing, original MHA statute evidence retrieved, district crime and POTA case files outstanding."
+      "coverage": "June/July 2004 firsthand claimant audio absent; MHA 2005–06 POTA Review Committee retrospective data independently opened; 2004 Prayas power data confirms June–July shortages, not specific FIR or responsibility; 2004 crime/local outage datasets absent."
     }
   ],
   "queues": {
@@ -1291,7 +1357,7 @@
       "RAGA-2019-0001"
     ],
     "historical_backlog": [
-      "2004 original Gandhi speeches, BJP campaign, Rae Bareli crime rates, POTA case-level record sweep",
+      "2004 original speech and campaign material, Rae Bareli murder and crime evidence, POTA committee case-level records, July power and roads local source authentication",
       "2004-2018 annual original-speech discovery",
       "2022 RSS/Constitution claims",
       "2024 full parliamentary speech review",
@@ -1303,7 +1369,7 @@
       "LEAD-2018-01: separate 13 Oct 2026 Supreme Court interim appeal about alleged 2018 remarks"
     ],
     "primary_source_missing": [
-      "2004 March/April/June unedited Rahul speech sources and UP 2004 slogan awareness; official Rajya Sabha July 14 PDF; Rae Bareli 2004 FIRs and POTA review case files",
+      "2004 March/April/June/July unedited Rahul original statements; original 2004 UP slogan awareness; 14 July Rajya Sabha official PDF; June/July Rae Bareli/Amethi murder FIR & district crime series; 2 July 2004 POTA committee order; district/UPERC/UPPCL June–July service logs; CAG 2004 power audit PDF inaccessible",
       "Full 7 Aug 2025 Congress briefing URL located (YouTube KPVF6ihjaz4), but video still needs playback, original-language transcription and timecodes",
       "Mahadevapura 2024 rolls and polling station-level records",
       "7 Aug 2025 CEO original post/photo URL recovered but signed letter image inaccessible (X 403); 10 Aug official post linked but signed notice attachment likewise inaccessible; inquiry material/replies missing",
@@ -1401,51 +1467,31 @@
     }
   ],
   "next_three": [
-    "Retrieve 30 March Rahul original media exchange and contemporaneous BJP advertising.",
-    "Obtain 15 April original remarks and 2004 UP awareness survey question and denominator.",
-    "Reconcile 8 June Rae Bareli incident and district crime data, 9 June POTA case records, then proceed to 27 July in chronological order."
+    "Resolve original Mar 30 and Apr 15 claimant interviews and relevant original BJP advertisement/UP awareness survey; retain unresolved if source unavailable.",
+    "Recover original June 8–9 and July 27 remarks, Rae Bareli murder FIR, POTA individual review files, 2004 UP distribution/crime records.",
+    "Continue in chronological order to 13 Oct 2004 lead, then 14 Oct, 16 Nov and systematic remainder-year Lok Sabha original statement sweep."
   ],
   "checkpoint_notes": {
-    "id": "RAGA-20261015-012",
+    "id": "RAGA-20261015-013",
     "date": "2026-10-15",
-    "resume_from": "RAGA-20261015-011",
-    "chronological_cursor": "2004-06-08; March/April primary gaps still open",
+    "resume_from": "RAGA-20261015-012",
+    "chronological_cursor": "2004-07-27 assessed, next dated lead 2004-10-13; earlier original claimant records remain open",
     "newly_retrieved_source_ids": [
-      "S-2004-01",
-      "S-2004-02",
-      "S-2004-07",
-      "S-2004-08",
-      "S-2004-09",
-      "S-2004-10",
-      "S-2004-11",
-      "S-2004-12",
-      "S-2004-13"
+      "S-2004-14",
+      "S-2004-15",
+      "S-2004-16",
+      "S-2004-17"
     ],
-    "prior_2004_research_imported": [
-      "S-2004-03",
-      "S-2004-04",
-      "S-2004-05",
-      "S-2004-06"
-    ],
-    "new_cases": [
-      "RAGA-2004-0001",
-      "RAGA-2004-0002"
-    ],
+    "new_cases": [],
     "new_leads": [
-      "LEAD-2004-06-08",
+      "LEAD-2004-07-27"
+    ],
+    "updated_leads": [
       "LEAD-2004-06-09"
     ],
     "publication_approvals": 0,
     "public_cases_added": 0,
-    "corrections": [],
     "site_verified_live": false,
-    "site_commit": "6c626b2c1cbf8f790446e81f16f2bb593a8293b7",
-    "pages_workflow": {
-      "id": 38656657768,
-      "status": "completed",
-      "conclusion": "success",
-      "verified_live": false
-    },
-    "qa": "61 unique sources, six unique research cases, seven unique leads, all draft with no editorial approval; 2024 MSP case already has a verified primary source but is still unpublished; app.js gate intact; public cases.json empty."
+    "qa": "65 unique source entries, 6 unpublished draft cases, 8 leads, 0 published. 27 July complaints interpreted as reported residents' concerns, not verbatim Gandhi quotes. 2005–06 MHA review evidence is retrospective; no cause/motive inference."
   }
 }
