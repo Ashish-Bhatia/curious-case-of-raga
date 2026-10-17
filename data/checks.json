@@ -44,6 +44,61 @@
     ]
   },
   {
+    "id": "thirty-lakh-vacancies",
+    "date": "2024-03-07",
+    "topic": "Jobs",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Thirty lakh vacancies: what was being counted?",
+    "claim": "Rahul Gandhi said there were 30 lakh government vacancies and pledged to fill them if elected.",
+    "summary": "The pledge is documented. The reviewed sources do not supply an auditable total of 30 lakh distinct vacant posts.",
+    "context": "At Banswara on 7 March 2024, Gandhi said Congress had counted 30 lakh government vacancies, according to contemporaneous Indian Express reporting. The April manifesto repeated the figure and listed central government posts, educational and medical institutions, and the Central Armed Police Forces. This check tests the claimed vacancy count, not whether a future government would fulfil the pledge.",
+    "evidence": "Lok Sabha answer 1093, dated 26 July 2023, reports 9,64,359 vacant regular civilian Union government posts as of 1 March 2022. In a separate Indian Express interview, Congress manifesto committee member Praveen Chakravarty acknowledged about 9.6 lakh central vacancies and said additional sectors brought the total to 30 lakh. That interview explains the party’s intended scope but supplies no itemised calculation.",
+    "finding": "The official figure is older and has a defined employee category. It does not, by itself, refute the broader campaign total. Equally, listing additional sectors does not verify their numbers or establish that they do not overlap with the official count. The claim remains unverified on the evidence reviewed.",
+    "limit": "Required to settle the claim: an institution-by-institution list, a common reference date, sanctioned and filled strengths, and removal of duplicate posts. Original rally footage was not independently played. No verdict on the promise’s feasibility or delivery is assigned.",
+    "sources": [
+      [
+        "Indian Express, Banswara statement, 7 March 2024",
+        "https://indianexpress.com/article/india/rahul-gandhi-congress-5-lok-sabha-promises-govt-vacancies-9201395/lite/"
+      ],
+      [
+        "Congress 2024 manifesto, unemployment section, item 1",
+        "https://manifesto.inc.in/en/economy/"
+      ],
+      [
+        "Lok Sabha answer 1093, 26 July 2023, paragraphs (a)–(d)",
+        "https://sansad.in/getFile/loksabhaquestions/annex/1712/AU1093.pdf?source=pqals"
+      ],
+      [
+        "Indian Express, manifesto committee interview, 7 March 2024",
+        "https://indianexpress.com/article/political-pulse/congress-lok-sabha-elections-manifesto-rahul-gandhi-9201644/lite/"
+      ]
+    ],
+    "table": {
+      "caption": "Different dates and coverage. These figures are not a like-for-like comparison.",
+      "headers": [
+        "Record",
+        "Reference date",
+        "Count",
+        "Coverage"
+      ],
+      "rows": [
+        [
+          "Government reply",
+          "1 March 2022",
+          "9,64,359",
+          "Regular civilian Union employees"
+        ],
+        [
+          "Campaign claim",
+          "7 March 2024 statement; count date unspecified",
+          "About 30,00,000",
+          "Broader sectors described by Congress"
+        ]
+      ]
+    }
+  },
+  {
     "id": "rafale-court-attribution",
     "date": "2019-04-10",
     "topic": "Courts",
@@ -82,5 +137,54 @@
         "https://www.altnews.in/fact-check-edited-video-is-being-shared-to-falsely-claim-that-aaloo-sona-machine-remarks-belongs-to-pm-modi/"
       ]
     ]
+  },
+  {
+    "id": "demonetisation-returned-notes",
+    "date": "2017-09-08",
+    "topic": "Economy",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Did roughly 99% of the banned cash return?",
+    "claim": "Rahul Gandhi said RBI had reported that about 99% of the old currency had returned to banks.",
+    "summary": "The rounded return figure is supported. It does not establish the source of the money or the intent behind demonetisation.",
+    "context": "ANI’s report of Gandhi’s 8 September 2017 Parbhani speech attributes the 99% figure to him. The statement concerned the old ₹500 and ₹1,000 notes withdrawn in November 2016. His wider speech also alleged that demonetisation converted illicit money into legitimate money. That allegation is separate from the return percentage.",
+    "evidence": "RBI’s 2017–18 currency-management chapter, paragraph VIII.20, records ₹15,310.73 billion returned after processing. Lok Sabha answer 4023 of 4 January 2019 gives both the reconciled original value, ₹15,417.93 billion, and the returned value. Dividing the latter by the former gives 99.3047%, or 99.3% rounded to one decimal place. These later records corroborate the broad numerical claim, rather than reproduce the provisional figures available at the 2017 speech.",
+    "finding": "Supported for the narrow statement that approximately 99% of the specified notes returned, measured by value. A high return rate does not show that every deposit was lawful, that every illicit holding was identified, or that demonetisation was designed to help particular people. Those conclusions require separate evidence.",
+    "limit": "The statement’s attribution relies on ANI’s contemporaneous report, not independent playback of the complete speech. The calculation uses later reconciled figures. It is not a verdict on the overall economic costs, benefits or legality of demonetisation.",
+    "sources": [
+      [
+        "ANI via Business Standard, Parbhani speech, 8 September 2017",
+        "https://www.business-standard.com/article/news-ani/pm-modi-converted-black-money-of-thieves-into-white-rahul-117090801335_1.html"
+      ],
+      [
+        "RBI Annual Report 2017–18, Currency Management, VIII.20",
+        "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1235"
+      ],
+      [
+        "Lok Sabha answer 4023, 4 January 2019, parts (a) and (b)",
+        "https://sansad.in/getFile/loksabhaquestions/annex/16/AU4023.pdf?source=pqals"
+      ]
+    ],
+    "table": {
+      "caption": "Reconciled figures published after the speech. Unit: ₹ billion.",
+      "headers": [
+        "Measure",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Specified notes originally in circulation",
+          "15,417.93"
+        ],
+        [
+          "Specified notes returned",
+          "15,310.73"
+        ],
+        [
+          "Returned ÷ original × 100",
+          "99.3047%"
+        ]
+      ]
+    }
   }
 ]
