@@ -23,7 +23,26 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Institutional history; incomplete all-law comparison",
+      "before_2014": [
+        "The pre-2014 institutional baseline was the 1991 Election Commission law, later amended to regulate a multi-member commission. Its subject matter was service conditions and the transaction of business. It was in force during UPA as well as the preceding NDA period.",
+        "The 2023 legislation replaced that law and included the express protection discussed here. This review has not reconstructed every pre-2014 statutory defence, procedural sanction or judicial immunity potentially available to commissioners. Absence of an identical provision in one statute would not establish absence of all legal protection."
+      ],
+      "comparison": "The valid comparison is the specific statutory wording and scope. Claims that commissioners previously had no protection, or that Congress could lawfully prosecute every official decision, require further legal analysis.",
+      "sources": [
+        [
+          "1991 Election Commission Act, reproduced legal text",
+          "https://indiankanoon.org/doc/1435091/"
+        ],
+        [
+          "PRS, appointment arrangements before the March 2023 interim judgment",
+          "https://prsindia.org/billtrack/prs-products/prs-legislative-brief-4256"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "rath-yatra-drama-context",
@@ -45,7 +64,21 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "The source event is the July 2025 rally and the alleged treatment of visitors at that year’s Rath Yatra. No pre-2014 comparison of chariot stoppages, VIP access or Congress policy was established from the reviewed sources. A historical incident would require its own date, venue and evidence."
+      ],
+      "comparison": "The immediate question is what Gandhi called drama in this recording. Neither a favourable nor an unfavourable account of a previous government changes the omitted continuation. His separate allegation about the 2025 event remains unverified.",
+      "sources": [
+        [
+          "AFP, longer-speech comparison, 17 July 2025",
+          "https://factcheck.afp.com/doc.afp.com.66RH463"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "article-15-5-private-education",
@@ -57,7 +90,7 @@
     "claim": "Article 15(5) already provides a constitutional basis for reservation in private educational institutions.",
     "summary": "The enabling provision exists. It has exceptions and requires legislation.",
     "context": "Congress’s account of Gandhi’s 30 April 2025 briefing, published on 22 May, records him citing Article 15(5) and asking for implementation. This check concerns the existence and scope of the provision.",
-    "evidence": "A January 2006 government explanation of the 93rd Amendment states that legislation can make special admission provisions for socially and educationally backward classes, Scheduled Castes and Scheduled Tribes, including in aided or unaided private institutions. It expressly excludes minority institutions protected by Article 30(1).",
+    "evidence": "The official Gazette’s 93rd Amendment text inserts Article 15(5). It permits special admission provisions made by law for socially and educationally backward classes, Scheduled Castes and Scheduled Tribes, including in private aided or unaided institutions. It excludes minority institutions protected by Article 30(1). The constitutional power is enabling, rather than an automatic uniform quota.",
     "finding": "Supported on the narrow claim that the constitutional power already exists. The provision does not itself impose one uniform quota in every private institution. The implementing law and the institution’s status matter.",
     "limit": "This does not establish which institutions were complying in April 2025, what further legislation was required in each jurisdiction, or whether a particular proposed quota would survive legal challenge.",
     "sources": [
@@ -66,12 +99,37 @@
         "https://inc.in/congress-sandesh/national/we-see-the-caste-census-as-a-new-paradigm-of-development-and-we-want-to-go-beyond-the-caste-census"
       ],
       [
-        "Government explanation of the 93rd Amendment and Article 15(5), paragraphs 2–3",
-        "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=15096"
+        "Gazette, 93rd Amendment, 20 January 2006, section 2",
+        "https://www.legislative.gov.in/static/uploads/2025/07/aa777da5ac292230760bcc5778f5e0cc.pdf"
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "This enabling power dates to UPA-I. The 93rd Amendment, assented to on 20 January 2006, inserted Article 15(5), covering special admission provisions made by law, including for private aided and unaided institutions, with the stated minority-institution exception.",
+        "UPA also enacted the Central Educational Institutions (Reservation in Admission) Act, 2006, notified in January 2007. Its defined central-institution scope must not be confused with all private colleges. Section 3 sets SC, ST and OBC percentages, subject to exclusions and implementation provisions."
+      ],
+      "comparison": "Gandhi is invoking an existing constitutional power established under Congress-led government. Whether Congress or later governments fully used that power in each category of private institution is a separate implementation question.",
+      "sources": [
+        [
+          "Gazette, 93rd Amendment, 20 January 2006, section 2",
+          "https://www.legislative.gov.in/static/uploads/2025/07/aa777da5ac292230760bcc5778f5e0cc.pdf"
+        ],
+        [
+          "India Code, Central Educational Institutions Act, 2006, sections 3–6",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/2091/1/A2007-05.pdf"
+        ]
+      ]
+    },
+    "updated": "2026-10-18",
+    "corrections": [
+      {
+        "date": "2026-10-18",
+        "note": "Replaced an incorrect PIB link, which concerned minority-education legislation, with the official 93rd Amendment Gazette. Rewrote the evidence paragraph to cite the text actually inspected. Supported verdict unchanged."
+      }
+    ]
   },
   {
     "id": "china-4000",
@@ -95,7 +153,31 @@
         "Defence Ministry, response of 4 February 2025",
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2099676&lang=2&reg=48"
       ]
-    ]
+    ],
+    "history": {
+      "scope": "Earlier official position; no matched territorial measurement",
+      "before_2014": [
+        "The territorial dispute predates 2014. MEA’s 2013 official compilation, during UPA-II, records approximately 38,000 sq km of Indian territory under Chinese occupation in the then state of Jammu and Kashmir. That figure is a long-standing territorial position, not an estimate of changes after 2020. The indexed extract was retrieved; the full compilation was blocked.",
+        "There was also a pre-2014 border-management framework: the 1993 peace-and-tranquility agreement under P. V. Narasimha Rao’s Congress government, the 1996 confidence-building agreement under the United Front, and UPA-era agreements or protocols in 2005, 2012 and 2013. These sought to manage the disputed border; signing them was not a final territorial settlement.",
+        "Consequently, neither “all occupied territory was lost after 2014” nor subtraction of Gandhi’s 4,000 from the old 38,000 is a sound inference. One must identify the polygons, baseline date and whether a number concerns territorial control, access to patrol points or buffer arrangements."
+      ],
+      "comparison": "The historical record rules out treating Chinese occupation as a new post-2014 phenomenon. It neither confirms nor disproves a distinct recent 4,000 sq km change. A same-area, same-definition geospatial comparison is still missing.",
+      "sources": [
+        [
+          "MEA, India’s Foreign Relations 2013, printed page 1038, indexed extract; full PDF retrieval blocked",
+          "https://www.mea.gov.in/Uploads/PublicationDocs/25403_India_foreign_relation_2013.pdf"
+        ],
+        [
+          "MEA, 2013 Border Defence Cooperation agreement and earlier treaty chronology",
+          "https://www.mea.gov.in/Portal/LegalTreatiesDoc/CH13B1134.pdf"
+        ],
+        [
+          "Prime Minister’s Office, former Prime Ministers and tenure dates",
+          "https://www.pmindia.gov.in/en/former-prime-ministers/"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "maharashtra-39-32-lakh",
@@ -121,7 +203,22 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Comparable historical series not established",
+      "before_2014": [
+        "Pre-2014 election records exist in the ECI’s historical statistical archive. Maharashtra’s earlier Assembly elections provide a potential benchmark, but an Assembly electorate total, a Lok Sabha total and a revision-date roll need not have identical cut-offs or categories.",
+        "This review has not extracted an audited pre-2014 series of additions and deletions for a matching five-month window. Calling an older five-year change the Congress-era “normal rate” without age-cohort, registration-drive and cut-off adjustments would produce a weak comparison. Union and state governments also must not be treated as the electoral registration authority."
+      ],
+      "comparison": "The missing older benchmark is explicit. Historical averages alone cannot establish whether particular 2024 entries were eligible or whether an election result was affected. The original two-period claim remains unverified.",
+      "sources": [
+        [
+          "ECI, official historical election-statistics archive",
+          "https://www.eci.gov.in/general-election-to-state-legislative-assembly"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "manufacturing-share-2025",
@@ -147,7 +244,22 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "Manufacturing’s relatively small share was already a policy concern under UPA. In October 2011 its Cabinet approved a National Manufacturing Policy targeting at least a 25% GDP share and 100 million additional jobs by 2022. Those were future goals, not achieved 2011 levels.",
+        "This predates Make in India and shows continuity in the ambition to expand manufacturing. It does not by itself provide the consistent observed GDP series required to test Gandhi’s 2014 endpoint or his six-decade minimum. A policy target cannot substitute for the statistical baseline."
+      ],
+      "comparison": "Compare actual shares using one source vintage, denominator and price basis. Credit for announcing a manufacturing goal and responsibility for outcomes are different questions. The exact numerical claim is unchanged by this policy history.",
+      "sources": [
+        [
+          "Cabinet, National Manufacturing Policy, 25 October 2011",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=76843"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "ec-selection-cji",
@@ -177,7 +289,75 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "Before 2014, including under the Congress-led UPA governments of 2004–14, election commissioners were appointed by the President through the executive process. The 1991 service-conditions law did not create a selection panel containing either the opposition leader or the Chief Justice of India.",
+        "The CJI panel came from the Supreme Court’s March 2023 interim direction, pending parliamentary legislation. It was not the appointment system inherited from Congress. The December 2023 law then specified a different panel with an opposition member and two executive members."
+      ],
+      "comparison": "The CJI’s exclusion is supported against the March 2023 arrangement. It would be historically inaccurate to describe it as the removal of a long-standing Congress-era CJI role. The old executive system also does not settle whether the new panel is sufficiently independent.",
+      "sources": [
+        [
+          "PRS, appointment arrangements before the March 2023 interim judgment",
+          "https://prsindia.org/billtrack/prs-products/prs-legislative-brief-4256"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
+  },
+  {
+    "id": "upa-secc-2011",
+    "date": "2024-11-18",
+    "topic": "Representation",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "UPA’s caste-survey record: launched, but not published in full",
+    "claim": "UPA initiated a caste-enumeration exercise in 2011 but did not deliver the published caste breakdown now being demanded.",
+    "summary": "The separate SECC exercise was launched. The caste output and the main population census must be distinguished.",
+    "context": "Ranchi reporting of Gandhi’s 18 November 2024 briefing records his acknowledgment of a UPA implementation mistake. This check assesses the historical core, not whether that mistake alone explains every later delay.",
+    "evidence": "The Cabinet decided in September 2010 to enumerate caste separately from the main 2011 census. The 2011 Rural Development review records the SECC launch in Tripura. A July 2022 Home Ministry reply says SECC’s non-caste data were published while caste data were not.",
+    "finding": "Supported with this distinction: saying UPA never collected caste information would be wrong. Launch, field collection, classification, publication and policy use are different stages.",
+    "limit": "The evidence does not apportion responsibility for every delay across UPA and later governments, validate all collected returns, or certify a current national caste dataset.",
+    "sources": [
+      [
+        "Times of India, Ranchi briefing reported 19 November 2024",
+        "https://timesofindia.indiatimes.com/india/not-releasing-caste-survey-data-in-2011-was-upa-mistake-rahul-gandhi/articleshow/115428787.cms"
+      ],
+      [
+        "Cabinet, separate caste-enumeration decision, 9 September 2010",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=65631"
+      ],
+      [
+        "Rural Development Ministry, SECC launch and progress, 2011 review",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=79299"
+      ],
+      [
+        "Home Ministry, census/SECC distinction, 26 July 2022",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1845003"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The UPA Cabinet’s 2010 statement itself noted that the last detailed all-caste census tabulation and publication was in 1931. Post-independence population censuses did continue SC and ST enumeration. “No caste data since independence” is therefore too sweeping.",
+        "SECC was a separate exercise, not an interchangeable name for the main Census 2011. Its existence shows the demand did not begin in 2024, while its unpublished caste component shows that announcing an exercise did not complete the requested public statistical record."
+      ],
+      "comparison": "Both UPA’s uncompleted publication and the continued non-publication recorded by the later government belong in the account. Neither erases the other.",
+      "sources": [
+        [
+          "Cabinet, separate caste-enumeration decision, 9 September 2010",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=65631"
+        ],
+        [
+          "Home Ministry, census/SECC distinction, 26 July 2022",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1845003"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
   },
   {
     "id": "reservation-georgetown-clip",
@@ -204,7 +384,26 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Relevant policy history; recording determines verdict",
+      "before_2014": [
+        "UPA’s record included expanding the constitutional basis for educational reservation through the 93rd Amendment and legislating central-institution admission quotas. Reservations were therefore an established policy framework before the Georgetown remarks.",
+        "These measures do not prove a party will never change its future policy. Equally, a conditional answer in 2024 does not establish that Congress immediately repudiated its earlier legislation. The wording of the particular answer and its omitted condition still control this check."
+      ],
+      "comparison": "The historical position supplies policy context, not a substitute for the recording. This check does not audit Congress’s entire reservation record at Union and state levels.",
+      "sources": [
+        [
+          "Gazette, 93rd Amendment, 20 January 2006, section 2",
+          "https://www.legislative.gov.in/static/uploads/2025/07/aa777da5ac292230760bcc5778f5e0cc.pdf"
+        ],
+        [
+          "India Code, Central Educational Institutions Act, 2006, sections 3–6",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/2091/1/A2007-05.pdf"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "agniveer-exgratia-july2024",
@@ -257,7 +456,26 @@
           "₹1 crore received, according to the father’s interview. Separate from the central benefits."
         ]
       ]
-    }
+    },
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "A Defence Ministry reply of 7 August 2013, under UPA-II, separately listed family pension, death gratuity, ex-gratia and Army Group Insurance among benefits for eligible families. Insurance and ex-gratia were therefore distinct categories before the present dispute.",
+        "Agnipath was introduced in 2022. Its four-year Agniveer engagement and package differ from the earlier regular-cadre model, including on pension and gratuity. A fair comparison requires the deceased person’s engagement type, casualty classification, eligibility and actual disbursement dates."
+      ],
+      "comparison": "The pre-2014 record supports separating payment categories, not comparing one headline lump sum with another. It does not prove that all eligible UPA-era families received timely payments, nor establish what Ajay Kumar’s family received after July 2024.",
+      "sources": [
+        [
+          "Defence Ministry, family benefits, 7 August 2013",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97822"
+        ],
+        [
+          "Defence Ministry, Agnipath terms, 14 June 2022",
+          "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1833747"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "thakur-question-edited-reaction",
@@ -279,7 +497,21 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "The footage concerns a July 2024 parliamentary speech and who was in the chamber at that moment. There is no comparable Congress-era baseline for a reaction that the edit inserts into a different sequence. No historical claim about Gandhi’s constitutional knowledge is established here."
+      ],
+      "comparison": "A prior speech or a party’s pre-2014 constitutional record cannot authenticate this reaction shot. The original sequence, timing and attendance determine the verdict.",
+      "sources": [
+        [
+          "AFP, Sansad TV sequence comparison, July 2024",
+          "https://factcheck.afp.com/doc.afp.com.363F42G"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "election-edited-video",
@@ -299,7 +531,21 @@
         "AFP, video comparison, 26 May 2024",
         "https://factcheck.afp.com/doc.afp.com.34RQ3MZ"
       ]
-    ]
+    ],
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "This check concerns a particular 2024 campaign recording, not an election-performance trend. No pre-2014 endorsement, concession or party position is being inferred. Historical election results would answer a different question from what was said in the clip."
+      ],
+      "comparison": "The full passage and the editing determine whether this was a prediction of Modi’s victory. A Congress-era comparison would not establish the authenticity of the 2024 audio or sequence.",
+      "sources": [
+        [
+          "AFP, video comparison, 26 May 2024",
+          "https://factcheck.afp.com/doc.afp.com.34RQ3MZ"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "red-book-indian-constitution",
@@ -321,7 +567,21 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "This allegation concerns a book held at a May 2024 rally. A comparison with Congress governments before 2014 cannot identify the volume in that photograph. The useful historical distinction is between the Constitution itself and the many editions in which it is printed, not a party’s ownership of the text."
+      ],
+      "comparison": "The visible title and publisher confirmation identify this edition. Neither cover colour nor a party’s past relationship with China can substitute for that evidence.",
+      "sources": [
+        [
+          "AFP, photo comparison and publisher confirmation, 3 June 2024",
+          "https://factcheck.afp.com/doc.afp.com.34U47XB"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "april25-back-bjp-doctored",
@@ -344,7 +604,21 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "The underlying source was published on 25 April 2024. This is a claim about a specific electoral appeal, rather than about Congress’s pre-2014 policy. No historical alliance, rivalry or earlier public statement authenticates a newly edited endorsement."
+      ],
+      "comparison": "Evaluate the original and circulating versions side by side. The missing or substituted words determine which party the appeal supports, regardless of earlier party history.",
+      "sources": [
+        [
+          "AFP, original appeal and doctored version, 4 June 2024; updated 6 June",
+          "https://factcheck.afp.com/doc.afp.com.34U99T4"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "loan-writeoffs-waivers",
@@ -389,7 +663,26 @@
           "Lender gives up the relevant repayment claim. A write-off total alone does not establish this."
         ]
       ]
-    }
+    },
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "Bank write-offs were not invented after 2014. RBI’s July 2013 prudential circular already discussed loss-asset write-offs and required management information on technical write-offs. This is a regulatory practice that existed under UPA, not evidence that every loan written off then was forgiven.",
+        "A genuine waiver also existed: the 2008 agricultural debt-waiver scheme. Its original rules explicitly extinguished eligible small and marginal farmers’ dues and offered conditional relief to other farmers. That is legally different from removing a bad asset from a bank’s balance sheet while retaining recovery rights."
+      ],
+      "comparison": "Apply the same terminology across governments. To compare performance, also examine recoveries, originating loan dates and total advances, rather than attributing every later write-off to loans first granted in that government’s term.",
+      "sources": [
+        [
+          "RBI, July 2013 prudential circular, sections 5.2 and 8 and information systems",
+          "https://www.rbi.org.in/Commonperson/english/scripts/Notification.aspx?Id=1277"
+        ],
+        [
+          "Finance Ministry, original debt-waiver guidelines, 23 May 2008",
+          "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=39108"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "social-media-apprenticeship-clip",
@@ -415,7 +708,22 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Earlier training framework; no claim of identical entitlement",
+      "before_2014": [
+        "Paid apprenticeship was not a new idea in 2024. During UPA-II, the Labour Ministry’s March 2012 reply discussed the existing Apprentices Act, 1961 and proposed changes to its administration. Formal workplace training therefore predates this campaign proposal.",
+        "The 2024 manifesto proposed a particular expanded entitlement and payment. Existing apprenticeship arrangements do not establish that every eligible graduate already enjoyed that proposed right before 2014, or that Congress’s later proposal had been funded and delivered."
+      ],
+      "comparison": "The useful historical comparison is eligibility, places, stipend and employer obligations. It provides no basis for turning the clipped reference to unemployed people scrolling into a promise to pay them for scrolling.",
+      "sources": [
+        [
+          "Labour Ministry, existing Apprentices Act and proposed changes, 19 March 2012",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=81213"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "22-wealth-70-crore",
@@ -437,7 +745,22 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "High and rising inequality predates 2014. The World Inequality Report 2018’s India series estimates the top 1% income share at about 6% in 1982–83, 15% in 2000 and 23% in 2014. These years span Congress-led and other governments.",
+        "Those are estimated income shares, not the wealth held by 22 named people. A rise already underway before 2014 means the entire pattern cannot be assigned to one later administration from timing alone. The report’s historical estimates also carry data and modelling limitations."
+      ],
+      "comparison": "The earlier trend adds context but cannot validate the exact 22-versus-70-crore wealth equality. Income, net wealth, adult populations and total populations must remain separate measures.",
+      "sources": [
+        [
+          "World Inequality Report 2018, India, figures 2.9.1–2.9.2",
+          "https://wir2018.wid.world/part-2.html"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "minorities-only-survey-clip",
@@ -463,7 +786,26 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Survey history; no equivalence assumed",
+      "before_2014": [
+        "UPA’s 2011 Socio-Economic and Caste Census was an earlier attempt to collect household and social information for policy. The Cabinet’s September 2010 decision distinguished separate caste enumeration from the main population census.",
+        "That history does not establish that the 2024 speech proposed an identical exercise, still less that it promised confiscation or benefits only for minorities. The original passage names multiple social groups. Design, legal authority and intended uses need to be checked separately for each survey."
+      ],
+      "comparison": "Earlier data collection provides context for the proposal. The verdict on the clip concerns the removal of named beneficiary groups, not whether every survey proposal is good policy.",
+      "sources": [
+        [
+          "Cabinet, separate caste-enumeration decision, 9 September 2010",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=65631"
+        ],
+        [
+          "Rural Development Ministry, SECC launch and progress, 2011 review",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=79299"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "youth-share-unemployed-83",
@@ -489,7 +831,22 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The same ILO–IHD figure places young people’s share of the unemployed at 87.1% in 2012, during UPA-II, compared with 82.9% in 2022. The historical comparison therefore shows youth already dominated unemployment before 2014.",
+        "A lower share does not necessarily mean a lower youth unemployment rate or more youth jobs. The denominator is all unemployed people, and both the age distribution of the workforce and unemployment among older workers affect it."
+      ],
+      "comparison": "The 83% statistic is supported for 2022, but does not prove that this concentration first appeared after 2014 or worsened from the 2012 share. Separate rate and employment data are needed to assess labour-market performance.",
+      "sources": [
+        [
+          "ILO–IHD, India Employment Report 2024, figure 4.10, printed page 90",
+          "https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "institutions-not-hindus-threat",
@@ -511,7 +868,26 @@
       ]
     ],
     "batch": "2026-10-17-next10",
-    "reviewed": "2026-10-17"
+    "reviewed": "2026-10-17",
+    "history": {
+      "scope": "Funding background; specific warning has its own context",
+      "before_2014": [
+        "Electoral funding had a regulated but imperfect disclosure framework before electoral bonds. The pre-bond corporate rules included a 7.5% average-profit ceiling and donor disclosures above specified thresholds, as described by PRS. These rules also applied to parties other than BJP.",
+        "Electoral bonds were announced in 2017 and notified in 2018, after UPA. This creates a real policy discontinuity, but does not itself verify Gandhi’s accusations of institutional collusion or his proposed response to it."
+      ],
+      "comparison": "The historical funding framework helps explain the press conference’s subject. Whether the warning targeted institutions or Hindus is settled by the surrounding words, not by comparing Congress’s and BJP’s funding records.",
+      "sources": [
+        [
+          "PRS, pre-bond corporate contributions and disclosure framework, December 2016",
+          "https://prsindia.org/articles-by-prs-team/demonetisation-merely-choking-party-funding-wont-ensure-clean-politics-435"
+        ],
+        [
+          "PRS, electoral-bond scheme notified in January 2018",
+          "https://prsindia.org/policy/monthly-policy-review/january-2018"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "thirty-lakh-vacancies",
@@ -566,7 +942,22 @@
           "Broader sectors described by Congress"
         ]
       ]
-    }
+    },
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "A UPA-II parliamentary reply published on 11 December 2013 estimated 6,00,013 vacant regular Central Government civilian posts as at 1 March 2012. The same reply described a September 2013 economy instruction limiting revival of posts vacant for over a year.",
+        "The later official record used in this check reports 9,64,359 such vacancies as at 1 March 2022. These two stocks show vacancies existed under both governments. They do not by themselves validate Congress’s broader 30-lakh count, which includes additional institutions and sectors."
+      ],
+      "comparison": "The historical and later official civilian counts have a narrower scope than the campaign total. Changes in sanctioned strength, departmental coverage and the treatment of abolished posts still need checking before attributing the difference to recruitment policy alone.",
+      "sources": [
+        [
+          "Personnel Ministry, 11 December 2013, vacancies as at 1 March 2012",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=101493"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "youth-unemployment-pakistan",
@@ -592,7 +983,22 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Matched historical cross-country comparison missing",
+      "before_2014": [
+        "Youth unemployment was a concern before 2014, but a valid India–Pakistan comparison requires both countries’ same-year, same-vintage estimates for the same age band. This review has not recovered a matched pre-2014 World Bank vintage alongside the vintage Gandhi appears to have cited.",
+        "The ILO–IHD report contains India’s historical employment series, but its 15–29 definition is not interchangeable with the World Bank 15–24 youth indicator discussed here. Substituting one for the other would manufacture a before-and-after trend."
+      ],
+      "comparison": "No numerical Congress-era cross-country ratio is asserted. The pre-2014 comparison remains an identified evidence gap, rather than a reason to pronounce either government better on an unmatched measure.",
+      "sources": [
+        [
+          "ILO–IHD, India Employment Report 2024, figure 4.10, printed page 90",
+          "https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "maths-50-15-8",
@@ -619,7 +1025,26 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Demographic-data background; arithmetic is event-specific",
+      "before_2014": [
+        "The population-measurement issue predates 2014. The UPA Cabinet’s 2010 decision acknowledged the lack of a detailed published all-caste census since 1931 and authorised a separate enumeration. The regular census continued collecting SC and ST information.",
+        "That background explains why demographic assertions require a dated source and defined categories. It does not supply a verified 50% OBC estimate, or prove that population shares remained fixed across decades."
+      ],
+      "comparison": "The arithmetic is correct once the missing eight is restored. Verifying the percentages would be a different claim, requiring evidence beyond either the edited clip or a historical survey announcement.",
+      "sources": [
+        [
+          "Cabinet, separate caste-enumeration decision, 9 September 2010",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=65631"
+        ],
+        [
+          "Home Ministry, census/SECC distinction, 26 July 2022",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1845003"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "three-obc-secretaries",
@@ -641,7 +1066,26 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The government later reported OBC representation of 19.28% across posts and services in 71 ministries/departments as at 1 January 2014, near the end of UPA-II. It noted that OBC reservation started in 1993 and that pre-1993 appointees were not counted in that category.",
+        "That administrative baseline is not a count of OBC officers among secretaries. Senior-rank representation reflects earlier recruitment cohorts, promotion and empanelment as well as the current appointment process. Implementation in 1993 fell during P. V. Narasimha Rao’s Congress government, before UPA’s 2004–14 tenure."
+      ],
+      "comparison": "An all-service percentage cannot verify or rebut “three out of 90” at secretary level. A same-rank pre-2014 roster and a 2023 roster with authoritative classifications are still required.",
+      "sources": [
+        [
+          "Personnel Ministry, representation as at 1 January 2014, reported 2016",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=147326"
+        ],
+        [
+          "PMO, P. V. Narasimha Rao’s 1991–96 tenure",
+          "https://www.pmindia.gov.in/en/former_pm/shri-p-v-narasimha-rao-2/"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "women-reservation-census-delimitation",
@@ -667,7 +1111,22 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "Under UPA, the 2008 women’s reservation bill sought a one-third quota in the Lok Sabha and state Assemblies. It passed the Rajya Sabha in 2010, but did not pass the Lok Sabha and lapsed with the 15th Lok Sabha. Earlier attempts in 1996, 1998 and 1999 also failed to become law.",
+        "The 2008 proposal used rotation after general elections; the 2023 proposal ties rotation to delimitation and includes the census/delimitation activation mechanism examined here. Passing one chamber in the UPA period did not reserve those seats in actual elections."
+      ],
+      "comparison": "Credit the earlier legislative effort while recording its non-enactment. The 2023 law’s existence and its deferred activation are separate facts. Neither the previous failure nor the later enactment establishes motive.",
+      "sources": [
+        [
+          "PRS, history of women’s reservation proposals and 2008/2023 comparison",
+          "https://prsindia.org/billtrack/the-constitution-one-hundred-twenty-eighth-amendment-bill-2023"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "udaipur-wayanad-children",
@@ -689,7 +1148,141 @@
       ]
     ],
     "batch": "2026-10-18-10",
-    "reviewed": "2026-10-18"
+    "reviewed": "2026-10-18",
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "The two incidents being conflated belong to 2022: the Wayanad office vandalism and the Udaipur killing. A pre-2014 record of a party’s responses to violence would not identify which incident Gandhi was discussing in this recording. No systematic cross-government comparison of those responses was completed."
+      ],
+      "comparison": "The relevant history is the sequence of these two events and the broadcaster’s correction. This clip does not establish a general position on religious violence or a verdict on any government’s full record.",
+      "sources": [
+        [
+          "AFP, original-context investigation and broadcaster correction, 11 July 2022",
+          "https://factcheck.afp.com/doc.afp.com.32DR7UT"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
+  },
+  {
+    "id": "lpg-410-885",
+    "date": "2021-09-01",
+    "topic": "Prices",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "LPG: ₹410 to ₹885, with the subsidy context",
+    "claim": "A domestic LPG cylinder cost about ₹410 in 2014 and about ₹885 in September 2021.",
+    "summary": "The rounded Delhi prices are supported. The earlier amount was a subsidised consumer price, not the market cost of the gas.",
+    "context": "Congress’s published account and contemporaneous reporting attribute this comparison to Gandhi’s 1 September 2021 briefing.",
+    "evidence": "Contemporaneous PTI reporting identifies ₹410.50 for a 14.2-kg Delhi refill on 1 March 2014. The ministry’s historical table gives ₹884.50 from 1 September 2021. The increase between these selected nominal prices is about 115.47%.",
+    "finding": "Supported for these dated Delhi consumer-price points. It is not an all-India price or an inflation-adjusted affordability measure. Subsidy eligibility and the difference between invoice and effective consumer cost matter.",
+    "limit": "This does not audit every household’s bank-credit subsidy or establish that falling crude oil alone should determine LPG prices. The comparison is historical, not a current refill quote.",
+    "sources": [
+      [
+        "Congress, Gandhi’s September 2021 briefing",
+        "https://inc.in/congress-sandesh/press-briefing/last-7-years-emergence-of-a-new-economic-paradigm"
+      ],
+      [
+        "PTI via Financial Express, March 2014 and September 2021 LPG prices",
+        "https://www.financialexpress.com/market/commodities-cooking-gas-lpg-price-hiked-by-rs-25-per-cylinder-2-2321902/"
+      ],
+      [
+        "Petroleum Ministry, historical LPG price table, 4 August 2022",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1848343"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "Under UPA-II, the 2013 petroleum-pricing expert report listed a subsidised Delhi LPG price of ₹410.50 per cylinder and a much higher desired retail price at international-product prices. The gap was supported through subsidy and under-recovery arrangements.",
+        "Thus the lower pre-2014 consumer price was real, but did not mean LPG cost the economy only ₹410.50 to supply. Comparing affordability requires the household’s effective payment, income and usage, while fiscal comparisons must include the subsidy burden."
+      ],
+      "comparison": "The subsidy context qualifies the reason for the price difference without erasing the rise paid by consumers at the selected dates. City, cylinder size, eligibility and inflation must stay visible.",
+      "sources": [
+        [
+          "PPAC, October 2013 expert report, paragraph 4.13.9",
+          "https://ppac.gov.in/uploads/rep_studies/1670569908_1670238827_201406070259104211804RS_3_Expert_Group_Report_Oct2013.pdf"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
+  },
+  {
+    "id": "petrol-diesel-upa-exit-dates",
+    "date": "2021-09-01",
+    "topic": "Prices",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "Fuel prices at UPA’s exit: the dates do not quite match",
+    "claim": "When UPA left office in 2014, Delhi petrol cost ₹71.51 a litre and diesel ₹57.28.",
+    "summary": "Those prices appear in the official table, but their effective dates were in June 2014, after the change of government.",
+    "context": "Congress’s published briefing gives these exact historical figures in Gandhi’s comparison with September 2021 prices.",
+    "evidence": "PPAC’s IOC Delhi series shows petrol at ₹71.41 from 16 April 2014 and diesel at ₹56.71 from 16 May. The ₹57.28 diesel point starts on 1 June 2014; ₹71.51 petrol starts on 7 June. UPA left office in May, not June.",
+    "finding": "Misleading on the precise attribution of both prices to UPA’s exit. The numerical difference is small and does not overturn the broad fact that the selected September 2021 prices were higher.",
+    "limit": "This verdict is about baseline timing. It does not isolate the effects of excise, state VAT, exchange rates, international product prices or company margins. The figures are Delhi nominal prices, not national averages.",
+    "sources": [
+      [
+        "Congress, exact figures in Gandhi’s briefing",
+        "https://inc.in/congress-sandesh/press-briefing/last-7-years-emergence-of-a-new-economic-paradigm"
+      ],
+      [
+        "PPAC, Delhi petrol/diesel revision dates, April 2002–June 2017",
+        "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "PPAC’s Delhi series records petrol and diesel at ₹33.71 and ₹21.74 on 1 April 2004, before UPA took office. By the final UPA months the series was much higher. Fuel-price increases therefore occurred before as well as after 2014.",
+        "Petrol became market-determined in June 2010 under UPA; diesel did so in October 2014 under NDA. Regulation, subsidies and tax decisions differed across products and periods. Neither government’s price record can be explained by the crude-oil dollar price alone."
+      ],
+      "comparison": "Use a genuine handover-date baseline for government comparisons, then separate policy effects from external costs. This article does not estimate a causal tax-versus-crude decomposition.",
+      "sources": [
+        [
+          "PPAC, Delhi petrol/diesel revision dates, April 2002–June 2017",
+          "https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-at-delhi-up-to-15-6-2017"
+        ],
+        [
+          "PPAC, dates of petrol and diesel price deregulation",
+          "https://ppac.gov.in/faqs"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10",
+    "table": {
+      "caption": "PPAC’s IOC Delhi price-revision table. Blank cells carry the preceding price until the next revision.",
+      "headers": [
+        "Date effective",
+        "Product",
+        "₹ per litre"
+      ],
+      "rows": [
+        [
+          "16 April 2014",
+          "Petrol",
+          "71.41"
+        ],
+        [
+          "16 May 2014",
+          "Diesel",
+          "56.71"
+        ],
+        [
+          "1 June 2014",
+          "Diesel",
+          "57.28"
+        ],
+        [
+          "7 June 2014",
+          "Petrol",
+          "71.51"
+        ]
+      ]
+    }
   },
   {
     "id": "rafale-court-attribution",
@@ -709,7 +1302,96 @@
         "NDTV, court outcome, 14 November 2019",
         "https://www.ndtv.com/india-news/rahul-gandhi-let-off-in-contempt-case-over-rafale-case-remarks-supreme-court-says-needs-to-be-more-c-2132256"
       ]
-    ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The fighter procurement process predates the 2014 change of government. A 2018 Defence Ministry response records Rafale’s selection as the lowest bidder and the start of negotiations in February 2012 for the earlier 126-aircraft MMRCA procurement.",
+        "That ministry response is an interested government account, especially when assigning blame for delay. The earlier negotiation and the subsequent 2016 contract should not be treated as identical packages without checking quantities, production arrangements and contractual terms."
+      ],
+      "comparison": "The UPA procurement history matters to the wider Rafale controversy. It cannot make a 2019 Supreme Court order say something it did not say. Judicial attribution remains the narrow basis of the False verdict.",
+      "sources": [
+        [
+          "Defence Ministry, chronology of earlier negotiations, 7 February 2018",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1519514"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
+  },
+  {
+    "id": "upa-farm-waiver-70000",
+    "date": "2018-06-06",
+    "topic": "Agriculture",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "The UPA farm waiver: announcement versus reported benefit",
+    "claim": "The UPA government waived farmers’ loans worth about ₹70,000 crore.",
+    "summary": "A large waiver existed. The later official reported benefit was ₹52,259.86 crore, below the announced estimate.",
+    "context": "PTI’s report of Gandhi’s 6 June 2018 Mandsaur rally records the ₹70,000-crore comparison. This check concerns the realised amount, not his separate ten-day promise for Madhya Pradesh.",
+    "evidence": "The original 2008 Budget proposed a ₹60,000-crore scheme, subsequently expanded to an estimate around ₹71,680 crore. A 5 December 2014 parliamentary reply reports ₹52,259.86 crore benefiting 3.73 crore farmers. Announcement, estimated liability and reported benefit are different quantities.",
+    "finding": "Misleading if ₹70,000 crore is presented as the final benefit delivered. It is a reasonable shorthand for the expanded announced scheme, but that qualification changes the claim materially.",
+    "limit": "The later ministry total is an official reported aggregate, not a fresh account-level audit. It includes waiver and relief under the scheme. The additional assertion that the amount was a historical record is not assessed.",
+    "sources": [
+      [
+        "PTI via NDTV, Mandsaur statement, 6 June 2018",
+        "https://www.ndtv.com/india-news/will-waive-farmers-loan-in-10-days-if-congress-voted-to-power-in-madhya-pradesh-rahul-gandhi-1863487"
+      ],
+      [
+        "Union Budget 2008–09, original debt-waiver announcement",
+        "https://www.indiabudget.gov.in/budget_archive/ub2008-09/bs/speecha.htm"
+      ],
+      [
+        "Finance Minister, Cabinet decision and expanded scheme estimate, 23 May 2008",
+        "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=39122"
+      ],
+      [
+        "Agriculture Ministry, parliamentary reply, 5 December 2014",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=112710"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "UPA-I launched the scheme in 2008. The original rules covered eligible overdue institutional agricultural loans with specified disbursement and default dates. Small and marginal farmers received a full waiver of the eligible amount; other farmers received conditional relief, rather than every outstanding loan being cancelled.",
+        "The CAG examined implementation during the UPA period. Its description identifies the different beneficiary categories and implementing agencies. A scheme’s existence, its announced envelope and the extent of correct delivery are separate questions."
+      ],
+      "comparison": "Use the reported delivered amount when comparing realised assistance across governments. Also compare eligibility, farmer coverage, inflation and credit conditions. A genuine agricultural waiver must not be equated with a bank’s technical write-off.",
+      "sources": [
+        [
+          "Finance Ministry, original debt-waiver guidelines, 23 May 2008",
+          "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=39108"
+        ],
+        [
+          "CAG, 2013 performance audit of the 2008 debt-waiver scheme",
+          "https://cag.gov.in/en/audit-report/details/656"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10",
+    "table": {
+      "caption": "Different measures of the 2008 programme, not three separate payments. ₹ crore.",
+      "headers": [
+        "Stage",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "Original Budget proposal",
+          "60,000"
+        ],
+        [
+          "Expanded Cabinet estimate",
+          "About 71,680"
+        ],
+        [
+          "Benefit reported to Parliament, December 2014",
+          "52,259.86"
+        ]
+      ]
+    }
   },
   {
     "id": "potato-gold",
@@ -729,7 +1411,21 @@
         "Alt News, context and edited counter-clip, 25 September 2020",
         "https://www.altnews.in/fact-check-edited-video-is-being-shared-to-falsely-claim-that-aaloo-sona-machine-remarks-belongs-to-pm-modi/"
       ]
-    ]
+    ],
+    "history": {
+      "scope": "Event-specific; no valid government-era performance comparison",
+      "before_2014": [
+        "The excerpt comes from a November 2017 Gujarat campaign speech. It is not evidence that a potato-to-gold machine featured in a UPA agricultural programme. No pre-2014 scheme or authentic earlier Modi promise matching that description was established by the reviewed contextual investigation."
+      ],
+      "comparison": "There are two attribution tests: Gandhi was presenting the line as someone else’s claim, while his attribution to Modi still needs evidence. Neither a Congress farming record nor political satire verifies a real machine or an original promise.",
+      "sources": [
+        [
+          "Alt News, context and edited counter-clip, 25 September 2020",
+          "https://www.altnews.in/fact-check-edited-video-is-being-shared-to-falsely-claim-that-aaloo-sona-machine-remarks-belongs-to-pm-modi/"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
   },
   {
     "id": "demonetisation-returned-notes",
@@ -778,6 +1474,308 @@
           "99.3047%"
         ]
       ]
+    },
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The closest late-UPA currency episode was RBI’s January 2014 withdrawal of pre-2005 banknote designs. Its 3 March 2014 circular explicitly retained their legal-tender status and provided full-value exchange. This was not the same policy as the November 2016 removal of specified notes’ legal-tender status.",
+        "Older Indian demonetisation episodes also cannot all be labelled Congress policy merely because they preceded 2014. This check has not reconstructed those earlier return percentages on a comparable basis."
+      ],
+      "comparison": "Do not compare the 2016 return rate with routine replacement of still-valid designs as if the interventions were identical. A high return rate answers how much came back, not whether the policy met every stated objective.",
+      "sources": [
+        [
+          "RBI, 3 March 2014 circular, old-series notes retain legal-tender status",
+          "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CIK03032014F.pdf"
+        ]
+      ]
+    },
+    "updated": "2026-10-18"
+  },
+  {
+    "id": "upa-poverty-15-crore",
+    "date": "2014-04-05",
+    "topic": "Economy",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "How many people left poverty during UPA?",
+    "claim": "UPA took 15 crore people out of poverty over its ten years in office.",
+    "summary": "The official comparable series shows a 13.78-crore reduction from 2004–05 to 2011–12. It does not cover all ten years.",
+    "context": "Indian Express reported the 15-crore statement from Gandhi’s 5 April 2014 Kasargode campaign speech.",
+    "evidence": "The Planning Commission’s July 2013 Tendulkar estimates count 407.1 million poor people in 2004–05 and 269.3 million in 2011–12. The difference is 137.8 million, or 13.78 crore. The poverty ratio fell from 37.2% to 21.9%.",
+    "finding": "Unverified for the exact 15-crore, ten-year claim. The official evidence supports a substantial decline during the available UPA-period window, but its end date is 2011–12, not 2014.",
+    "limit": "A decline in estimated headcount is not a longitudinal count of identified individuals whose escape from poverty was caused solely by government policy. Monetary and multidimensional poverty measures must not be combined.",
+    "sources": [
+      [
+        "Indian Express, Kasargode statement, 5 April 2014",
+        "https://indianexpress.com/article/political-pulse/rahul-gandhi-says-congress-wants-to-make-more-people-middle-class/"
+      ],
+      [
+        "Planning Commission, Tendulkar poverty estimates, 23 July 2013",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97365"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The same Tendulkar table gives a 45.3% poverty ratio in 1993–94, 37.2% in 2004–05 and 21.9% in 2011–12. The first interval spans several governments, including the NDA, rather than a single Congress administration.",
+        "The official estimated pace of decline was faster in 2004–05 to 2011–12. This is a survey-based consumption-poverty result, not proof that poverty disappeared or that all of the change came from a single programme."
+      ],
+      "comparison": "Compare later governments with a compatible monetary-poverty method and survey design. A newer multidimensional index measures a different set of deprivations and is not a direct continuation of these headcounts.",
+      "sources": [
+        [
+          "Planning Commission, Tendulkar poverty estimates, 23 July 2013",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97365"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10",
+    "table": {
+      "caption": "Planning Commission, Tendulkar method. Not a ten-year 2004–14 series.",
+      "headers": [
+        "Survey year",
+        "Poverty ratio",
+        "Poor people"
+      ],
+      "rows": [
+        [
+          "1993–94",
+          "45.3%",
+          "40.37 crore"
+        ],
+        [
+          "2004–05",
+          "37.2%",
+          "40.71 crore"
+        ],
+        [
+          "2011–12",
+          "21.9%",
+          "26.93 crore"
+        ]
+      ]
     }
+  },
+  {
+    "id": "upa-land-acquisition-law",
+    "date": "2013-09-17",
+    "topic": "Agriculture",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "The 2013 land law: what UPA changed",
+    "claim": "UPA brought in the new land-acquisition legislation to strengthen farmers’ protections.",
+    "summary": "The replacement law was enacted in 2013 and took effect in January 2014. Its protections depended on acquisition category and procedure.",
+    "context": "NDTV’s highlights of Gandhi’s 17 September 2013 Baran rally record him crediting UPA with the land-acquisition bill. The verdict checks the legislation, not his description of opponents’ intentions.",
+    "evidence": "The 2013 Act replaced the 1894 law. It introduced a framework for social-impact assessment, compensation, rehabilitation and resettlement. For relevant acquisitions, the original law required consent of 70% of affected families for PPP projects and 80% for private-company projects.",
+    "finding": "Supported for the enactment of the stronger statutory framework during UPA. It did not require the same consent threshold for every government acquisition or guarantee a fourfold payment in every rural case.",
+    "limit": "This does not assess a particular land award or current state amendments. The value of the protection in practice depends on application, exemptions and enforcement.",
+    "sources": [
+      [
+        "NDTV, Baran rally highlights, 17 September 2013",
+        "https://www.ndtv.com/india-news/rahul-gandhi-addresses-rally-in-rajasthan-highlights-534904"
+      ],
+      [
+        "Government-hosted 2013 land-acquisition Act",
+        "https://bhoomirashi.gov.in/auth/revamp/la_act.pdf"
+      ],
+      [
+        "Rural Development Ministry, 2013 Act effective from 1 January 2014",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=122149"
+      ],
+      [
+        "PRS, 2013 law and proposed 2015 changes, consent and compensation",
+        "https://prsindia.org/billtrack/the-right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-second-amendment-bill-2015"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The 1894 acquisition law remained the principal framework through earlier Congress and other governments until UPA’s replacement. Thus the reform has both a Congress-led enactment and a long earlier period in which governments, including Congress, used the old law.",
+        "The 2013 law took effect on 1 January 2014, before the change of Union government. Compensation combined statutory valuation, a rural multiplier where applicable and solatium. The shorthand “four times rural, twice urban” describes the broad framework, not every final award."
+      ],
+      "comparison": "Compare the original 2013 protections with specific proposed or enacted later changes, rather than treating all land acquisition as one unchanging practice. A bill, an ordinance and a permanent enacted amendment are different legal stages.",
+      "sources": [
+        [
+          "PRS, 2013 law and proposed 2015 changes, consent and compensation",
+          "https://prsindia.org/billtrack/the-right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-second-amendment-bill-2015"
+        ],
+        [
+          "Rural Development Ministry, 2013 Act effective from 1 January 2014",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=122149"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
+  },
+  {
+    "id": "upa-mgnrega-right",
+    "date": "2013-07-27",
+    "topic": "Welfare",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Did UPA establish a legal rural-employment guarantee?",
+    "claim": "Congress-led UPA brought in the statutory rural-employment guarantee through MGNREGA.",
+    "summary": "Yes. The household entitlement is distinct from a claim that everyone actually received 100 days of work.",
+    "context": "PTI’s 27 July 2013 report records Gandhi listing the right to employment among UPA’s measures.",
+    "evidence": "The CAG’s 2013 audit describes the legal guarantee for rural households whose adult members volunteer for unskilled manual work. Initial implementation began in 200 districts in February 2006 and expanded to all rural districts by April 2008.",
+    "finding": "Supported for establishment of this statutory framework during UPA. It is not a guarantee of a permanent job or 100 days for each individual separately.",
+    "limit": "This does not certify that every valid demand was met, every wage arrived on time, or the scheme was free of leakage. Later amendments and present-day delivery are outside this historical verdict.",
+    "sources": [
+      [
+        "PTI, Gandhi’s 27 July 2013 statement",
+        "https://www.business-standard.com/article/pti-stories/rahul-asks-congmen-to-take-message-of-food-security-bill-to-113072700762_1.html"
+      ],
+      [
+        "CAG, 2013 MGNREGA audit, programme history and delivery findings",
+        "https://cag.gov.in/en/audit-report/details/704"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The programme’s UPA-era rollout created a substantial new legal framework. But the CAG found average employment per participating rural household fell from 54 days in 2009–10 to 43 in 2011–12, well below the 100-day headline. These averages alone do not show that every shortfall represented refused demand.",
+        "The audit covered implementation from April 2007 to March 2012 in sampled gram panchayats. It is evidence that implementation problems existed under UPA, not proof that nothing useful was delivered."
+      ],
+      "comparison": "For comparisons with later governments, distinguish statutory entitlement, work demanded, work supplied, completed days and wage-payment delay. A larger nominal allocation alone does not establish better delivery.",
+      "sources": [
+        [
+          "CAG, 2013 MGNREGA audit, programme history and delivery findings",
+          "https://cag.gov.in/en/audit-report/details/704"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
+  },
+  {
+    "id": "upa-rti-law",
+    "date": "2013-07-27",
+    "topic": "Governance",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "RTI under UPA, with its earlier roots",
+    "claim": "Congress-led UPA enacted the Right to Information Act.",
+    "summary": "The 2005 law was enacted under UPA. The movement and earlier legislation were not confined to one government.",
+    "context": "PTI reported Gandhi citing the right to information as a UPA measure in July 2013.",
+    "evidence": "Official accounts identify the RTI Act as a 2005 enactment and its predecessor as the Freedom of Information Act, 2002. Section 31 of the RTI law repeals that predecessor.",
+    "finding": "Supported for the enactment of the 2005 law during UPA. This is narrower than claiming Congress alone originated the right or that it always applied the transparency principle consistently.",
+    "limit": "The verdict does not measure compliance, exemptions, appeal delays or every later amendment. The India Code PDF timed out during full retrieval; its indexed repeal clause is corroborated by the official historical account.",
+    "sources": [
+      [
+        "PTI, July 2013 statement",
+        "https://www.business-standard.com/article/pti-stories/rahul-asks-congmen-to-take-message-of-food-security-bill-to-113072700762_1.html"
+      ],
+      [
+        "Vice President’s official speech, 2002 and 2005 RTI enactments, 6 December 2017",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1512375"
+      ],
+      [
+        "India Code, RTI Act 2005, including section 31 repeal of 2002 predecessor",
+        "https://indiacode.nic.in/bitstream/123456789/2065/1/aa2005.pdf"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The 2002 predecessor belongs to the earlier NDA period, while the 2005 law belongs to UPA-I. The distinction matters when assigning credit for legislation rather than claiming the underlying idea began with one party.",
+        "UPA’s own transparency record also had limits. In August 2013 its Cabinet approved introducing a bill to exclude political parties from the public-authority definition after the CIC had brought six parties, including Congress and BJP, within that definition. This was a proposal, not proof that the proposed exclusion became law."
+      ],
+      "comparison": "Credit the enactment while also checking conduct under it. A party’s claim to have brought RTI does not settle its compliance with requests or its position on disclosure of its own affairs.",
+      "sources": [
+        [
+          "Cabinet, proposal to exclude political parties from RTI, 2 August 2013",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97577"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
+  },
+  {
+    "id": "upa-rte-law",
+    "date": "2013-07-27",
+    "topic": "Education",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Right to Education: the 2002 foundation and 2009 law",
+    "claim": "Congress-led UPA brought the Right to Education law into operation.",
+    "summary": "The 2009 implementing law took effect in April 2010. Its constitutional foundation was enacted earlier under NDA.",
+    "context": "Gandhi listed the right to education among UPA’s measures in the July 2013 statement reported by PTI.",
+    "evidence": "The Education Ministry’s 2010 review dates enforcement of the RTE Act, 2009 to 1 April 2010 and expressly describes it as the consequential legislation to the 86th Constitutional Amendment of 2002.",
+    "finding": "Supported for UPA’s implementing law and commencement. Exclusive credit for the constitutional foundation would omit the earlier amendment.",
+    "limit": "The historical enactment is not proof that every child attended school, received good instruction or obtained any chosen private-school place. No nationwide implementation audit is made here.",
+    "sources": [
+      [
+        "PTI, July 2013 statement",
+        "https://www.business-standard.com/article/pti-stories/rahul-asks-congmen-to-take-message-of-food-security-bill-to-113072700762_1.html"
+      ],
+      [
+        "Education Ministry, RTE enactment and 86th Amendment chronology, 31 December 2010",
+        "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=68827"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "The 86th Amendment of 2002 established the Article 21A framework under the preceding NDA government. UPA’s 2009 legislation supplied the later statutory machinery and became operative in 2010. Both steps belong in the chronology.",
+        "The law addressed elementary education, with norms for schools and implementation through Union and state responsibilities. It should not be read as a universal free-college law or an assessment of all learning outcomes."
+      ],
+      "comparison": "Separate the constitutional commitment, the implementing statute and actual classroom delivery. These are successive questions, rather than competing descriptions of one event.",
+      "sources": [
+        [
+          "Education Ministry, RTE enactment and 86th Amendment chronology, 31 December 2010",
+          "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=68827"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
+  },
+  {
+    "id": "upa-food-security-entitlement",
+    "date": "2013-07-27",
+    "topic": "Welfare",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Food security: a legal entitlement, with defined coverage",
+    "claim": "UPA’s food-security measure created a legal entitlement to food support.",
+    "summary": "The 2013 law created specified entitlements. It was not proof that hunger ended or that every adult received an unrestricted ration.",
+    "context": "PTI’s July 2013 report records Gandhi presenting the food-security measure as a legal right. At that point an ordinance preceded completion of the parliamentary Act.",
+    "evidence": "The December 2013 ministry review records notification of the NFSA on 10 September. It provides foodgrain coverage up to 75% of rural and 50% of urban population, specified household quantities, nutritional provisions, grievance redress and an allowance for non-supply.",
+    "finding": "Supported for creating the legal framework under UPA. The scope and phased implementation matter when interpreting broad campaign claims about ending hunger.",
+    "limit": "This is not a nutritional-outcome study or a current assessment of ration coverage. Entitlement and actual access must not be treated as identical.",
+    "sources": [
+      [
+        "PTI, July 2013 legal-entitlement statement",
+        "https://www.business-standard.com/article/pti-stories/rahul-asks-congmen-to-take-message-of-food-security-bill-to-113072700762_1.html"
+      ],
+      [
+        "Food Ministry, NFSA coverage, entitlements and initial rollout, 20 December 2013",
+        "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=102057"
+      ]
+    ],
+    "history": {
+      "scope": "Policy or statistical comparison",
+      "before_2014": [
+        "NFSA built on the existing targeted public-distribution system and retained the Antyodaya category, rather than creating food distribution from nothing. The 2013 review gave priority-household grain at 5 kg per person per month and Antyodaya grain at 35 kg per household.",
+        "Implementation was gradual: the same December 2013 review named four states where it had begun. By February 2015, a later ministry reply listed eleven states/UTs receiving allocations under the Act. This distinguishes UPA-era enactment from subsequent rollout."
+      ],
+      "comparison": "Credit the law’s creation and later governments’ implementation separately. New branding or a changed consumer price does not by itself erase the underlying 2013 entitlement. Delivery and nutritional outcomes need their own evidence.",
+      "sources": [
+        [
+          "Food Ministry, eleven-state NFSA rollout as at February 2015",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=116124"
+        ]
+      ]
+    },
+    "reviewed": "2026-10-18",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-history10"
   }
 ]
