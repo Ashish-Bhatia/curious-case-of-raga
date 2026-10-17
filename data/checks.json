@@ -1,5 +1,31 @@
 [
   {
+    "id": "article-15-5-private-education",
+    "date": "2025-04-30",
+    "topic": "Representation",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Article 15(5): an existing power, not an automatic quota",
+    "claim": "Article 15(5) already provides a constitutional basis for reservation in private educational institutions.",
+    "summary": "The enabling provision exists. It has exceptions and requires legislation.",
+    "context": "Congress’s account of Gandhi’s 30 April 2025 briefing, published on 22 May, records him citing Article 15(5) and asking for implementation. This check concerns the existence and scope of the provision.",
+    "evidence": "A January 2006 government explanation of the 93rd Amendment states that legislation can make special admission provisions for socially and educationally backward classes, Scheduled Castes and Scheduled Tribes, including in aided or unaided private institutions. It expressly excludes minority institutions protected by Article 30(1).",
+    "finding": "Supported on the narrow claim that the constitutional power already exists. The provision does not itself impose one uniform quota in every private institution. The implementing law and the institution’s status matter.",
+    "limit": "This does not establish which institutions were complying in April 2025, what further legislation was required in each jurisdiction, or whether a particular proposed quota would survive legal challenge.",
+    "sources": [
+      [
+        "Congress, account of 30 April 2025 briefing, published 22 May",
+        "https://inc.in/congress-sandesh/national/we-see-the-caste-census-as-a-new-paradigm-of-development-and-we-want-to-go-beyond-the-caste-census"
+      ],
+      [
+        "Government explanation of the 93rd Amendment and Article 15(5), paragraphs 2–3",
+        "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=15096"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
     "id": "china-4000",
     "date": "2025-04-03",
     "topic": "Borders",
@@ -22,6 +48,59 @@
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2099676&lang=2&reg=48"
       ]
     ]
+  },
+  {
+    "id": "manufacturing-share-2025",
+    "date": "2025-02-03",
+    "topic": "Economy",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Manufacturing: which share, which year?",
+    "claim": "Manufacturing fell from 15.3% of GDP in 2014 to 12.6%, its lowest share in 60 years.",
+    "summary": "The statement is documented. The exact comparison and the 60-year low were not reproduced from a consistent statistical series.",
+    "context": "Congress’s published extracts attribute these figures to Gandhi’s 3 February 2025 Lok Sabha speech. This is a party account of his statement, not independent validation of the statistics.",
+    "evidence": "The Finance Ministry’s July 2024 Economic Survey summary reports a manufacturing GVA share of 14.3% for FY2022–23. That is not automatically a comparable measure: GDP and total GVA are different denominators, and current-price and constant-price shares differ. A share can decline even while the level of manufacturing output grows.",
+    "finding": "Unverified for the exact endpoints and historical minimum. The reviewed official summary alone neither reproduces nor disproves his comparison. A different year or denominator must not be presented as a direct rebuttal.",
+    "limit": "Needed: the original series, its vintage, price basis, reference years and a comparable six-decade history. No complete historical series was reconstructed. This is not a verdict on the overall success of Make in India.",
+    "sources": [
+      [
+        "Congress, extracts of 3 February speech, published 20 February 2025",
+        "https://inc.in/congress-sandesh/national/be-truthful-to-what-you-are-for-giving-a-way-forward-to-the-nation"
+      ],
+      [
+        "Finance Ministry, Economic Survey summary, 22 July 2024",
+        "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2034939&lang=1&reg=3"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "reservation-georgetown-clip",
+    "date": "2024-09-10",
+    "date_label": "Reported",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "The reservation clip and its missing condition",
+    "claim": "At Georgetown, Rahul Gandhi announced that Congress would scrap reservations on taking power.",
+    "summary": "His answer discussed a hypothetical fair society and said India had not reached it.",
+    "context": "Reporting on his September 2024 US visit recorded an answer about the future of reservations. The article date here is the reporting date, not a certified local event timestamp.",
+    "evidence": "PTI’s account includes both parts: considering removal when India becomes fair, and his statement that it is not fair now. Alt News’s comparison locates the passage around 57:00 and reports that the latter qualification was omitted from the viral clip.",
+    "finding": "Misleading. He did discuss conditional future removal, so saying he never mentioned it would also be inaccurate. The answer does not announce an immediate promise to abolish reservations after winning office.",
+    "limit": "This assesses the circulated interpretation of that answer, not Congress’s entire policy record or a guarantee about future policy. It relies on PTI and the published comparison; original playback was not independently completed.",
+    "sources": [
+      [
+        "PTI via Business Standard, Georgetown remarks, 10 September 2024",
+        "https://www.business-standard.com/politics/we-will-think-of-scrapping-reservation-when-india-is-a-fair-place-rahul-124091000066_1.html"
+      ],
+      [
+        "Alt News, clip comparison and context, 12 September 2024",
+        "https://www.altnews.in/rahul-did-not-say-will-end-reservation-clipped-video-shared-by-bjp-distorts-gandhis-statement/"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
   },
   {
     "id": "agniveer-exgratia-july2024",
@@ -142,6 +221,58 @@
     }
   },
   {
+    "id": "social-media-apprenticeship-clip",
+    "date": "2024-04-20",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "Money for scrolling? The missing apprenticeship proposal",
+    "claim": "Rahul Gandhi promised unemployed youth monthly payments for watching Instagram and Facebook.",
+    "summary": "The clipped passage removed the proposal for paid training.",
+    "context": "The source was his 20 April 2024 Bihar campaign speech. AFP traced the circulating excerpt to the longer livestream and compared the passages.",
+    "evidence": "AFP identifies the explanation of a right to apprenticeship around 9:33 and the circulating excerpt around 12:33. He was describing young people who would move from joblessness into training, rather than making social-media viewing the paid work. Congress’s manifesto separately specifies a one-year apprenticeship for eligible diploma holders and graduates.",
+    "finding": "Misleading as a description of the proposal. The reference to scrolling concerned the young people’s existing situation. It was not the activity for which the proposed apprenticeship payment would be made.",
+    "limit": "This relies on AFP’s published video comparison and the manifesto. Full original playback was not independently completed. It does not assess delivery, funding or every eligibility detail.",
+    "sources": [
+      [
+        "AFP, contextual video comparison, 2 May 2024",
+        "https://factcheck.afp.com/doc.afp.com.34PY667"
+      ],
+      [
+        "Congress 2024 manifesto, youth section",
+        "https://manifesto.inc.in/en/youth/"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "minorities-only-survey-clip",
+    "date": "2024-04-06",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "A survey speech edited to mention minorities alone",
+    "claim": "A Hyderabad clip showed Gandhi proposing surveys and rights exclusively for minorities.",
+    "summary": "The longer passage also names backward classes, Dalits, Adivasis and poor general-category people.",
+    "context": "The passage comes from the Congress manifesto launch in Hyderabad on 6 April 2024. The party’s event page confirms the occasion and date.",
+    "evidence": "Alt News’s comparison identifies the relevant passage around 31:54. It reports that the circulated version removes the other named groups and retains minorities, changing the apparent scope of his proposal.",
+    "finding": "Misleading for the claim of exclusive minority beneficiaries. The omission is material to who the speech addresses. Restoring those words does not by itself settle every debate about wealth redistribution, taxation or the proposed surveys.",
+    "limit": "This relies on the published contextual comparison. The original full recording was not independently played, and the practical design of the proposed measures is outside this check.",
+    "sources": [
+      [
+        "Congress, Hyderabad event record, 6 April 2024",
+        "https://inc.in/media/speeches/shri-rahul-gandhi-launched-the-congress-manifesto-and-addressed-the-public-in-hyderabad-telangana"
+      ],
+      [
+        "Alt News, comparison of the edited passage, 23 April 2024",
+        "https://www.altnews.in/clipped-video-of-rahul-gandhi-viral-economic-servey-on-minorities/"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
     "id": "thirty-lakh-vacancies",
     "date": "2024-03-07",
     "topic": "Jobs",
@@ -195,6 +326,129 @@
         ]
       ]
     }
+  },
+  {
+    "id": "youth-unemployment-pakistan",
+    "date": "2024-03-03",
+    "topic": "Jobs",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "“Twice Pakistan’s unemployment”: youth or everyone?",
+    "claim": "India’s unemployment was roughly double Pakistan’s, with about 23% of youth unemployed in India and 12% in Pakistan.",
+    "summary": "Contemporaneous reporting supports a youth-specific comparison. The exact historical data vintage was not independently recovered.",
+    "context": "Reports of Gandhi’s 3 March 2024 Gwalior speech include the youth figures alongside his broader wording. Assessing only the headline would omit an important qualification.",
+    "evidence": "Times of India reported 2022 World Bank youth estimates of 23.22% for India and 11.3% for Pakistan, roughly a two-to-one ratio. FRED defines that World Bank indicator as the unemployed share of the labour force aged 15–24. Its currently displayed, revised 2022 India value is 17.732%, illustrating why the release vintage matters.",
+    "finding": "The reported historical youth figures broadly support his rounded comparison. They do not establish that India’s unemployment rate for the whole workforce was double Pakistan’s. The exact vintage remains unverified in this review; revised data alone do not prove the original statement false.",
+    "limit": "The original pre-speech dataset and full recording were not independently obtained. Do not mix youth and all-age rates, national and modelled estimates, or different release vintages. This is not a current cross-country comparison.",
+    "sources": [
+      [
+        "Times of India, Gwalior statement and reported 2022 estimates, 3 March 2024",
+        "https://timesofindia.indiatimes.com/india/rahul-gandhi-claims-indias-unemployment-rate-is-double-that-of-pakistan/articleshow/108182321.cms"
+      ],
+      [
+        "FRED, World Bank indicator SL.UEM.1524.ZS, definition and revised observations",
+        "https://fred.stlouisfed.org/series/SLUEM1524ZSIND"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "maths-50-15-8",
+    "date": "2024-02-08",
+    "date_label": "Source dated",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "50 + 15 = 73? The omitted eight",
+    "claim": "A viral video showed Rahul Gandhi incorrectly adding 50 and 15 to get 73.",
+    "summary": "The longer passage includes another eight. The arithmetic is 50 + 15 + 8 = 73.",
+    "context": "Newschecker traced the excerpt to a longer Congress post dated 8 February 2024 about a speech in Odisha. The displayed date is that source’s publication date.",
+    "evidence": "Its comparison identifies three population-share figures in the longer statement, with the eight referring to tribal communities. Omitting that term creates the apparent arithmetic error.",
+    "finding": "False for this purported mathematical mistake. Restoring the missing term makes the sum correct. That does not independently verify the population percentages he cited.",
+    "limit": "The verdict concerns editing and arithmetic, not a census-based demographic finding. This review relies on Newschecker’s published comparison; full original playback was not independently completed.",
+    "sources": [
+      [
+        "Newschecker, contextual comparison, 12 February 2024",
+        "https://newschecker.in/fact-check/501573-edited-video-of-rahul-gandhis-maths-gaffe-on-reservation-cap-goes-viral"
+      ],
+      [
+        "Congress source post dated 8 February 2024, identified by Newschecker; playback not independently completed",
+        "https://twitter.com/INCIndia/status/1755513701665538436"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "three-obc-secretaries",
+    "date": "2023-09-20",
+    "topic": "Representation",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Three OBC secretaries out of 90: where is the roster?",
+    "claim": "Only three of the Union government’s 90 secretaries belonged to OBC communities.",
+    "summary": "The official debate confirms he made the claim. It does not independently establish the count.",
+    "context": "Gandhi made the statement during the women’s reservation debate on 20 September 2023. The Lok Sabha transcript records his description of 90 secretaries and his count of three OBC officers on printed pages 207–209.",
+    "evidence": "A parliamentary transcript is primary evidence of the words spoken, not verification of the speaker’s underlying research. The dated officer list and the community classification records needed to reproduce the count were not obtained.",
+    "finding": "Unverified for the count at that date. This is a specific claim about a senior group, not a statistic for the entire civil service. Broader workforce representation figures or lists from other years would not settle it.",
+    "limit": "Needed: a same-date definition and roster of secretary-level posts, treatment of equivalent ranks and vacancies, and an authoritative classification source. Community identities must not be guessed from names. His separate claim about control of 5% of the budget is outside this verdict.",
+    "sources": [
+      [
+        "Lok Sabha debate, 20 September 2023, printed pages 207–209 (PDF pages 208–210)",
+        "https://sansad.in/getFile/debatestextmk/17/XIII/20.09.2023.pdf?source=loksabhadocs"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "women-reservation-census-delimitation",
+    "date": "2023-09-20",
+    "topic": "Representation",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Did the 2023 women’s quota depend on a new census?",
+    "claim": "The women’s reservation proposal required a new census and delimitation before the reserved seats would take effect.",
+    "summary": "Yes. Those steps appear in the enacted 2023 text.",
+    "context": "During the 20 September debate, Gandhi questioned both conditions and urged immediate implementation. His description of the conditions is a factual claim; his proposed alternative and suspicion about delay are separate arguments.",
+    "evidence": "The official transcript records both objections on printed page 206. Section 5 of the Constitution (106th Amendment) Act, 2023 inserted Article 334A. Its original text links the reserved seats to a delimitation exercise after publication of relevant figures from the first census following commencement.",
+    "finding": "Supported as a description of the 2023 proposal and enacted mechanism. It does not establish the motive for the conditions or a guaranteed implementation year.",
+    "limit": "This is a historical reading of the September 2023 text. It does not certify subsequent legislative changes, today’s implementation timetable, or the feasibility of Gandhi’s immediate-implementation alternative.",
+    "sources": [
+      [
+        "Lok Sabha debate, 20 September 2023, printed page 206 (PDF page 207)",
+        "https://sansad.in/getFile/debatestextmk/17/XIII/20.09.2023.pdf?source=loksabhadocs"
+      ],
+      [
+        "Legislative Department, Gazette copy, 106th Amendment Act, section 5, page 2",
+        "https://www.legislative.gov.in/static/uploads/2025/07/677f65dda7c606ba1d13b8430af70555.pdf"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
+  },
+  {
+    "id": "udaipur-wayanad-children",
+    "date": "2022-07-01",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The “children” remark was about office vandals",
+    "claim": "A video showed Rahul Gandhi calling the Udaipur murder suspects children and asking that they be forgiven.",
+    "summary": "The recording concerned the vandalism of his Wayanad office.",
+    "context": "The clip circulated in July 2022 after the killing of Kanhaiya Lal in Udaipur. AFP traced the original remarks to Gandhi’s response to a different incident.",
+    "evidence": "AFP’s comparison identifies the subject as students who vandalised his constituency office. It also records a correction and apology by the television anchor whose broadcast linked the remarks to Udaipur.",
+    "finding": "False for what this video depicts. Reassigning the subject of the remarks changes their meaning. The recording does not substantiate sympathy for the Udaipur murder suspects.",
+    "limit": "This finding applies to the specific recording, not every statement Gandhi has made about violence. It relies on AFP’s published comparison and reported correction; full original playback was not independently completed.",
+    "sources": [
+      [
+        "AFP, original-context investigation and broadcaster correction, 11 July 2022",
+        "https://factcheck.afp.com/doc.afp.com.32DR7UT"
+      ]
+    ],
+    "batch": "2026-10-18-10",
+    "reviewed": "2026-10-18"
   },
   {
     "id": "rafale-court-attribution",
