@@ -1,0 +1,86 @@
+[
+  {
+    "id": "china-4000",
+    "date": "2025-04-03",
+    "topic": "Borders",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "China and the 4,000 sq km claim",
+    "claim": "Rahul Gandhi said China was occupying 4,000 square kilometres of Indian territory.",
+    "summary": "The statement is documented. The precise area is not independently established by the sources reviewed.",
+    "context": "Congress published his 3 April 2025 Lok Sabha intervention. It repeats the 4,000 sq km figure. A party transcript establishes what Congress says he said, not whether the territorial measurement is correct.",
+    "evidence": "In February 2025, the Defence Ministry rejected his attribution of territorial remarks to the Army Chief. It distinguished disrupted patrolling from the words Gandhi attributed to the chief. This is the government’s response, not an independent boundary survey.",
+    "finding": "Keep two questions separate: whether the Army Chief made the attributed statement, and whether China occupies the claimed area. These sources do not independently verify the precise 4,000 sq km figure. A government denial alone does not disprove it.",
+    "limit": "No independent geospatial calculation or agreed baseline was obtained. This assessment concerns the April 2025 claim, not a current map of territorial control.",
+    "sources": [
+      [
+        "Congress, statement of 3 April 2025",
+        "https://inc.in/congress-sandesh/others/matter-of-urgent-public-importance"
+      ],
+      [
+        "Defence Ministry, response of 4 February 2025",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2099676&lang=2&reg=48"
+      ]
+    ]
+  },
+  {
+    "id": "election-edited-video",
+    "date": "2024-05-10",
+    "topic": "Elections",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The video that made him concede defeat",
+    "claim": "A circulating video showed Rahul Gandhi predicting Modi’s victory during the 2024 campaign.",
+    "summary": "The clip removed words and reversed the meaning of his speech.",
+    "context": "The source speech was delivered in Kanpur on 10 May 2024. AFP traced the circulating clip to a Congress livestream and compared the relevant passages.",
+    "evidence": "AFP’s comparison identifies a removed negation around 0:57. Another cut around 1:41 changes a prediction of at least 50 opposition seats in Uttar Pradesh into an apparent prediction of none.",
+    "finding": "The viral clip does not faithfully represent the statement. His prediction of an opposition victory is separate from the question of whether the recording was manipulated.",
+    "limit": "This assessment relies on AFP’s published comparison. Original video playback was not independently completed in this rebuild.",
+    "sources": [
+      [
+        "AFP, video comparison, 26 May 2024",
+        "https://factcheck.afp.com/doc.afp.com.34RQ3MZ"
+      ]
+    ]
+  },
+  {
+    "id": "rafale-court-attribution",
+    "date": "2019-04-10",
+    "topic": "Courts",
+    "kind": "By Rahul Gandhi",
+    "verdict": "False",
+    "title": "What the Supreme Court did not say on Rafale",
+    "claim": "The Supreme Court had endorsed the accusation behind Rahul Gandhi’s “chowkidar chor hai” slogan.",
+    "summary": "The court did not make the finding attributed to it.",
+    "context": "The April 2019 decision concerned consideration of documents in the Rafale review proceedings. It did not endorse Gandhi’s accusation against Narendra Modi.",
+    "evidence": "Contemporaneous reporting of the November 2019 judgment records the court rejecting the attribution. It also records Gandhi’s unconditional apology and closure of the contempt proceedings with a caution.",
+    "finding": "False on the narrow question of what the court said. This does not decide every allegation about the Rafale purchase or establish that Gandhi knowingly lied.",
+    "limit": "This is a historical assessment of judicial attribution. The court-hosted PDF was inaccessible during this review; the finding relies on contemporaneous reporting of the judgment. A full recording of Gandhi’s remarks was not independently played.",
+    "sources": [
+      [
+        "NDTV, court outcome, 14 November 2019",
+        "https://www.ndtv.com/india-news/rahul-gandhi-let-off-in-contempt-case-over-rafale-case-remarks-supreme-court-says-needs-to-be-more-c-2132256"
+      ]
+    ]
+  },
+  {
+    "id": "potato-gold",
+    "date": "2017-11-12",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "The potato-to-gold clip, with its missing context",
+    "claim": "Rahul Gandhi promised a machine that turns potatoes into gold.",
+    "summary": "He was mocking a promise he attributed to Modi, rather than making his own policy pledge.",
+    "context": "The line comes from a November 2017 Gujarat campaign speech. Alt News reproduces the surrounding statement, including Gandhi’s attribution to Modi.",
+    "evidence": "That context changes the meaning of the clipped passage. Alt News also found no public record supporting Gandhi’s attribution to Modi. A later edited Modi video is not proof of an original promise.",
+    "finding": "Calling this Gandhi’s own promise is misleading. His claim that Modi made such a promise remains unsupported by the record reviewed.",
+    "limit": "This assessment uses Alt News’s contextual comparison. The full original recording was not independently played during this rebuild.",
+    "sources": [
+      [
+        "Alt News, context and edited counter-clip, 25 September 2020",
+        "https://www.altnews.in/fact-check-edited-video-is-being-shared-to-falsely-claim-that-aaloo-sona-machine-remarks-belongs-to-pm-modi/"
+      ]
+    ]
+  }
+]
