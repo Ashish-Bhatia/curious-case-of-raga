@@ -1,5 +1,53 @@
 [
   {
+    "id": "ec-official-duty-protection",
+    "date": "2025-12-09",
+    "topic": "Elections",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Does the 2023 law protect election commissioners?",
+    "claim": "The 2023 law gives election commissioners protection against legal proceedings for official-duty acts.",
+    "summary": "Section 16 provides a substantial protection, with an official-duty connection in its wording.",
+    "context": "Gandhi criticised the protection during the December 2025 electoral-reforms debate. This checks the existence of that provision, not the legality of his proposed retrospective response.",
+    "evidence": "Section 16 bars courts from entertaining or continuing civil or criminal proceedings against current or former CECs and ECs for acts, things or words while acting, or purporting to act, in official duty or function. The parliamentary bill text inspected here and Indian Express’s quotation of the enacted section agree. The wording contains no express good-faith qualifier.",
+    "finding": "Supported for the existence of official-duty protection. Describing it as unlimited immunity for everything a commissioner does would exceed the text.",
+    "limit": "This does not establish misconduct, rule out every form of judicial review, or determine how a court would apply the provision to particular facts. The enacted India Code PDF was not retrievable; no later court outcome is certified.",
+    "sources": [
+      [
+        "Rajya Sabha, bill as passed, section 16, PDF page 5",
+        "https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/CRC-CEC-E12132023113818AM.pdf?source=legislation"
+      ],
+      [
+        "Indian Express, speech attribution and enacted section 16, 10 December 2025",
+        "https://indianexpress.com/article/explained/explained-law/rahul-gandhi-election-commission-of-retrospective-action-controversial-2023-law-10413182/"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
+    "id": "rath-yatra-drama-context",
+    "date": "2025-07-11",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "What followed the Rath Yatra “drama” remark?",
+    "claim": "Gandhi called the Jagannath Rath Yatra itself a drama in a July 2025 speech.",
+    "summary": "The clipped video omits his explanation: he was alleging preferential treatment for the Adani family.",
+    "context": "AFP traced the excerpt to a longer News18 Odia recording of Gandhi’s 11 July 2025 Bhubaneswar rally.",
+    "evidence": "The excerpt appears around 32 seconds in that recording. AFP’s comparison restores the following words, in which Gandhi alleges that chariots were stopped for Adani and his family. That continuation explains what he was describing as drama.",
+    "finding": "Misleading when the excerpt is presented as an unqualified description of the religious festival. The omitted allegation is necessary context for interpreting his remark.",
+    "limit": "This relies on AFP’s published comparison; full original playback was not independently completed. It does not independently establish a deliberate delay, VIP favouritism, the truth of his allegation, or his personal religious intentions.",
+    "sources": [
+      [
+        "AFP, longer-speech comparison, 17 July 2025",
+        "https://factcheck.afp.com/doc.afp.com.66RH463"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
     "id": "article-15-5-private-education",
     "date": "2025-04-30",
     "topic": "Representation",
@@ -50,6 +98,32 @@
     ]
   },
   {
+    "id": "maharashtra-39-32-lakh",
+    "date": "2025-02-07",
+    "topic": "Elections",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Maharashtra’s voter growth: dates before conclusions",
+    "claim": "Maharashtra added about 39 lakh voters in five months in 2024, compared with about 32 lakh in the preceding five years.",
+    "summary": "Contemporaneous reports support the attribution and a roughly 39-lakh short-period increase. The complete two-period comparison was not reproduced.",
+    "context": "NDTV reported this comparison at Gandhi’s 7 February 2025 press conference. This is distinct from his earlier, larger numerical claim in Parliament.",
+    "evidence": "A December 2024 Times of India report says the Election Commission put additions since the Lok Sabha election at 39 lakh. That supports the broad short-period magnitude, but does not reproduce both of Gandhi’s periods from original dated rolls. Additions, deletions and net growth must be distinguished.",
+    "finding": "Unverified for the complete comparison in this review. The shorter-period figure has reported official corroboration; that is not equivalent to auditing the underlying rolls. An increase alone does not prove fraudulent registrations or a changed election result.",
+    "limit": "Needed: original electorate totals at consistent cut-off dates for all three endpoints, including the treatment of service voters, additions and deletions. No voter-level audit was completed. The separate adult-population comparison is outside this verdict.",
+    "sources": [
+      [
+        "NDTV, 7 February 2025 press conference",
+        "https://www.ndtv.com/india-news/voters-more-than-maharashtras-population-rahul-gandhi-slams-poll-body-7655585"
+      ],
+      [
+        "Times of India, reported ECI response, 4 December 2024",
+        "https://timesofindia.indiatimes.com/india/ec-replies-to-congress-concerns-on-maharashtra-voters-list-turnout/articleshow/115951049.cms"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
     "id": "manufacturing-share-2025",
     "date": "2025-02-03",
     "topic": "Economy",
@@ -74,6 +148,36 @@
     ],
     "batch": "2026-10-18-10",
     "reviewed": "2026-10-18"
+  },
+  {
+    "id": "ec-selection-cji",
+    "date": "2025-02-03",
+    "topic": "Elections",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "The CJI and the election-commissioner selection panel",
+    "claim": "The Chief Justice of India was excluded from the selection committee under the new election-commissioner appointment law.",
+    "summary": "The 2023 law uses a Cabinet minister in place of the CJI in the court’s interim arrangement.",
+    "context": "Congress’s extracts of Gandhi’s 3 February 2025 speech record his objection to the CJI’s exclusion. This checks the committee’s composition, not his allegation of a calculated political strategy.",
+    "evidence": "Section 7 names the Prime Minister, the Lok Sabha opposition leader and a Union Cabinet minister nominated by the Prime Minister. The reviewed parliamentary text is the bill passed by Rajya Sabha on 12 December 2023; Indian Express’s account of the enacted law corroborates that composition. The Supreme Court’s earlier arrangement included the CJI pending legislation.",
+    "finding": "Supported for the change in membership. The court’s arrangement was interim, not a permanent statutory entitlement subsequently taken away. Appointment remains formally by the President on the committee’s recommendation.",
+    "limit": "This historical check does not establish bias in an individual appointment or certify the outcome of subsequent constitutional litigation. The enacted India Code PDF could not be retrieved in this review.",
+    "sources": [
+      [
+        "Congress, extracts of 3 February 2025 speech",
+        "https://inc.in/congress-sandesh/national/be-truthful-to-what-you-are-for-giving-a-way-forward-to-the-nation"
+      ],
+      [
+        "Rajya Sabha, bill as passed, section 7, PDF page 2",
+        "https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/CRC-CEC-E12132023113818AM.pdf?source=legislation"
+      ],
+      [
+        "Indian Express, enacted-law explanation, 10 December 2025",
+        "https://indianexpress.com/article/explained/explained-law/rahul-gandhi-election-commission-of-retrospective-action-controversial-2023-law-10413182/"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
   },
   {
     "id": "reservation-georgetown-clip",
@@ -156,6 +260,28 @@
     }
   },
   {
+    "id": "thakur-question-edited-reaction",
+    "date": "2024-07-01",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "A constitution question with an inserted reaction",
+    "claim": "A parliamentary clip showed Gandhi unable to answer Anurag Thakur’s question about the Constitution.",
+    "summary": "The comparison shows Gandhi was absent when that passage was delivered.",
+    "context": "AFP traced the footage to Sansad TV’s recording of Thakur’s 1 July 2024 speech. The viral edit presents a reaction as if it occurred in response to the question.",
+    "evidence": "AFP locates the relevant remarks at 56:36 and a view of the opposition benches at 56:47, where Gandhi is not in his seat. Its account documents the opposition walkout and the manipulation of the circulating clip.",
+    "finding": "False as evidence that Gandhi was present and stumped by that question. A cutaway cannot establish a contemporaneous reaction when the original sequence shows his absence.",
+    "limit": "This relies on AFP’s published comparison; full original playback was not independently completed. It does not establish Gandhi’s knowledge of any constitutional provision.",
+    "sources": [
+      [
+        "AFP, Sansad TV sequence comparison, July 2024",
+        "https://factcheck.afp.com/doc.afp.com.363F42G"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
     "id": "election-edited-video",
     "date": "2024-05-10",
     "topic": "Elections",
@@ -174,6 +300,51 @@
         "https://factcheck.afp.com/doc.afp.com.34RQ3MZ"
       ]
     ]
+  },
+  {
+    "id": "red-book-indian-constitution",
+    "date": "2024-05-05",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The red book was an Indian Constitution edition",
+    "claim": "A rally photograph showed Rahul Gandhi displaying China’s constitution.",
+    "summary": "Other photographs identify the book as a pocket edition of the Constitution of India.",
+    "context": "AFP traced the photograph to a 5 May 2024 Telangana rally photo set posted by Revanth Reddy. The allegation relied in part on the red cover.",
+    "evidence": "AFP’s comparison shows another view with the Indian title and EBC publisher mark visible. It also records the publisher’s confirmation that the book was its Indian Constitution pocket edition.",
+    "finding": "False for the book in this photograph. Cover colour alone cannot identify the country whose constitution a book contains; different editions can have different covers.",
+    "limit": "This relies on AFP’s published image comparison and publisher inquiry. The physical book was not inspected independently. It does not assess either party’s wider constitutional claims.",
+    "sources": [
+      [
+        "AFP, photo comparison and publisher confirmation, 3 June 2024",
+        "https://factcheck.afp.com/doc.afp.com.34U47XB"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
+    "id": "april25-back-bjp-doctored",
+    "date": "2024-04-25",
+    "date_label": "Source dated",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The appeal to vote for BJP was doctored",
+    "claim": "Rahul Gandhi urged voters to support Narendra Modi and BJP instead of Congress in an April 2024 video.",
+    "summary": "The original appeal supported Congress. The circulating version reversed the message.",
+    "context": "AFP traced this recording to Gandhi’s official YouTube upload dated 25 April 2024. This check concerns that appeal, separately from the site’s other edited election-speech example.",
+    "evidence": "AFP’s side-by-side account shows the original blaming BJP and RSS for attacks on democracy while presenting Congress and INDIA as defenders. The original ends by asking voters to support Congress and its hand symbol; the doctored version substitutes a pro-Modi message.",
+    "finding": "False for this supposed endorsement. The edit changes both the parties being criticised and the party voters are asked to support.",
+    "limit": "This relies on AFP’s published comparison; complete original playback was not independently completed. Restoring the original appeal does not verify the political accusations or campaign promises within it.",
+    "sources": [
+      [
+        "AFP, original appeal and doctored version, 4 June 2024; updated 6 June",
+        "https://factcheck.afp.com/doc.afp.com.34U99T4"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
   },
   {
     "id": "loan-writeoffs-waivers",
@@ -247,6 +418,28 @@
     "reviewed": "2026-10-18"
   },
   {
+    "id": "22-wealth-70-crore",
+    "date": "2024-04-20",
+    "topic": "Economy",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "22 people and 70 crore citizens: an unreproduced comparison",
+    "claim": "Twenty-two wealthy Indians held as much wealth as 70 crore other Indians combined.",
+    "summary": "The statement is documented. A dated, reproducible calculation for this exact equality was not obtained.",
+    "context": "Mint reported the comparison from Gandhi’s 20 April 2024 Amroha rally. The report establishes attribution, rather than supplying the wealth calculation.",
+    "evidence": "The reviewed account does not identify all 22 people, a common valuation date, the precise population group on the other side, or a dataset and calculation reconciling their wealth. General evidence of high inequality does not establish this exact numerical equality.",
+    "finding": "Unverified for the specific 22-versus-70-crore comparison. Lack of a reproduced calculation is not proof that the comparison is false.",
+    "limit": "Needed: a defined wealth measure, named or consistently ranked holdings, treatment of liabilities and households, and compatible population estimates at one reference date. His separate allegations about bank money, GST and demonetisation are not assessed here.",
+    "sources": [
+      [
+        "Mint, Amroha rally statement, 20 April 2024",
+        "https://www.livemint.com/elections/22-persons-have-same-money-as-population-of-70-cr-rahul-gandhi-says-pm-modi-brings-demonetisation-gst-for-them/amp-11713615163718.html"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
     "id": "minorities-only-survey-clip",
     "date": "2024-04-06",
     "topic": "Viral clips",
@@ -271,6 +464,54 @@
     ],
     "batch": "2026-10-18-10",
     "reviewed": "2026-10-18"
+  },
+  {
+    "id": "youth-share-unemployed-83",
+    "date": "2024-03-27",
+    "topic": "Jobs",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "83% of the unemployed were young: the denominator matters",
+    "claim": "Young people accounted for about 83% of India’s unemployed population in the cited employment report.",
+    "summary": "The ILO–IHD report gives 82.9% for 2022. That is a share of the unemployed, not a youth unemployment rate.",
+    "context": "PTI’s 27 March 2024 report specifically attributes the 83% statement to Rahul Gandhi. The verdict applies only to this statistic, rather than every claim in that statement.",
+    "evidence": "India Employment Report 2024, printed page 90, figure 4.10, reports that youths made up 82.9% of unemployed persons in 2022 under usual principal and subsidiary status. The report uses ages 15–29 for youth. Rounding 82.9 to a whole percentage gives 83.",
+    "finding": "Supported with the original year and denominator retained. It does not mean 83 out of every 100 young Indians were unemployed. Low-paid people who are working must not automatically be added to the unemployed category.",
+    "limit": "This is a historical report-based statistic, not a 2026 estimate. Gandhi’s separate wording about 65% educated youth and Congress’s proposed remedies are outside this verdict.",
+    "sources": [
+      [
+        "PTI via Devdiscourse, Rahul Gandhi statement, 27 March 2024",
+        "https://www.devdiscourse.com/article/politics/2871014-bjp-means-unemployment-congress-means-employment-revolution-rahul"
+      ],
+      [
+        "ILO–IHD, India Employment Report 2024, printed page 90, figure 4.10 (PDF page 124)",
+        "https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
+  },
+  {
+    "id": "institutions-not-hindus-threat",
+    "date": "2024-03-15",
+    "topic": "Viral clips",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The warning concerned institutions, not Hindus",
+    "claim": "A video showed Gandhi threatening Hindus with action once the BJP government lost power.",
+    "summary": "The original passage was about alleged institutional misconduct in the electoral-bonds controversy.",
+    "context": "AFP traced the clip to a 15 March 2024 Maharashtra press conference, although it circulated with the Hindu-targeting claim in November.",
+    "evidence": "AFP identifies the preceding passage around 18:04: Gandhi names the Election Commission, CBI and ED and accuses them of serving BJP and RSS. Around 18:34 he warns of action after a change of government. The missing preceding words identify the target of that warning.",
+    "finding": "False as a description of a threat to Hindus in this recording. Replacing the institutional referent with a religious community materially changes the statement.",
+    "limit": "This relies on AFP’s contextual comparison; original full playback was not independently completed. It does not verify Gandhi’s accusations against institutions or decide whether his warning was appropriate.",
+    "sources": [
+      [
+        "AFP, press-conference context comparison, 25 November 2024",
+        "https://factcheck.afp.com/doc.afp.com.36MW8PH"
+      ]
+    ],
+    "batch": "2026-10-17-next10",
+    "reviewed": "2026-10-17"
   },
   {
     "id": "thirty-lakh-vacancies",

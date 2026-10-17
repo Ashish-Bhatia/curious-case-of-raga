@@ -6,7 +6,7 @@ A source-linked Rahul Gandhi fact-check website. Plain HTML, CSS and JavaScript,
 - index.html: complete readable articles, including sources and limitations
 - styles.css: responsive dark editorial design
 - app.js: navigation, search, topic filtering, chronological ordering and article links
-- data/checks.json: structured copy of the 18 published checks
+- data/checks.json: structured copy of the 28 published checks
 
 Update both the page and structured data together. Label paraphrases, distinguish interested sources from independent evidence, state verification gaps, and date substantive corrections within each article. Never infer intent from an inaccurate statement.
 
@@ -23,3 +23,6 @@ Added historical checks on loan write-offs versus waivers and the distinction be
 
 ## Ten-claim batch, 18 October 2026
 Added ten distinct checks: manufacturing share; India–Pakistan youth unemployment; OBC secretaries; the 2023 women’s reservation mechanism; Article 15(5); and five contextual video checks concerning apprenticeships, reservations, survey beneficiaries, arithmetic and the Wayanad office attack. Numerical gaps remain labelled unverified. Source-publication dates are distinguished where the event timestamp was not certified.
+
+## Next ten-claim batch, 17 October 2026 (UTC)
+Added checks on the election-commissioner selection panel, official-duty protection, youth share of unemployment, the 22-person wealth comparison, Maharashtra voter growth, and five separate contextual image/video claims. Exact wealth and two-period electoral-roll comparisons remain unverified. Legal findings concern the historical 2023 text, not subsequent litigation. Published video comparisons are credited and playback limitations stated. Existing design preserved.
