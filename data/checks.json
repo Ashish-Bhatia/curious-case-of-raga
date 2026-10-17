@@ -24,6 +24,59 @@
     ]
   },
   {
+    "id": "agniveer-exgratia-july2024",
+    "date": "2024-07-05",
+    "topic": "Defence",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Agniveer payments: insurance received, ex gratia pending",
+    "claim": "On 5 July 2024, Rahul Gandhi challenged the non-payment of ex-gratia benefits to Agniveer Ajay Kumar’s family, distinguishing them from insurance.",
+    "summary": "The narrow point about pending ex-gratia benefits is supported by the Army’s own statement. A claim of no money from any source would be wrong.",
+    "context": "The dispute developed across several statements. On 5 July, PTI reported Gandhi explicitly distinguishing insurance from compensation and asking why ex-gratia benefits had not been paid. This check assesses that specific point, rather than treating every statement during the dispute as identical.",
+    "evidence": "Akashvani’s 4 July account of the Army clarification says ₹98.39 lakh had been paid and approximately ₹67 lakh in ex-gratia and other benefits remained due, subject to final settlement and verification. In a direct Indian Express interview published on 5 July, the father acknowledged ₹98 lakh in insurance receipts and said central ex-gratia had not arrived. The report also records ₹1 crore from the Punjab government.",
+    "finding": "Supported for the narrow historical claim that central ex-gratia benefits were still pending at that stage. Insurance receipts do not prove that a separate ex-gratia payment was made. Conversely, the reported insurance and state payment mean money had already reached the family. Neither side’s wider wording should replace the payment-by-payment record.",
+    "limit": "No bank statements, settlement order or later payment confirmation were inspected. This finding describes the early July 2024 record and does not establish what remains unpaid today. The Army statement is accessed through Akashvani’s report; Gandhi’s wording through PTI. The family interview independently supports the distinction, not an audit of every amount.",
+    "sources": [
+      [
+        "PTI via Indian Express, Gandhi’s clarification, 5 July 2024",
+        "https://indianexpress.com/article/india/family-martyr-agniveer-ajay-kumar-received-compensation-govt-rahul-gandhi-9435569/"
+      ],
+      [
+        "Akashvani, Army clarification, 4 July 2024",
+        "https://newsonair.gov.in/indian-army-issues-clarification-on-emoluments-to-agniveer-ajay-kumar/"
+      ],
+      [
+        "Indian Express, direct interview with the father, 5 July 2024",
+        "https://indianexpress.com/article/cities/chandigarh/agniveer-deceased-ajay-singh-compensation-ludhiana-centre-9434032/"
+      ]
+    ],
+    "table": {
+      "caption": "Reported position in early July 2024. The pending ₹67 lakh includes several benefits, not ex gratia alone. Figures are attributed, not independently audited.",
+      "headers": [
+        "Payment category",
+        "Reported position"
+      ],
+      "rows": [
+        [
+          "Insurance",
+          "Family acknowledged ₹98 lakh received."
+        ],
+        [
+          "Army’s total already paid",
+          "₹98.39 lakh, according to its clarification. This overlaps the insurance receipts; do not add the two."
+        ],
+        [
+          "Ex-gratia and other benefits",
+          "Approximately ₹67 lakh still to be settled, according to the Army."
+        ],
+        [
+          "Punjab government assistance",
+          "₹1 crore received, according to the father’s interview. Separate from the central benefits."
+        ]
+      ]
+    }
+  },
+  {
     "id": "election-edited-video",
     "date": "2024-05-10",
     "topic": "Elections",
@@ -42,6 +95,51 @@
         "https://factcheck.afp.com/doc.afp.com.34RQ3MZ"
       ]
     ]
+  },
+  {
+    "id": "loan-writeoffs-waivers",
+    "date": "2024-04-24",
+    "topic": "Economy",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "Loan write-offs are not the same as loan waivers",
+    "claim": "Rahul Gandhi said Modi had waived ₹16 lakh crore of loans for his billionaire friends.",
+    "summary": "An aggregate bank write-off figure does not establish that borrowers’ debts were cancelled or identify who benefited.",
+    "context": "PTI reported Gandhi’s 24 April 2024 Hindi post as alleging ₹16 lakh crore in loan waivers for billionaire friends. The check concerns the distinction between write-offs and waivers, and what a banking total establishes. It does not certify an alternative total or a list of recipients.",
+    "evidence": "RBI’s 8 June 2023 framework defines a technical write-off as an accounting action that leaves the claim against the borrower and the right to recover intact. It separately defines a compromise settlement, which involves an agreed settlement and may involve giving up part of a claim. The regulator’s distinction was already in force when Gandhi made the statement.",
+    "finding": "Treating bank write-offs as proof of government loan forgiveness is misleading. Write-off data alone cannot establish ₹16 lakh crore of cancelled liabilities, a government order cancelling them, or that all recipients were billionaires. This does not show that every written-off loan was recovered or that banks suffered no losses. Low recoveries and the fairness of settlements remain valid questions requiring their own evidence.",
+    "limit": "The precise ₹16 lakh crore total, its period, the mix of write-offs and settlements, and the alleged beneficiaries were not independently reconstructed in this check. Some settlements do reduce a borrower’s liability. Do not assume every accounting write-off is a technical write-off without inspecting the underlying account. Attribution relies on PTI’s report; the original X post was not independently retrieved.",
+    "sources": [
+      [
+        "PTI via Business Standard, Gandhi’s post, 24 April 2024",
+        "https://www.business-standard.com/elections/lok-sabha-election/pm-waived-off-loans-worth-rs-16-trn-of-his-billionaire-friends-says-rahul-124042400237_1.html"
+      ],
+      [
+        "RBI, Framework for Compromise Settlements and Technical Write-offs, 8 June 2023, Annex paragraph 1",
+        "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513"
+      ]
+    ],
+    "table": {
+      "caption": "Different actions, different effects. An account-level record is needed to establish which occurred.",
+      "headers": [
+        "Action",
+        "Effect on the debt"
+      ],
+      "rows": [
+        [
+          "Technical write-off",
+          "Removed from the lender’s accounts for accounting purposes; borrower remains liable."
+        ],
+        [
+          "Compromise settlement",
+          "Negotiated settlement; lender may give up part of its claim."
+        ],
+        [
+          "Waiver",
+          "Lender gives up the relevant repayment claim. A write-off total alone does not establish this."
+        ]
+      ]
+    }
   },
   {
     "id": "thirty-lakh-vacancies",
