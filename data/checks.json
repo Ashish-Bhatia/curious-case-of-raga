@@ -45,6 +45,82 @@
     "updated": "2026-10-18"
   },
   {
+    "id": "bullock-race-bihar-rally",
+    "date": "2025-08-19",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "A bullock-race crowd labelled a Bihar rally",
+    "claim": "A huge crowd video shows a Rahul Gandhi rally in Bihar.",
+    "summary": "The identified earlier upload concerns a bullock-cart event in Maharashtra.",
+    "context": "A crowd clip was presented as evidence of attendance at Gandhi’s Bihar mobilisation in August 2025.",
+    "evidence": "AFP found a 28 June 2025 Instagram upload identifying a bullock-cart event at Pedgaon in Maharashtra. It compared venue features with mapping imagery. That earlier source contradicts the Bihar-rally caption.",
+    "finding": "False for this video’s claimed event and location. It is not evidence of the attendance at the alleged Gandhi rally.",
+    "limit": "The earlier upload date does not independently certify the exact day the race took place. This check does not estimate attendance at either event, and full original playback was not repeated here.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/doc.afp.com.69ZJ6T6"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The original upload appeared before the August 2025 political caption and identified a different kind of gathering in a different state. No pre-2014 Congress rally provides a valid attendance baseline for identifying this particular scene. Historical crowd comparisons would require separately authenticated dates, venues and counting methods. None of those can turn this Maharashtra footage into a Bihar event."
+      ],
+      "comparison": "The useful history is the clip’s publication sequence. It debunks the attribution while leaving the size of any genuine Bihar rally to separate evidence.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/doc.afp.com.69ZJ6T6"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Claim circulated"
+  },
+  {
+    "id": "lawyer-selfie-judge",
+    "date": "2025-07-15",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "The man in the selfie was a lawyer, not the judge",
+    "claim": "A photograph shows the judge who granted Gandhi bail taking a selfie with him.",
+    "summary": "AFP identified the man as lawyer Syed Mahmood Hasan, not magistrate Alok Verma.",
+    "context": "The image circulated around Gandhi’s July 2025 court appearance with an allegation about the judicial officer.",
+    "evidence": "AFP compared official photographs, checked the lawyer’s professional identity and interviewed Hasan. Its investigation identifies the person beside Gandhi as the lawyer and distinguishes him from the named magistrate.",
+    "finding": "False for the identity claim attached to this photograph. The image does not substantiate the alleged selfie with the judge.",
+    "limit": "This finding concerns identification in the photograph. It does not assess the merits or eventual outcome of the underlying case, and it does not establish every interaction Gandhi may have had.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/doc.afp.com.67FX2G3"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The July 2025 caption tied a photograph to a particular court proceeding, so the relevant historical record consists of the image’s provenance and the identities of those present. Congress’s pre-2014 legal or judicial record cannot establish who appears in this later photograph. Allegations about a specific officer require evidence identifying that officer, rather than a general argument about political influence."
+      ],
+      "comparison": "The documented identity comparison answers the photo claim. A broader historical argument about courts would need independent records and cannot substitute for that identification.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/doc.afp.com.67FX2G3"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Claim circulated"
+  },
+  {
     "id": "rath-yatra-drama-context",
     "date": "2025-07-11",
     "topic": "Viral clips",
@@ -79,6 +155,44 @@
       ]
     },
     "updated": "2026-10-18"
+  },
+  {
+    "id": "altered-photos-jyoti-malhotra",
+    "date": "2025-05-21",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "Two altered photographs used to imply a meeting",
+    "claim": "Two photographs show Gandhi posing with YouTuber Jyoti Malhotra, arrested in an espionage case.",
+    "summary": "AFP traced both scenes to earlier photographs with other people and found face replacements.",
+    "context": "The images circulated after Malhotra’s arrest in May 2025. Arrest allegations are not treated here as a finding of guilt.",
+    "evidence": "AFP identified one original photograph posted by Aditi Singh on 16 December 2017 and another posted by Gandhi on 18 September 2022 showing a different person. The circulating versions replace the women’s faces with Malhotra’s.",
+    "finding": "False for these two photographs as evidence of the alleged meetings. The originals contradict their claimed identification.",
+    "limit": "This does not establish whether Gandhi and Malhotra ever met on another occasion, or determine her case’s outcome. The review relies on AFP’s published source-image comparison.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/doc.afp.com.47UK9T2"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The source photographs date to 2017 and 2022, both after the pre-2014 period the site examines for policy comparisons. Their earlier publication matters because it reveals who appeared before the face replacements. Congress-era security policy cannot authenticate these altered portraits. Even an authentic photograph would need separate evidence before it could support an allegation of knowledge of, or involvement in, another person’s alleged activities."
+      ],
+      "comparison": "The chronology supports an image-manipulation finding, with no conclusion about criminal guilt or every possible prior association.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/doc.afp.com.47UK9T2"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Claim circulated"
   },
   {
     "id": "article-15-5-private-education",
@@ -582,6 +696,44 @@
       ]
     },
     "updated": "2026-10-18"
+  },
+  {
+    "id": "pakistan-temple-shop-wayanad",
+    "date": "2024-04-30",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "A Pakistan shop recast as a Wayanad temple",
+    "claim": "Rahul Gandhi inaugurated a chicken shop in a Hindu temple in Wayanad.",
+    "summary": "The circulated footage shows a location in Pakistan, not an inauguration in Wayanad.",
+    "context": "The video circulated during the 2024 election campaign with an Indian location and Gandhi connection added to its caption.",
+    "evidence": "AFP traced the footage to an August 2023 upload about a shop in front of the defunct Seeta Ram temple in Ahmadpur Sial, Punjab, Pakistan. It compared location features and obtained corroboration from a Pakistani Hindu activist.",
+    "finding": "False for the location and Gandhi-inauguration claim. The identified source does not show the alleged Wayanad event.",
+    "limit": "This entry relies on AFP’s documented tracing and comparison; full original-video playback was not independently repeated here. It does not audit the building’s complete ownership or legal history.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/doc.afp.com.34RL6VM"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The source footage predates the 2024 Indian election claim. AFP’s interviewee placed the building in the wider history of temples left without congregations after Partition in 1947. That is attributed background, not a complete archival history of this particular property. A claim about a Pakistan building cannot be established by citing the record of a Congress government in India before 2014."
+      ],
+      "comparison": "The decisive historical comparison is between the earlier Pakistan upload and the later Wayanad caption. It identifies a miscaptioned location rather than a change in Indian temple policy.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/doc.afp.com.34RL6VM"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Claim circulated"
   },
   {
     "id": "april25-back-bjp-doctored",
@@ -1129,6 +1281,205 @@
     "updated": "2026-10-18"
   },
   {
+    "id": "mgnrega-budget-2023-cut",
+    "date": "2023-02-17",
+    "topic": "Employment",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "The MGNREGA allocation cut in Budget 2023",
+    "claim": "The government reduced the MGNREGA budget allocation for 2023–24.",
+    "summary": "The initial allocation fell. The percentage depends on whether the comparison uses the previous original or revised estimate.",
+    "context": "The ministry’s February 2023 rebuttal identifies a Gandhi Facebook post criticising the budget reduction. This checks the allocation, rather than every allegation in that dispute.",
+    "evidence": "Budget 2023–24 set MGNREGA at ₹60,000 crore. The previous year’s original estimate was ₹73,000 crore and its revised estimate ₹89,400 crore. The reductions are therefore about 17.8% and 32.9%, respectively. Later budget documents revised the 2023–24 allocation upward to ₹86,000 crore.",
+    "finding": "Supported for the initial budget reduction. A claim about a roughly one-third cut needs to identify the revised-estimate baseline. The initial allocation is not the final annual expenditure.",
+    "limit": "A demand-driven scheme can receive supplementary funding. That mechanism neither guarantees that every request is met promptly nor proves that actual annual spending fell by the initial percentage.",
+    "sources": [
+      [
+        "Rural Development Ministry: response to Gandhi’s February 2023 post",
+        "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1900374&lang=2&reg=3"
+      ],
+      [
+        "Union Budget 2023–24: major schemes, MGNREGA row",
+        "https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag7.pdf"
+      ],
+      [
+        "Union Budget 2024–25: Rural Development demand, revised allocation",
+        "https://www.indiabudget.gov.in/budget2024-25/doc/eb/sbe87.pdf"
+      ]
+    ],
+    "history": {
+      "scope": "Before 2014: compare the same budget stage and account for prices.",
+      "before_2014": [
+        "The UPA’s 2013–14 Budget at a Glance allocated ₹33,000 crore to MGNREGA. This is one specific original-budget baseline, not a claim that no earlier UPA budget was higher. Comparing that nominal figure with a budget ten years later requires inflation, wage rates, work demand and final expenditure to assess purchasing power or adequacy. The existence of a later nominally larger allocation does not disprove a year-on-year cut."
+      ],
+      "comparison": "Both statements can be true: the NDA’s initial 2023–24 allocation exceeded the UPA’s 2013–14 nominal allocation and was lower than the preceding NDA year’s allocation. The immediate claim concerns the latter comparison.",
+      "sources": [
+        [
+          "Union Budget 2013–14: major schemes, MGNREGA row",
+          "https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/bag/bag5.pdf"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "table": {
+      "caption": "MGNREGA allocations, ₹ crore; estimates are not final expenditure",
+      "headers": [
+        "Financial year",
+        "Estimate stage",
+        "Allocation"
+      ],
+      "rows": [
+        [
+          "2022–23",
+          "Budget estimate",
+          "73,000"
+        ],
+        [
+          "2022–23",
+          "Revised estimate",
+          "89,400"
+        ],
+        [
+          "2023–24",
+          "Budget estimate",
+          "60,000"
+        ],
+        [
+          "2023–24",
+          "Later revised estimate",
+          "86,000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "concert-audio-replaced",
+    "date": "2022-12-16",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "An explicit soundtrack added to a Jaipur concert",
+    "claim": "Rahul Gandhi watched a performer sing the explicit song heard in a viral concert clip.",
+    "summary": "The event was real, but AFP found that the circulated soundtrack had been replaced.",
+    "context": "The scene came from the concert marking 100 days of the Bharat Jodo Yatra at Jaipur’s Albert Hall in December 2022.",
+    "evidence": "AFP compared the viral clip with longer event footage. It identified Sunidhi Chauhan performing Right Here Right Now, from the 2005 film Bluffmaster, in the original scene. The circulated version substituted an explicit Bhojpuri song.",
+    "finding": "False for the song attributed to that performance. The genuine presence of Gandhi at the concert does not authenticate the replacement audio.",
+    "limit": "The assessment follows AFP’s original-source comparison. Full concert playback and independent audio forensics were not repeated here. No song lyrics are reproduced.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/doc.afp.com.336X3DX"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The original performance took place on 16 December 2022, before the manipulated version was checked in January 2023. The identified original song’s 2005 release is cultural provenance, not evidence about a government’s conduct. A Congress-era policy comparison before 2014 would not determine what was sung at this later concert. The relevant comparison keeps the same event and checks its original soundtrack."
+      ],
+      "comparison": "Historical context identifies the concert and source music. The verdict concerns the substituted audio, without inferring wrongdoing from attendance at the genuine event.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/doc.afp.com.336X3DX"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Source dated"
+  },
+  {
+    "id": "rail-senior-concessions",
+    "date": "2022-07-22",
+    "topic": "Public services",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Supported",
+    "title": "Senior rail concessions were withdrawn",
+    "claim": "Senior citizens had lost their railway fare concession under the Modi government.",
+    "summary": "The withdrawal is documented. This check concerns the concession, not the other spending comparisons in the same post.",
+    "context": "Gandhi criticised the absence of senior concessions in July 2022. The relevant policy change began during the pandemic in March 2020.",
+    "evidence": "The Railway Ministry announcement withdrew concessions from 20 March 2020 until further advisory, retaining specified exceptions for patients, students and persons with disabilities. Senior concessions were among those withdrawn. PTI reported Gandhi’s July 2022 criticism of their continued absence.",
+    "finding": "Supported for the withdrawal of the senior-citizen concession. The policy’s stated pandemic rationale does not change the fact that the discount was removed.",
+    "limit": "The figures for advertising, aircraft and corporate tax relief in the accompanying political comparison are outside this check. This entry does not establish the policy’s status in October 2026.",
+    "sources": [
+      [
+        "PTI / NDTV: Gandhi’s criticism, 22 July 2022",
+        "https://www.ndtv.com/india-news/rahul-gandhi-slams-centre-over-no-concession-on-rail-tickets-to-elderly-3184271"
+      ],
+      [
+        "Railways: concession withdrawal effective 20 March 2020",
+        "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1607179&lang=2&reg=48"
+      ]
+    ],
+    "history": {
+      "scope": "Before 2014: the UPA expanded an existing concession.",
+      "before_2014": [
+        "In May 2011, the UPA Railway Ministry announced that men aged 60 and above would receive a 40% concession instead of 30%. For women, it reduced the qualifying age from 60 to 58 while retaining the 50% concession. These changes took effect on 1 June 2011. The announcement describes an enhancement, so the UPA should not be credited here with creating the entire senior-concession system."
+      ],
+      "comparison": "The documented comparison is an expansion under the UPA in 2011 and withdrawal under the NDA in 2020. It does not by itself establish the fiscal cost or the merits of every possible restoration model.",
+      "sources": [
+        [
+          "Railways: enhanced senior concessions, 25 May 2011",
+          "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=72303"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included."
+  },
+  {
+    "id": "gst-milk-curd-butter-2022",
+    "date": "2022-07-19",
+    "topic": "Taxation",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "Were packaged milk, curd and butter all taxed at 5%?",
+    "claim": "Packaged milk, curd and butter would now attract 5% GST.",
+    "summary": "The July 2022 rules did not put all these products in a single 5% bracket.",
+    "context": "PTI reported a broader food-tax list in Gandhi’s Facebook post. This check isolates its milk, curd and butter examples under the July 2022 rules.",
+    "evidence": "A 25 July 2022 parliamentary answer says fresh and pasteurised milk were fully exempt. UHT milk attracted 5%. Pre-packaged and labelled curd attracted 5%, while unpackaged curd was exempt. Butter attracted 12%. The ministry’s food FAQ also explains that some branded packaged foods already attracted tax before the labelling-rule change.",
+    "finding": "Misleading as a blanket 5% description. It combines exempt goods and goods with different rates, and obscures the distinction between packaging and the relevant product category.",
+    "limit": "This is a historical July 2022 rate check. It does not claim these are the rates in October 2026, or decide every other food item in the original list.",
+    "sources": [
+      [
+        "PTI / New Indian Express: Gandhi’s food-tax post, 19 July 2022",
+        "https://www.newindianexpress.com/nation/2022/jul/19/running-away-from-discussion-in-parliament-on-price-rise-gst-hike-unparliamentary-rahul-2478280.html"
+      ],
+      [
+        "Lok Sabha answer, 25 July 2022: milk and dairy GST rates",
+        "https://sansad.in/getFile/loksabhaquestions/annex/179/AS111.pdf?source=pqals"
+      ],
+      [
+        "Finance Ministry: pre-packaged and labelled food FAQ, 18 July 2022",
+        "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1842250&lang=2&reg=3"
+      ]
+    ],
+    "history": {
+      "scope": "Before 2014: GST was proposed under the UPA but implemented later.",
+      "before_2014": [
+        "The GST Council’s historical account traces the Union proposal to 2006. The UPA introduced the 115th Constitutional Amendment Bill in 2011, but it lapsed with the dissolution of the Lok Sabha in May 2014. The constitutional amendment was enacted under the NDA in 2016 and GST launched in 2017. Pre-GST India still had indirect taxes; the absence of GST is not proof that all food was tax-free."
+      ],
+      "comparison": "The UPA helped develop the proposed framework, while the July 2022 classifications belong to the later GST system. This review has not reconstructed every state’s pre-2014 VAT treatment of each dairy product.",
+      "sources": [
+        [
+          "GST Council: The GST Saga, legislative history",
+          "https://gstcouncil.gov.in/sites/default/files/2024-02/the-gst-saga.pdf"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included."
+  },
+  {
     "id": "udaipur-wayanad-children",
     "date": "2022-07-01",
     "topic": "Viral clips",
@@ -1285,6 +1636,82 @@
     }
   },
   {
+    "id": "assam-unemployment-clarification",
+    "date": "2021-03-19",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "Misleading",
+    "title": "An Assam answer with its clarification removed",
+    "claim": "An Assam participant rejected Gandhi’s suggestion that unemployment had increased.",
+    "summary": "The short clip removes the participant’s subsequent clarification after translation.",
+    "context": "The exchange took place at a student interaction in Lahowal, Dibrugarh, on 19 March 2021.",
+    "evidence": "AFP compared the excerpt around 20:13–20:25 with the longer recording. The participant initially misunderstood the question. After clarification through translation, he said unemployment had increased. The viral excerpt leaves out that correction.",
+    "finding": "Misleading. The initial response occurred, but omitting the clarification changes the meaning of the exchange.",
+    "limit": "A participant’s answer is not a statistical measurement of Assam unemployment. This review relies on AFP’s longer-video comparison rather than independently repeating full playback.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://factcheck.afp.com/misleading-social-media-posts-share-deceptively-edited-video-indian-opposition-politician-rahul"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The source is a specific March 2021 conversation, not a survey of employment under successive governments. A meaningful comparison with Congress rule before 2014 would need Assam figures measured over comparable periods using the same age coverage and unemployment definition. This entry has not reconstructed that state series. The absence of such a comparison does not justify deleting the speaker’s clarification from the recorded exchange."
+      ],
+      "comparison": "The original recording resolves what the participant answered. It leaves the separate question of Assam’s long-term employment performance open to properly matched statistical evidence.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://factcheck.afp.com/misleading-social-media-posts-share-deceptively-edited-video-indian-opposition-politician-rahul"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Source dated"
+  },
+  {
+    "id": "eagles-unemployment-splice",
+    "date": "2020-02-05",
+    "topic": "Edited media",
+    "kind": "About Rahul Gandhi",
+    "verdict": "False",
+    "title": "Did Gandhi complain about unemployed eagles?",
+    "claim": "Rahul Gandhi blamed the prime minister for unemployment among eagles.",
+    "summary": "The viral sequence splices remarks about people’s jobs with a separate example involving birds and garbage.",
+    "context": "Newschecker compared the viral edit with the longer February 2020 speech at Kondli in Delhi.",
+    "evidence": "Its comparison places communal-climate remarks around 2:30, youth unemployment around 3:49, and the eagles-and-garbage passage around 10:07. Joining these passages makes a different statement from the one in the longer speech.",
+    "finding": "False as a representation of what Gandhi said. The edited sequence does not substantiate the attributed claim about eagles needing employment.",
+    "limit": "This assessment relies on Newschecker’s timestamped comparison. Full original playback was not independently repeated here. It does not verify the separate labour-market assertions made during the speech.",
+    "sources": [
+      [
+        "Published fact-check and original-source comparison",
+        "https://newschecker.in/fact-check/rahul-gandhi-blamed-prime-minister-for-unemployment-among-eagles-viral-video-is-edited"
+      ]
+    ],
+    "history": {
+      "scope": "Historical context: establish the original event before making a political comparison.",
+      "before_2014": [
+        "The relevant historical document is the longer 5 February 2020 speech, whose passages precede their recombination into a viral joke. Gandhi’s record or Congress employment policy before 2014 cannot authenticate the joined sentence. A historical assessment of human unemployment would require a specified survey, age group and employment measure, rather than treating a manipulated bird reference as an economic statistic."
+      ],
+      "comparison": "The comparison restores the sequence of the original remarks. It neither endorses the speech’s other arguments nor supplies evidence about employment under the UPA.",
+      "sources": [
+        [
+          "Published fact-check and original-source comparison",
+          "https://newschecker.in/fact-check/rahul-gandhi-blamed-prime-minister-for-unemployment-among-eagles-viral-video-is-edited"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Source dated"
+  },
+  {
     "id": "rafale-court-attribution",
     "date": "2019-04-10",
     "topic": "Courts",
@@ -1318,6 +1745,51 @@
       ]
     },
     "updated": "2026-10-18"
+  },
+  {
+    "id": "unemployment-45-year-ranking",
+    "date": "2019-01-31",
+    "topic": "Employment",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Unemployment and the 45-year-high claim",
+    "claim": "India’s unemployment rate had reached its highest level in 45 years.",
+    "summary": "The official 2017–18 rate of 6.1% is confirmed. This review has not independently established the full 45-year ranking.",
+    "context": "The January 2019 claim followed reporting on the then-unreleased PLFS. The government subsequently published the survey in May 2019.",
+    "evidence": "MoSPI reported an all-ages unemployment rate of 6.1% under usual status, principal plus subsidiary activity, for 2017–18. This verifies that number. Establishing the historical superlative additionally requires a consistent series and treatment of the shift from the older Employment–Unemployment Surveys to PLFS. Officials raised survey-design comparability objections when releasing the figures.",
+    "finding": "Unverified specifically for the complete 45-year ranking in this review. The confirmed 6.1% figure should not be treated as fabricated, and a methodological objection alone does not prove the historical claim false.",
+    "limit": "The entire 1972–73 onward series has not been harmonised here. This is a limitation of this review, not evidence that another historical rate was higher.",
+    "sources": [
+      [
+        "Scroll: Gandhi’s 45-year-high claim, 31 January 2019",
+        "https://scroll.in/latest/911533/scroll_in"
+      ],
+      [
+        "MoSPI: PLFS 2017–18 release, 31 May 2019",
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1572971&lang=2&reg=48"
+      ],
+      [
+        "NDTV: official rate and comparability objection",
+        "https://www.ndtv.com/india-news/india-unemployment-rate-at-6-1-in-2017-18-government-2046094"
+      ]
+    ],
+    "history": {
+      "scope": "Before 2014: the UPA-era NSS baseline used a different survey programme.",
+      "before_2014": [
+        "NSS Table 7 for 2011–12 reports an all-India, all-ages usual-status unemployment rate of 22 per 1,000 in the labour force, equivalent to 2.2%. It also reports different rates under principal status, weekly status and daily status. Choosing among these measures changes the comparison. The 2017–18 figure belongs to PLFS, so the change of survey design must accompany any comparison with the UPA-era observation."
+      ],
+      "comparison": "The historical baseline shows that unemployment was measured before 2014 and that the cited usual-status rate was lower. It does not, without a harmonised series, independently settle a 45-year superlative.",
+      "sources": [
+        [
+          "NSS: Employment and Unemployment 2011–12, Table 7, printed page 26",
+          "https://www.mospi.gov.in/sites/default/files/publication_reports/KI-68th-E%26U-PDF.pdf"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included."
   },
   {
     "id": "upa-farm-waiver-70000",
@@ -1392,6 +1864,48 @@
         ]
       ]
     }
+  },
+  {
+    "id": "nano-33000-crore",
+    "date": "2017-11-30",
+    "topic": "Industry",
+    "kind": "By Rahul Gandhi",
+    "verdict": "Unverified",
+    "title": "Was ₹33,000 crore given away for the Nano?",
+    "claim": "Narendra Modi gave Tata ₹33,000 crore for the Nano project.",
+    "summary": "The precise total is not established here. A repayable loan cannot automatically be counted as an outright gift.",
+    "context": "Gandhi used the Nano package in his 2017 Gujarat campaign. Contemporary reporting records Tata Motors disputing the description of the assistance.",
+    "evidence": "Indian Express reported Tata’s statement that it had received a ₹584.8 crore loan from taxes paid by the Sanand plant, repayable under its agreement. That company response addresses a particular assistance component. It is not an independent valuation of land, infrastructure, tax treatment and all other possible benefits.",
+    "finding": "Unverified for the ₹33,000 crore total and its presentation as money given away. The evidence inspected does not supply a complete audited package calculation.",
+    "limit": "Tata is an interested party. Its rebuttal alone neither audits every benefit nor proves that the project received no subsidy. A concessional loan can contain a subsidy without its entire principal being a grant.",
+    "sources": [
+      [
+        "Indian Express: Tata’s response to the ₹33,000 crore allegation",
+        "https://indianexpress.com/article/india/after-rahul-gandhis-barb-tata-says-were-given-loan-not-grant-4962615/"
+      ]
+    ],
+    "history": {
+      "scope": "Before 2014: a Gujarat state project during a UPA Union government.",
+      "before_2014": [
+        "Tata announced the relocation of its Nano plant to Sanand in Gujarat in October 2008. Gujarat was governed by the BJP under Narendra Modi, while the Congress-led UPA governed at the Centre. The two governments must not be conflated. Evaluating a state incentive package requires its agreements and actual disbursements, rather than assigning every pre-2014 decision to Congress because it held Union office."
+      ],
+      "comparison": "The historical issue is the state package’s terms and economic value. A full comparison would distinguish loan principal, repayment, interest subsidy and other concessions. This check has not reconstructed that complete valuation.",
+      "sources": [
+        [
+          "Indian Express: Tata’s response to the ₹33,000 crore allegation",
+          "https://indianexpress.com/article/india/after-rahul-gandhis-barb-tata-says-were-given-loan-not-grant-4962615/"
+        ],
+        [
+          "Tata Motors: Gujarat plant announcement, 7 October 2008",
+          "https://www.tatamotors.com/press-releases/tata-motors-new-plant-for-nano-to-come-up-in-gujarat/"
+        ]
+      ]
+    },
+    "reviewed": "18 October 2026 (IST)",
+    "updated": "2026-10-18",
+    "batch": "2026-10-18-twelve",
+    "review_note": "Reviewed 18 October 2026 (IST). Initial publication. Historical context included.",
+    "date_label": "Reported"
   },
   {
     "id": "potato-gold",

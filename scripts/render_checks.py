@@ -47,6 +47,7 @@ def render(case, number):
         review += 'No verdict change in this update.' if case.get('batch') != '2026-10-18-history10' else 'Initial publication.'
     else:
         review += 'Correction recorded above.'
+    review = case.get('review_note', review)
     label = (case.get('date_label', '') + ' ' + case['date']).strip()
     return (
         f'<article id="{e(case["id"])}" data-topic="{e(case["topic"])}" data-date="{case["date"]}">'
